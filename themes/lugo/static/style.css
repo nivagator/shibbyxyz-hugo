@@ -25,6 +25,33 @@ a {
 	text-decoration: none;
   }
 
+  pre,
+  code,
+  kbd,
+  samp {
+	  font-family: monospace;
+	  font-size: 0.9em;
+  }
+  
+  code {
+	  white-space: pre;
+	  white-space: pre-wrap;
+	  word-wrap: break-word;
+	  background: var(--bg_grey);
+	  color: var(--fg);
+	  padding: 2px;
+	  border-radius: 3px;
+  }
+  pre > code {
+	  display: block;
+	  padding: 10px 15px;
+	font-size: 1.2em;
+  }
+  code > strong::before {
+	content:"$ ";
+	font-weight: lighter;
+	opacity: .5;
+  }
 main {
 	max-width: 800px ;
 	margin: auto ;
