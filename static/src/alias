@@ -1,0 +1,3 @@
+# blog control
+alias generate='rm -f dst/.files && ssg6 src dst "shibby.xyz" "https://shibby.xyz"'
+alias deploy='rsync --rsync-path "sudo -u www-data rsync" -avP --delete /home/gavin/dev/shibby.xyz/dst/ remote:/path/to/dir/'
