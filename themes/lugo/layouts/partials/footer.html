@@ -1,12 +1,13 @@
 {{ if (not (isset .Params "liexclude")) | or (eq .Params.liexclude false) }}
 {{ partial "nextprev.html" . -}}
-{{ end }}
 {{ partial "taglist.html" . -}}
+{{ end }}
 </article>
 </main>
 <footer>
-	<a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a><br><br>
-	<a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+	<a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a> 
+	<br>
+	© 2022 gavin greer | made with <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">hugo</a> and modified <a href="https://github.com/LukeSmithxyz/lugo" target="_blank" rel="noopener noreferrer">lugo</a> | <a href="mailto:sayhi@shibby.xyz">say hi</a> | <a href="/index.xml">rss</a>
 </footer>
 </body>
 </html>

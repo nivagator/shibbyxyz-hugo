@@ -3,7 +3,7 @@ html {
 	font-family: monospace;
   }
   
-  :root {
+:root {
 	--bg: #000;
 	  --fg: #F0F7EE;
 	  --link: #258EA6;
@@ -11,8 +11,17 @@ html {
 	  --link_h: #258EA6;
 	  --bg_grey: #333;
 	  --dark_grey: #333;
-  }
-  
+}
+
+/* sticky footer */
+/* https://css-tricks.com/a-clever-sticky-footer-technique/ */
+html, body { height: 100%;}
+
+body > footer {
+	position: sticky;
+	top: 100vh;
+}
+
 
 body {
 	/* font-style: sans-serif ; */
@@ -132,6 +141,8 @@ header h1 {
 footer {
 	text-align: center ;
 	clear: both ;
+	width: 100%;
+	padding: 15px;
 }
 
 /* For TAGLIST.HTML */
