@@ -5,6 +5,5 @@ date: 2022-07-18T09:31:19-05:00
 
 this is the home of shibby.xyz. 🤙
 
-this nonsense site will be a testing ground for linx/html/css/dev stuff I’m learning. i’ll also write articles mainly for my own benefit to refer to later.
+this site has become more than originally intended. what started as a place to catalog random linux/html/css/dev stuff I’m learning and a testing ground has expanded into a very laid back place to write about anything. i've included jeep stuff, recipes, etc. etc., really anything I want to keep record of and make accessible. 
 
-Shibby: A positive modern multipurpose slang word used increasingly to replace other words. adj. 1: positive, pleasing or successful; “That was a shibby concert” [syn: nice] 2: one word positive response; TERRY: “Want to go with me to the Tori Amos concert tonight?” ERIC: “Shibby!”
