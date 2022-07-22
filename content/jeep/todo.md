@@ -15,7 +15,7 @@ date: 2022-07-18T09:51:13-05:00
 - [axle ujoints](#axle-ujoints)
 - [ball joints](#ball-joints)
 - rms
-- timing chain
+- [timing chain](#timing-chain)
 - [unit bearings/hubs](#unit-bearingshubs)
 - blend door fix
 - shorten exhaust hanger 
@@ -25,7 +25,7 @@ date: 2022-07-18T09:51:13-05:00
 - install front diff lube locker
 - service front diff
 - [front brakes](#front-brakes)
-- flush brake fluid
+- [flush brake fluid](#flush-brake-fluid)
 - [locker switches wiring](#locker-switches-wiring)
 - [adjust steering stops](#steering-stop-adjustment)
 - [replace clutch](#clutch)
@@ -64,6 +64,7 @@ date: 2022-07-18T09:51:13-05:00
 - regear
 - paint front frame suspension mounts
 - new starter
+- [aim headlights](#aim-headlights)
 
 ---
 
@@ -128,6 +129,15 @@ date: 2022-07-18T09:51:13-05:00
 [HF: Three Jaw Bearing Puller](https://www.harborfreight.com/3-jaw-pilot-bearing-puller-4876.html)   
 [Amazon: E12 socket](https://www.amazon.com/dp/B007QV1AZ0)  
 [Amazon: Luk clutch kit](https://www.amazon.com/gp/product/B000CICYZ4)   
+[Timken 614093 Clutch Release Bearing](https://www.amazon.com/dp/B000BZ6XV4/?tag=wranglerorg-20)  
+[National 614093 Clutch Release Bearing Assembly](https://www.amazon.com/dp/B000BZIQ4Q/?tag=wranglerorg-20)  
+
+[WTJF: NV3550 throwout bearing and clutch replacement advice](https://wranglertjforum.com/threads/nv3550-throwout-bearing-and-clutch-replacement-advice.34703/)  
+[WTJF: Clutch recommendations and tips?](https://wranglertjforum.com/threads/clutch-recommendations-and-tips.21262/)
+
+This is a bolt-in job, there's not much to it. Just know that there's usually no reason to have to replace the flywheel unless it is physically damaged. Also, don't have the surface of the flywheel resurfaced or refinished. The TJ's flywheel has a domed surface that would be removed if it was resurfaced. At the most, if it has any glazing on its surface, just remove it with a mild grade of sandpaper or emery cloth.
+
+About the only thing not included in that kit that I'd recommend would be a different throwout bearing than what is included. 
 
 ## rain cover
 [Rain Gear Trail Cover](https://www.raingearcovers.com/product-page/wrangler-tj-1997-2006-trail-cover)  
@@ -196,3 +206,27 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 
 ## oil pan and gasket
 [youtube](https://www.youtube.com/watch?v=Xrj8oIPYSOQ)  
+
+## aim headlights 
+[Daniel Stern aim headlights](https://www.danielsternlighting.com/tech/aim/aim.html)  
+[WTJF: How to aim and align your headlights](https://wranglertjforum.com/threads/how-to-aim-and-align-your-headlights.2218/)
+
+## flush brake fluid
+[WTJF: School me on flushing brake fluid](https://wranglertjforum.com/threads/school-me-on-flushing-brake-fluid.24241/)  
+[WTJF: Questions about flushing brake fluid](https://wranglertjforum.com/threads/questions-about-flushing-brake-fluid.18804/)  
+[WTJF: Brake Fluid Change](https://wranglertjforum.com/threads/brake-fluid-change.21283/)  
+[WTJF: Blaine - Doing a brake job? MUST READ!](https://wranglertjforum.com/threads/doing-a-brake-job-must-read.2247/)  
+[How to bleed your brakes](https://wranglertjforum.com/threads/how-to-bleed-your-brakes.528/)
+
+Two quarts of DOT 3/4 is what you need. Start by using a turkey baster to suck the old dirty fluid out of the brake reservoir.
+
+On a system that's never been bled before you may find yourself running 64oz+ through it to get clean fluid. You can do this initial bleed to get clean fluid one person, once it's clean you're going to need a second person to help. If you don't, air can get past the bleeder threads. Don't let the MC run dry.
+
+Don't store open brake fluid, once you open a container it needs to be used.
+
+If you need more than 5-7 bleeds per corner, stop and find the problem because flushing more fluid down the drain isn't going to fix the problem.
+
+Open screw, pedal to the floor hard and fast, close screw, let pedal up, repeat.
+
+## timing chain
+[WTJF: Do I need a new timing chain?](https://wranglertjforum.com/threads/do-i-need-a-new-timing-chain.63185/)
