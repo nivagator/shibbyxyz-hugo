@@ -74,3 +74,5 @@ alias deploy='rsync --rsync-path "sudo -u gavin rsync" -avP --delete /home/gavin
 ```
 
 now, running `hugo && deploy` will push the site to the remote server. in the future, the plan is to make this more automated with a crude, elementary implementation of ci/cd.
+
+seeing now that hugo has its own `deploy` command. I will revisit this in the future.
