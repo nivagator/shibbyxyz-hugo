@@ -1,4 +1,6 @@
+{{ if (not (isset .Params "liexclude")) | or (eq .Params.liexclude false) }}
 {{ partial "nextprev.html" . -}}
+{{ end }}
 {{ partial "taglist.html" . -}}
 </article>
 </main>
