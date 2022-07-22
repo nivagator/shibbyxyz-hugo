@@ -4,9 +4,9 @@ date: 2022-07-15T12:06:46-05:00
 tags: ["hugo", "projects"]
 ---
 
-migrating this site from [ssg](https://romanzolotarev.com/ssg.html) as a static site generator to [hugo](https://gohugo.io/). I want tags and more control over the pages, article lists, etc. i've had experience with (jekyll)[https://gavingreer.com] in the past with decent results, i hear great things about hugo. I toyed with the idea of building out ssg with more functionality, but doubt my abilites to create such a solution. 
+migrating this site from [ssg](https://romanzolotarev.com/ssg.html) as a static site generator to [hugo](https://gohugo.io/). I want tags and more control over the pages, article lists, etc. i've had experience with (jekyll)[https://gavingreer.com] in the past with decent results, i hear great things about hugo. I toyed with the idea of building out ssg with more functionality, but doubt my abilities to create such a solution. 
 
-i made a mild attempt at hugo years ago, but it required more understanding upfront than jekyll (or so i thought) mostly becuase there was no built in theme (and i'm lazy). recently [Luke Smith](https://lukesmith.xyz) put out a [video on hugo](https://videos.lukesmith.xyz/w/oz4VV8SrnTEACCndxMASZH), getting started with a [basic theme he created](https://github.com/LukeSmithxyz/lugo). i always appreciate practical approaches and i'm using this as a basis to convert this site. 
+i made a mild attempt at hugo years ago, but it required more understanding upfront than jekyll (or so i thought) mostly because there was no built in theme (and i'm lazy). recently [Luke Smith](https://lukesmith.xyz) put out a [video on hugo](https://videos.lukesmith.xyz/w/oz4VV8SrnTEACCndxMASZH), getting started with a [basic theme he created](https://github.com/LukeSmithxyz/lugo). i always appreciate practical approaches and i'm using this as a basis to convert this site. 
 
 1. copy existing markdown articles from shibby to the content directory and add front matter.
 2. figure out how to migrate static pages
@@ -54,3 +54,23 @@ this works but... I'm still not clear on what a type is or why it is required he
 
 ### section specific archetypes 
 new pages are created with `hugo new page.md`. you can create new pages in a specific section by adding the path to the filename. section specific archetypes or templates can be auto applied. I've created an archetype for the build-thread entries. 
+
+## Deploy
+
+with ssg, i used bash aliases to generate and deploy aptly named `generate && deploy`.
+
+### ssg blog control
+```bash
+alias generate='rm -f dst/.files && ssg src dst "shibby.xyz" "https://shibby.xyz"'
+alias deploy='rsync --rsync-path "sudo -u gavin rsync" -avP --delete /home/gavin/dev/shibby.xyz/dst/ mars:/var/www/shibby.xyz/'
+```
+
+hugo has its own generate function, just running `hugo` will build the site in the public folder. 
+
+deploy is just a wrapper for rsync and can be converted to push the hugo site. 
+
+```bash
+alias deploy='rsync --rsync-path "sudo -u gavin rsync" -avP --delete /home/gavin/share/files/dev/shibbyxyz-hugo/public/ mars:/var/www/shibby.xyz/'
+```
+
+now, running `hugo && deploy` will push the site to the remote server. in the future, the plan is to make this more automated with a crude, elementary implementation of ci/cd.
