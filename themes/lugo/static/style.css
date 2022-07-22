@@ -17,41 +17,105 @@ html {
 body {
 	/* font-style: sans-serif ; */
 	background: var(--bg);
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px 20px;
 	color: var(--fg) ;
 }
 
 a {
 	color: var(--link);
 	text-decoration: none;
-  }
+}
 
-  pre,
-  code,
-  kbd,
-  samp {
-	  font-family: monospace;
-	  font-size: 0.9em;
-  }
-  
-  code {
-	  white-space: pre;
-	  white-space: pre-wrap;
-	  word-wrap: break-word;
-	  background: var(--bg_grey);
-	  color: var(--fg);
-	  padding: 2px;
-	  border-radius: 3px;
-  }
-  pre > code {
-	  display: block;
-	  padding: 10px 15px;
-	font-size: 1.2em;
-  }
-  code > strong::before {
-	content:"$ ";
-	font-weight: lighter;
-	opacity: .5;
-  }
+pre,
+code,
+kbd,
+samp {
+	font-family: monospace;
+	font-size: 0.9em;
+}
+
+code {
+	white-space: pre;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	background: var(--bg_grey);
+	color: var(--fg);
+	padding: 2px;
+	border-radius: 3px;
+}
+pre > code {
+	display: block;
+	padding: 10px 15px;
+font-size: 1.2em;
+}
+code > strong::before {
+content:"$ ";
+font-weight: lighter;
+opacity: .5;
+}
+
+/* NAV */
+nav {
+display: inline-block;
+}
+.site-name {
+float: left;
+}
+.site-name > span > a {
+color: var(--fg);
+}
+.site-title {
+font-size: 2.0em;
+font-weight: 600;
+	color: var(--fg);
+	line-height: 2.5em;
+}
+.menubar {
+display: flex;
+flex-direction: row;
+float: right;
+}
+.menubar li, .sub-menu li {
+display: block;
+float: left;
+width: 68px;
+min-height: 1.5em;
+padding: 3px;
+margin: 4px;
+border-bottom: #444 solid 2px;
+}
+.menubar li {
+background-color: var(--bg);
+}
+.menubar li:hover {
+background: var(--bg_grey);
+border-bottom: black solid 2px;
+}
+.menubar li ul {
+visibility: hidden;
+position: absolute;
+padding-top: 6px;
+}
+.menubar li:hover ul {
+visibility: visible;
+margin-left: -32px;
+}
+.menubar li ul li {
+float: none;
+position: relative;
+}
+.sub-menu li {
+background-color: var(--bg_grey);
+}
+.sub-menu li:hover {
+background-color: var(--bg);
+}
+/* END NAV */
+
+
 main {
 	max-width: 800px ;
 	margin: auto ;
