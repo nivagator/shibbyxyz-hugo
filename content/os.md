@@ -1,6 +1,6 @@
 ---
 title: "OS Experience"
-date: 2022-07-19T17:24:36-05:00
+date: 2022-06-17T17:24:36-05:00
 liexclude: true
 ---
 ## <a id="linux"></a>Linux 

@@ -1,6 +1,6 @@
 ---
 title: "Hardware"
-date: 2022-07-19T17:17:39-05:00
+date: 2022-06-21T17:17:39-05:00
 liexclude: true
 ---
 
