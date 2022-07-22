@@ -1,8 +1,38 @@
 <nav>
+    <div class="site-name">
+      <span class="site-title"><a href="/index.html">shibby!</a></span>
+    </div>
+    <ul class="menubar">
+      <li><a href="/hardware">hardware</a></li>
+      <li><a href="/links">links</a></li>
+      <li><a href="/allpages">allpages</a></li>
+      <li><a href="/jeep">jeep</a>
+        <ul class="sub-menu">
+            <li><a href="/build-thread">build thread</a></li>
+            <li><a href="https://wranglertjforum.com/members/prndl.32016/" target="_blank">WTJF: PRNDL</a></li>
+        </ul>
+      </li>
+      <li><a href="mailto:sayhi@shibby.xyz">say hi</a></li>
+      <li>other
+        <ul class="sub-menu">
+          <li><a href="/src/myssg">ssg</a></li>
+          <li><a href="/src/alias">alias</a></li>
+          <li>vim</li>
+          <li><a href="/os">os</a></li>
+          <li>servers</li>
+          <li><a href="http://github.com/nivagator/dotfiles">dotfiles</a></li>
+          <li><a href="/tags">tags</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+
+  <!-- <nav>
     <ul>
 	{{- $sec := .Page.Section }}{{ $file := .File.TranslationBaseName -}}
         {{ range.Site.Menus.main.ByWeight }}{{ $base := path.Base .URL }}
 	<li><a {{ if or ( eq $sec $base ) ( eq $file $base ) ( and (eq $sec "") ( eq $file "_index") (eq $base "/") ) }}class="menuactive" {{ end }}href="{{ .URL }}"><span class=pre>{{ .Pre }}</span><span class=menuname>{{ .Name }}</span></a></li>
         {{- end }}
     </ul>
-</nav>
+</nav> -->
+
