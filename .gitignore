@@ -14,3 +14,7 @@ hugo.linux
 
 # vscode
 /.vscode/
+
+# other dev files
+xconfig.toml
+tabs.txt
