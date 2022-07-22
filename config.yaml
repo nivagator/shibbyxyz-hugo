@@ -1,0 +1,18 @@
+baseURL: 'http://shibby.xyz/'
+languageCode: 'en-us'
+title: 'shibby!'
+theme: 'lugo'
+# menu:
+#     main:
+#     -   identifier: 'jeep'
+#         name: 'jeep'
+#         title: 'Jeep Section'
+#         url: '/jeep/'
+#         weight: -110  
+#     -   identifier: 'inv'
+#         name: 'inv'
+#         title: 'inv section'
+#         url: '/inv/'
+#         weight: -109
+#     # -   name: hardware
+#     #     url: https://shibby.xyz/setup.html
