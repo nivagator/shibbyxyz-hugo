@@ -7,7 +7,9 @@ date: 2022-07-18T09:51:13-05:00
 [Build Sheet](https://www.jeep.com/webselfservice/BuildSheetServlet?vin=1J4FA69SX4P757994)
 
 ## Todo List 
-- oil pan and gasket
+- oil change at 138,350
+- tire rotation at 140,000
+- [oil pan and gasket](#oil-pan-and-gasket)
 - [rebuild front driveshaft](#rebuild-front-driveshaft)
 - [O2 sensors](#o2-sensors)
 - [axle ujoints](#axle-ujoints)
@@ -15,8 +17,6 @@ date: 2022-07-18T09:51:13-05:00
 - rms
 - timing chain
 - [unit bearings/hubs](#unit-bearingshubs)
-- oil change at 138,350
-- tire rotation at 140,000
 - blend door fix
 - shorten exhaust hanger 
 - replace muffler
@@ -40,7 +40,7 @@ date: 2022-07-18T09:51:13-05:00
 - hood dent repair?
 - new radio head unit 
 - [radio separate amp](#radio-amp)
-- separate subwoofer unit?
+- [separate subwoofer unit?](#subwoofer-unit)
 - rear bumper with hitch receiver 
 - [winch and winch plate](#winch-stuff)
 - half doors
@@ -121,7 +121,9 @@ date: 2022-07-18T09:51:13-05:00
 
 ## radio amp 
 [Crutchfield: Soundstream Picasso Nano PN5](https://www.crutchfield.com/p_530PN5640D/Soundstream-Picasso-Nano-PN5-640D.html)  
-[Amazon: Soundstream picasso nano](https://www.amazon.com/dp/B00G051S7I)
+[Amazon: Soundstream picasso nano](https://www.amazon.com/dp/B00G051S7I)  
+[WTJF: SSTJ build notes](https://wranglertjforum.com/threads/sstjs-mostly-stock-97-se-2-5.50320/#post-980695)  
+
 ## clutch 
 [HF: Three Jaw Bearing Puller](https://www.harborfreight.com/3-jaw-pilot-bearing-puller-4876.html)   
 [Amazon: E12 socket](https://www.amazon.com/dp/B007QV1AZ0)  
@@ -148,6 +150,11 @@ date: 2022-07-18T09:51:13-05:00
 [youtube: jeep ball joint replacement](https://www.youtube.com/watch?v=3ol3TPHzvHk)  
 [WTJF: Ball Joint Tool Kit](https://wranglertjforum.com/threads/ball-joint-tool-kit.63711/#post-1155273)  
 [Amazon: spicer 706944X ball joint kit](https://www.amazon.com/dp/B007N6OHI0)  
+
+people really like the OTC kits, but they are pricey  
+
+[Amazon OTC Ball Joint kit](https://www.amazon.com/gp/product/B0002SRGXY/?tag=wranglerorg-20)  
+[Amazon OTC Jeep/Dodge Joint service adapter](https://www.amazon.com/gp/product/B0002SRGW0/?tag=wranglerorg-20)  
 
 ## alignment
 [How to align your Jeep Wrangler TJ](https://wranglertjforum.com/threads/how-to-align-your-jeep-wrangler-tj.85/)  
@@ -181,3 +188,11 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 
 ## unit bearings/hubs
 [Amazon: Timken bearing hub](https://www.amazon.com/dp/B000BZAF36/)  
+
+## subwoofer unit
+[Amazon: JBL BassPro Nano 6" Powered Subwoofer](https://www.amazon.com/dp/B08J4B1WZH/?tag=wranglerorg-20)
+[Amazon Sound Ordnance B-8PTD 8" Powered Subwoofer](https://www.amazon.com/Sound-Ordnance-B-8PTD-Powered-Subwoofer/dp/B00IF9IIWK)  
+[WTJF: SSTJ build notes](https://wranglertjforum.com/threads/sstjs-mostly-stock-97-se-2-5.50320/#post-980695)  
+
+## oil pan and gasket
+[youtube](https://www.youtube.com/watch?v=Xrj8oIPYSOQ)  
