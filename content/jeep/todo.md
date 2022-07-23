@@ -65,6 +65,7 @@ date: 2022-07-18T09:51:13-05:00
 - paint front frame suspension mounts
 - new starter
 - [aim headlights](#aim-headlights)
+- [cooling system](#cooling-system)
 
 ---
 
@@ -230,3 +231,12 @@ Open screw, pedal to the floor hard and fast, close screw, let pedal up, repeat.
 
 ## timing chain
 [WTJF: Do I need a new timing chain?](https://wranglertjforum.com/threads/do-i-need-a-new-timing-chain.63185/)
+
+## cooling system 
+
+Drilling a hole into the thermostat's flange like shown below and positioning the hole at the top when installing it will help get rid of the trapped air more quickly. Some thermostats come with a vent hole already, just make sure to position it at the top when installing it.
+
+[WTJF: drill hole in thermo](https://wranglertjforum.com/threads/replaced-water-pump-and-thermostat-now-overheating-at-idle.63825/post-1157974)
+
+![irun thermo](img/thermo-hole1.jpg)
+![bransford thermo](img/Thermostat-drilled-hole.jpg)
