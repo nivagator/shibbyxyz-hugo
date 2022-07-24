@@ -240,3 +240,38 @@ Drilling a hole into the thermostat's flange like shown below and positioning th
 
 ![irun thermo](img/thermo-hole1.jpg)
 ![bransford thermo](img/Thermostat-drilled-hole.jpg)
+
+## battery
+AGM battery
+
+[WTJF: AGM Advantages](https://wranglertjforum.com/threads/group-34-vs-group-24-battery-on-2006-tj.57456/post-1011414)
+
+Odyssey
+Napa Legend AGM
+$220 [Oreilly SuperStart platinum AGM group 34](https://www.oreillyauto.com/detail/c/platinum/super-start-platinum-battery-group-size-34/ssbq/34plt/v/a/17926/automotive-suv-2004-jeep-wrangler?brand=true&pos=9)
+- $158 [Oreilly: Super Start Marine AGM Group Size 34M Top Post Battery](https://www.oreillyauto.com/detail/c/marine-agm/super-start-marine-agm-group-size-34m-top-post-battery/ssbj/34magm/v/a/17926/automotive-suv-2004-jeep-wrangler)
+- $135 [Sams Duracell AGM Deep Cycle Marine and RV Battery, Group Size 34M](https://www.samsclub.com/p/duracell-agm-deep-cycle-marine-and-rv-battery-group-size-sl34magm/prod3590225)
+- $190 [Sams Duracell AGM Automotive 34](https://www.samsclub.com/p/auto-group-24-34agm-36-mo-free/prod9510079?xid=plp_product_1)
+- $190 [Sams Duracell AGM Automotive 34/78](https://www.samsclub.com/p/duracell-agm-automotive-battery-group-size-78dtagm/prod3590233?xid=plp_product_3)
+
+duralast platinum agm Auto zone
+diehard platinum agm
+x2 power 
+northstar
+
+"Calcium" AGM like the offerings from NAPA, O'Reillys, Duracell, etc., - good batteries at a more reasonable price point and suitable for most jeepers looking to upgrade from a flooded lead acid battery who either can't afford the price point of a Northstar or don't need the features of a pure lead AGM battery. I will probably buy one of these as my next battery
+
+East Penn vs northstar  
+differences between "thick plate calcium AGM batteries" such as the offerings by East Penn, and "thin plate pure lead AGM's" which include Northstar, Odyssey and Optima. The article concludes:
+
+"Both the calcium AGM and the pure lead AGM crank longer and are more tolerant of deep cycle drains than OE maintenance-free batteries. That said, there is a performance difference among these two types of AGM battery. Since the thinner plates in the pure lead AGM have more surface area contact than the thicker plates in the calcium AGM, they are more efficient during both discharging and recharging. The calcium AGM is 'better' while the pure lead AGM is 'best.'"
+
+See: http://www.hendonpub.com/law_and_order/articles/2015/04/agm_battery_technology
+
+It appears from the article that in the hierarchy of AGM's the Napa Legend is better than a flooded lead acid battery but not in the same category as a pure lead AGM battery such as Northstar, Odyssey and Optima. It also explains the substantial price difference between the East Penn offerings and those of the other AGM manufacturers.
+
+Be sure to get a Group 24 instead of a group 34 for the extra capacity.
+
+34 is original
+24 is taller, more capacity but lower amps
+78 
