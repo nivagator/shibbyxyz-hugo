@@ -10,7 +10,13 @@ html {
 	  --link_v: #258EA6;
 	  --link_h: #258EA6;
 	  --bg_grey: #333;
-	  --dark_grey: #333;
+	  --dark_grey: #222;
+	  --acc: #C1666B;
+	  --acc2: #DC965A;
+	  --acc3: #885053;
+	  --acc4: #DB9D47;
+	  --acc5: #A38560;
+	  --acc6: #678D58;
 }
 
 /* sticky footer */
@@ -198,4 +204,21 @@ footer {
 .tooltip:hover .tooltiptext {
 	visibility: visible;
 	opacity: 1;
+}
+
+/* table */
+table {
+	border-collapse: collapse;
+}
+th, td {
+	border: 1px solid var(--bg_grey);
+	padding: 3px 9px;
+}
+thead {
+	text-align: center;
+	background-color: var(--link);
+	color: var(--bg);
+}
+tbody tr:nth-child(even) {
+	background-color: var(--dark_grey);
 }
