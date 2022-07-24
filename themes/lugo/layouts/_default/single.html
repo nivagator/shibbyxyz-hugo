@@ -1,5 +1,8 @@
 {{ partial "header.html" . -}}
 <header><h1>{{ .Title }}</h1></header>
+{{ if (not (isset .Params "liexclude")) | or (eq .Params.liexclude false) }}
+<span class="date">{{ .Date.Format "Jan 2, 2006" }}</span>
+{{ end }}
 <article>
 {{ .Content -}}
 {{ partial "footer.html" . }}
