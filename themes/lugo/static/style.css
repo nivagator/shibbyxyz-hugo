@@ -8,7 +8,7 @@ html {
 	  --fg: #F0F7EE;
 	  --link: #258EA6;
 	  --link_v: #258EA6;
-	  --link_h: #258EA6;
+	  --link_h: #C1666B;
 	  --bg_grey: #333;
 	  --dark_grey: #222;
 	  --acc: #C1666B;
@@ -42,6 +42,9 @@ body {
 a {
 	color: var(--link);
 	text-decoration: none;
+}
+a:hover {
+	color: var(--link_h)
 }
 
 pre,
