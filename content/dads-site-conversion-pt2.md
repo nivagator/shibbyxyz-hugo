@@ -76,3 +76,22 @@ here's what i came up with to add a new domain to the set of existing in the cer
     - `docker-compose exec webserver ls -la /etc/letsencrypt/live`
 - replace original command block including all webroot-paths and domains as well as the `--force-renew` flag
 - run recreate on certbot: `docker-compose up --force-recreate --no-deps certbot`
+
+this is essentially isolating the newdomain to get the cert, then adding it to the list of others for force-renew. in my nginx-conf, i kept both command blocks and comment the one i dont need. 
+
+```bash
+certbot:
+    ...
+    # primary command block
+    command: certonly --webroot --webroot-path=/var/www/{domain1}.com --email certbot@email.com --agree-tos --no-eff-email --force-renew -d {domain1}.com -d www.{domain1}.com --webroot-path=/var/www/{domain2} -d {subdomain}.{domain2}.xyz -v
+
+    # command block to add a new domain or subdomain.
+    # command: certonly --webroot --webroot-path=/var/www/{newdomain}.com --email certbot@email.com --agree-tos --no-eff-email --staging -d {newdomain}.com -d www.{newdomain}.com
+```
+
+once the certs have been retrieved, update he nginx.conf file to accept https traffic and point to the cert locations. adding the subdomain, i was getting 526: invalid ssl certificate errors. [a search led](https://support..com/hc/en-us/articles/115003011431#526error) me to change Cloudflare security to Full down from Full(Strict) and the domains both loaded. 
+
+
+This [DO link](https://www.digitalocean.com/community/questions/how-to-make-a-wordpress-subdomain-on-nginx-with-ssl) was helpful in getting the ssl sorted.  
+
+So now, we have a single nginx container serving domain.com, test.domain.com and store.domain.com with ssl enabled. a good place to stop. 

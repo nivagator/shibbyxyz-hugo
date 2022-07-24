@@ -23,7 +23,7 @@ wet:
 - 4 eggs 
 - 2/3 cup melted butter
 
-if you're adding blueberries or strawberries, my recommendation is to slice the strawberries (blueberries are fine whole) and put them in the freezer. this keeps them from "staining" your pancakes as they cook. 
+if you're adding blueberries or strawberries, my recommendation is to slice the strawberries (blueberries are fine whole) and put them in the freezer. this keeps them from getting soggy and "staining" your pancakes as they cook. 
 
 Admittedly, this makes a lot. It can be cut in half. i usually do and its a perfect amount for the family. 
 

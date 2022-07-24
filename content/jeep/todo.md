@@ -17,9 +17,7 @@ date: 2022-07-18T09:51:13-05:00
 - rms
 - [timing chain](#timing-chain)
 - [unit bearings/hubs](#unit-bearingshubs)
-- blend door fix
-- shorten exhaust hanger 
-- replace muffler
+- blend door fixapple
 - paint shocks
 - paint BL gap
 - install front diff lube locker
@@ -66,6 +64,7 @@ date: 2022-07-18T09:51:13-05:00
 - new starter
 - [aim headlights](#aim-headlights)
 - [cooling system](#cooling-system)
+- service johnny joints
 
 ---
 

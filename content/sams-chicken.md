@@ -7,12 +7,17 @@ my father-in-law makes the best grilled chicken. my wife loves it. i've been att
 
 this past weekend, i spent time watching and asking him about the details... again. here's what I have so far. 
 
-Fresh chicken breasts are obviously better. If they are huge, filet or butterfly them to make them manageable. Tenders work well too. For breasts, its extra work, but removing the large tendon makes it just that much better.
+Fresh chicken breasts are obviously better. If they are huge, filet or fbutterfly them to make them manageable. Tenders work well too. For breasts, its extra work, but removing the large tendon makes it just that much better.
 
 Marinade:  
-- Wishbone Italian Dressing  
-- Soy Sauce  
-- Chicken seasoning/rub   
+- 24oz bottle of Wishbone brand Italian Dressing  
+- 1/2 cup Soy Sauce  
+- Chicken seasoning/rub, can be any kind of all season rub or season salt like Lawry's 
+
+Glaze:
+- 1/4 cup butter
+- 1/4 cup brown sugar
+- 1 tbs honey
 
 season chicken with rub and place in a dish deep enough to cover the chicken. One mistake i think i make is over loading a single container with layers of chicken. Don't do this. pour in enough marinade to cover chicken. cover the container and store in the fridge for at least 4 hours up to over night. 
 
