@@ -1,6 +1,7 @@
 ---
 title: "install ssg on gnu/linux"
 date: 2021-07-31T12:06:46-05:00
+tags: ['linux']
 ---
 # install ssg on gnu/linux
 July 31, 2021

@@ -1,6 +1,7 @@
 ---
 title: "state of the server 2022"
 date: 2022-06-10T12:06:46-05:00
+tags: ['hardware']
 ---
 
 # state of the server 2022

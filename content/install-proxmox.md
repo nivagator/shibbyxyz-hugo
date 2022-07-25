@@ -1,6 +1,7 @@
 ---
 title: "install proxmox"
 date: 2022-06-23T12:06:46-05:00
+tags: ['linux','proxmox']
 ---
 # install proxmox
 June 23, 2022

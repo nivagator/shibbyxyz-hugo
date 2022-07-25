@@ -1,6 +1,7 @@
 ---
 title: "Yubikeys... so much to learn"
 date: 2021-08-04T12:06:46-05:00
+tags: ['linux','yubikey']
 ---
 # Yubikeys... so much to learn
 August 4, 2021

@@ -1,6 +1,7 @@
 ---
 title: "inspiration"
 date: 2022-06-09T12:06:46-05:00
+tags: ['personal']
 ---
 
 # inspiration

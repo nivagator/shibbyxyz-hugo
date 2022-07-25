@@ -1,6 +1,7 @@
 ---
 title: "installing arch"
 date: 2021-08-12T12:06:46-05:00
+tags: ['linux','arch']
 ---
 
 # installing arch  
