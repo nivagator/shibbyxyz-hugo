@@ -2,7 +2,6 @@
 title: "Buttermilk Pancakes/Waffles"
 date: 2022-07-23T14:55:17-05:00
 tags: ['recipes']
-draft: true
 ---
 
 there's a lot of claims to the best pancake recipe. they are all incorrect. in my infinite wisdom, i possess the best buttermilk pancake recipe on the planet. 

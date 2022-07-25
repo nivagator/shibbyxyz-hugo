@@ -2,7 +2,6 @@
 title: "Dads Site Conversion | part 2"
 date: 2022-05-09T16:23:24-05:00
 tags: ['projects']
-draft: true
 ---
 
 ## linode procurement 
