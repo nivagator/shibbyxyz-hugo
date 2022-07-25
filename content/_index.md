@@ -7,3 +7,5 @@ this is the home of shibby.xyz. 🤙
 
 this site has become more than originally intended. what started as a place to catalog random linux/html/css/dev stuff I’m learning and a testing ground has expanded into a very laid back place to write about anything. i've included jeep stuff, recipes, etc. etc., really anything I want to keep record of and make accessible. 
 
+im not looking to be professional here. i wont spell, capitalize, punctuate or use the grammars correctly. the goal is to publish and edit later. 
+
