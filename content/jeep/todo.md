@@ -208,7 +208,7 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 [Amazon: JBL BassPro Nano 6" Powered Subwoofer](https://www.amazon.com/dp/B08J4B1WZH/?tag=wranglerorg-20)  
 [Amazon Sound Ordnance B-8PTD 8" Powered Subwoofer](https://www.amazon.com/Sound-Ordnance-B-8PTD-Powered-Subwoofer/dp/B00IF9IIWK)   
 [WTJF: SSTJ build notes](https://wranglertjforum.com/threads/sstjs-mostly-stock-97-se-2-5.50320/#post-980695)  
-[JF Archive: easy console sub](/jeep-sub-install)  
+[JF Archive: easy console sub](/jeep/jeep-sub-install)  
 
 ## oil pan and gasket
 [youtube](https://www.youtube.com/watch?v=Xrj8oIPYSOQ)  
