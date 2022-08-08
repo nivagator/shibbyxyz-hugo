@@ -1,6 +1,7 @@
 ---
 title: "jeep todo"
 date: 2022-07-18T09:51:13-05:00
+tags: ['jeep']
 ---
 
 # 2004 Jeep TJ Wrangler Rubicon 
@@ -14,7 +15,7 @@ date: 2022-07-18T09:51:13-05:00
 - [O2 sensors](#o2-sensors)
 - [axle ujoints](#axle-ujoints)
 - [ball joints](#ball-joints)
-- rms
+- [rms]
 - [timing chain](#timing-chain)
 - [unit bearings/hubs](#unit-bearingshubs)
 - blend door fixapple
@@ -65,13 +66,16 @@ date: 2022-07-18T09:51:13-05:00
 - [aim headlights](#aim-headlights)
 - [cooling system](#cooling-system)
 - service johnny joints
-
+- [fix blend door]()
 ---
 
 ## done
 - [repair fog light switch](#repair-mf-switch-fog-lights)
 - [h4 headlight conversion](#h4-headlight-conversion)
 - [alignment](#alignment)
+- [center axle under jeep](#center-axle-under-jeep)
+- [set bumpstops](#set-bump-stops)
+- [valve cover gasket]()
 ---
 
 ## O2 Sensors
@@ -110,6 +114,7 @@ date: 2022-07-18T09:51:13-05:00
 
 ## ac defeat
 [JF: For the A/C Guys](https://www.jeepforum.com/threads/for-the-a-c-guys.1058168/)  
+[WTFJ: jjvw post](https://wranglertjforum.com/threads/daily-driver-go-where-i-want-to-build.9410/post-145348)  
 
 ## winch stuff
 [Roundforge: Warn M8000 buyers guide](https://www.roundforge.com/articles/warn-m8000-and-m8-winch/)  
@@ -200,9 +205,10 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 [Amazon: Timken bearing hub](https://www.amazon.com/dp/B000BZAF36/)  
 
 ## subwoofer unit
-[Amazon: JBL BassPro Nano 6" Powered Subwoofer](https://www.amazon.com/dp/B08J4B1WZH/?tag=wranglerorg-20)
-[Amazon Sound Ordnance B-8PTD 8" Powered Subwoofer](https://www.amazon.com/Sound-Ordnance-B-8PTD-Powered-Subwoofer/dp/B00IF9IIWK)  
+[Amazon: JBL BassPro Nano 6" Powered Subwoofer](https://www.amazon.com/dp/B08J4B1WZH/?tag=wranglerorg-20)  
+[Amazon Sound Ordnance B-8PTD 8" Powered Subwoofer](https://www.amazon.com/Sound-Ordnance-B-8PTD-Powered-Subwoofer/dp/B00IF9IIWK)   
 [WTJF: SSTJ build notes](https://wranglertjforum.com/threads/sstjs-mostly-stock-97-se-2-5.50320/#post-980695)  
+[JF Archive: easy console sub](/jeep-sub-install)  
 
 ## oil pan and gasket
 [youtube](https://www.youtube.com/watch?v=Xrj8oIPYSOQ)  
@@ -274,3 +280,68 @@ Be sure to get a Group 24 instead of a group 34 for the extra capacity.
 34 is original
 24 is taller, more capacity but lower amps
 78 
+
+## center axle under jeep
+[WTJF: center axle with adjustable track bar](https://wranglertjforum.com/threads/how-to-align-your-axle-with-an-adjustable-track-bar.16623/#post-270843)  
+
+## set bump stops
+[WTFJ: bump walk through with pics](https://wranglertjforum.com/threads/bump-stop-check-walk-thru-with-pics.12883/)  
+[WTFJ: How to set your bumpstops](https://wranglertjforum.com/threads/how-to-set-your-bump-stop-on-a-jeep-wrangler-tj.2474/)  
+
+## RMS
+[WTFJ: Irun post](https://wranglertjforum.com/threads/a-lesson-learned%E2%80%94keep-it-light-and-nimble.44924/post-849881)  
+
+This is very, very true! Anyone installing a RMS should make sure to use the supplied plastic tab, to ensure the top seal doesn't get knicked. I've learned this one the hard way and had to make a trip to the part store for a second seal kit. Also, care has to be taken to ensure both the upper and lower halves are installed correctly, with the small lip facing forward.
+
+Getting the pan off, with the front Dana 30 or 44 in place, requires unbolting the shocks, dropping the rear as far as it will go, and loosening the exhaust bolts, so the pan will clear.
+
+[WTJF: rms replacement](https://wranglertjforum.com/threads/rear-main-seal-replacement-4-0.826/)  
+
+Tools and Parts Needed
+- High Temperature RTV - https://www.amazon.com/dp/B0002UEN1A/?tag=wranglerorg-20
+- Oil Pan Gasket - https://www.amazon.com/dp/B000C2AMQ8/?tag=wranglerorg-20
+- [Amazon: Rear Main Seal (2000-2006 models)](https://www.amazon.com/gp/product/B000C2E7SM/?tag=wranglerorg-20)
+- [Amazon rtv 4318083](https://www.amazon.com/dp/B0002UEONM/?tag=wranglerorg-20) (Anaerobic! Not your average RTVs! It is not cheap but required, ~$16 from dealer. -  No parts stores carry this item.)
+- [Amazon: Paint Prepping Solvent](https://www.amazon.com/dp/B0051IC96Y/?tag=wranglerorg-20)
+- Sockets and Ratchets with extensions
+- Torque Wrench
+- 6qts. of Engine Oil
+- Oil Filter
+
+[myjeeprocks: rms](https://myjeeprocks.com/articles/rear-main-seal-removal-and-installation/)
+
+Torque specs
+bearing race 80 ft/lbs
+starter motor 33 ft/lbs
+girdle 35 ft/lbs
+oil pan bolts 
+- 1/4 inch bolts - 84 in/lb
+- 5/16 inch bolts - 132 in/lb
+
+## valve cover gasket
+[WTJF: changing valve cover gasket](https://wranglertjforum.com/threads/changing-valve-cover-gasket.3431/)  
+[WTJF: valve cover gasket replacement](https://www.wranglerforum.com/threads/2003-tj-valve-cover-gasket-replacement.569185/)  
+[WTJF: 2000 valve cover gasket](https://www.wranglerforum.com/threads/2000-valve-cover-gasket-replacement.2131161/)  
+[WTJF: rtv example](https://wranglertjforum.com/threads/changing-valve-cover-gasket.3431/post-44443)  
+I just used RTV on the corners.
+
+The FSM for my 05 stated 10 Newton meters. 
+
+wiring bridge
+[WTJF: how to remove plastic wiring bridge](https://wranglertjforum.com/threads/how-to-remove-the-black-plastic-wiring-bridge-on-valve-cover.53776/)  
+
+Page 1019 INSTALLATION
+The cylinder head cover is isolated from the cylinder head via grommets and a reusable molded rubber gasket. The grommet and limiter are retained in the cylinder head cover.
+1. If a replacement cover is installed, transfer the CCV valve grommet and oil filler cap from the original cover to the replacement cover.
+1. Install cylinder head cover and gasket (Fig. 14). Tighten the mounting bolts to 10 N·m (85 in. lbs.) torque.
+1. Reinstall the plastic wiring loom trough at the rear of cylinder head cover.
+1. Reconnect the left hand side of the wiring harness loom to all components.
+1. Connect the CCV hoses.
+1. Install control cables and bracket on intake manifold and tighten bolts to 8.7 N·m (77 in lbs.) torque.
+1. Connect control cables to throttle body linkage.
+1. Snap control cables into cylinder head cover clip.
+1. Connect negative cable to battery.
+
+## fix blend door
+
+[WTFJ: blend door](https://marinapoolspaandpatio.com/product-category/robotic-pool-cleaners-maytronics-residential/)  
