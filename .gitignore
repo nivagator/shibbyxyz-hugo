@@ -18,6 +18,7 @@ hugo.linux
 # other dev files
 xconfig.toml
 tabs.txt
+tabs.md
 
 # static files to not push to github
 static/img/*
