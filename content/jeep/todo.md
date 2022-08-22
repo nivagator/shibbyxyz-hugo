@@ -15,7 +15,7 @@ tags: ['jeep']
 - [O2 sensors](#o2-sensors)
 - [axle ujoints](#axle-ujoints)
 - [ball joints](#ball-joints)
-- [rms]
+- [rms](#rms)
 - [timing chain](#timing-chain)
 - [unit bearings/hubs](#unit-bearingshubs)
 - blend door fixapple
@@ -29,7 +29,7 @@ tags: ['jeep']
 - [adjust steering stops](#steering-stop-adjustment)
 - [replace clutch](#clutch)
 - skid nutsert replacement
-- front component speakers
+- [front component speakers](#front-component-speakers)
 - swayloc
 - surface rust in drivers footwell
 - [Flip door handles](#flip-door-handles)
@@ -37,7 +37,7 @@ tags: ['jeep']
 - control arm mini-skids
 - [savvy sliders](#sliders)
 - hood dent repair?
-- new radio head unit 
+- [new radio head unit](#stereo-head-unit) 
 - [radio separate amp](#radio-amp)
 - [separate subwoofer unit?](#subwoofer-unit)
 - rear bumper with hitch receiver 
@@ -60,13 +60,15 @@ tags: ['jeep']
 - stubby factory front bumper
 - rear axle shafts
 - front axle shafts
-- regear
+- [regear to 4.88](#regear)
 - paint front frame suspension mounts
 - new starter
 - [aim headlights](#aim-headlights)
 - [cooling system](#cooling-system)
-- service johnny joints
-- [fix blend door]()
+- [service johnny joints](#service-johnny-joints)
+- [fix blend door](#fix-blend-door)
+- [grease front end](#grease-front-end)
+- [rear axle seals](#rear-axle-seals)
 ---
 
 ## done
@@ -79,6 +81,7 @@ tags: ['jeep']
 ---
 
 ## O2 Sensors
+NTK was the oem supplier  
 [WTJF: The Official Jeep Wrangler TJ Oxygen (O2) Sensor Thread](https://wranglertjforum.com/threads/the-official-jeep-wrangler-tj-oxygen-o2-sensor-thread.4068/)
 
 2004​ 6 cyl  
@@ -93,6 +96,8 @@ tags: ['jeep']
 ![o2sensorimage](/jeep/img/o2sensors.jpg)  
 
 ## axle ujoints
+spicer 5-760x  
+[Article: Axle U-Joints & unit bearings](/jeep/axle-ujoints-hubs)  
 [WTJF: Jeep Wrangler TJ U-Joint Replacement](https://wranglertjforum.com/threads/jeep-wrangler-tj-u-joint-replacement.8968/)  
 [WTJF: Replacing U-Joints: Do You Prefer a Hammer or a Press?](https://wranglertjforum.com/threads/replacing-u-joints-do-you-prefer-a-hammer-or-a-press.14974/page-2)  
 [Jeep Wrangler TJ Front Axle U-Joint Replacement Youtube](https://www.youtube.com/watch?v=jh5xM3UFTaU)  
@@ -148,6 +153,8 @@ About the only thing not included in that kit that I'd recommend would be a diff
 [Rain Gear Trail Cover](https://www.raingearcovers.com/product-page/wrangler-tj-1997-2006-trail-cover)  
 
 ## rebuild front driveshaft
+5-793x - shaft to pinion yoke ujoint  
+5-1330x - cv ujoints (2)   
 [Denny's driveshaft rebuild kit](https://www.dennysdriveshaft.com/p2297_cv_996_1_rebuild_kit_for_2003_to_2006_jeep_tj_rubicon_with_o.html#photo)  
 
 ## flip door handles 
@@ -166,10 +173,23 @@ About the only thing not included in that kit that I'd recommend would be a diff
 [WTJF: Ball Joint Tool Kit](https://wranglertjforum.com/threads/ball-joint-tool-kit.63711/#post-1155273)  
 [Amazon: spicer 706944X ball joint kit](https://www.amazon.com/dp/B007N6OHI0)  
 
+### tools
+Press:   
 people really like the OTC kits, but they are pricey  
+[DHA Ball joint press kit](https://www.amazon.com/dp/B08R2JPLQ7/)   
+[OTC 7249 ball joint press](https://www.amazon.com/OTC-7249-U-Joint-Anchor-Service/dp/B0002SRGXY)  
+[Amazon OTC Ball Joint kit](https://www.amazon.com/gp/product/B0002SRGXY)  
+[HF: Ball Joint Service Kit](https://www.harborfreight.com/ball-joint-service-kit-for-2wd-and-4wd-vehicles-63279.html)  
+[orion press kit](https://www.amazon.com/gp/product/B09J54HW7Y)
 
-[Amazon OTC Ball Joint kit](https://www.amazon.com/gp/product/B0002SRGXY/?tag=wranglerorg-20)  
-[Amazon OTC Jeep/Dodge Joint service adapter](https://www.amazon.com/gp/product/B0002SRGW0/?tag=wranglerorg-20)  
+Adapter kit:
+The trick for the ball joints is the 7894 adapter kit (amazon) 
+[OTC 7894 ball joint adapter kit](https://www.amazon.com/OTC-Dodge-Joint-Service-Adapter/dp/B0002SRGW0)  
+[Amazon OTC Jeep/Dodge Joint service adapter](https://www.amazon.com/gp/product/B0002SRGW0)  
+[amazon Sunluway adapter kit](https://www.amazon.com/gp/product/B07FVS1RHJ)
+
+![upper ball joint tool](../img/upperbjpress.jpg)
+![lower ball joint tool](../img/lowerbjpress.jpg)
 
 ## alignment
 [How to align your Jeep Wrangler TJ](https://wranglertjforum.com/threads/how-to-align-your-jeep-wrangler-tj.85/)  
@@ -202,7 +222,14 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 [BMB: VANCO 15" Big Brake Kit with Unit Bearings](https://www.shop.blackmagicbrakes.com/VANCO-15-Big-Brake-Kit-w-BMB-Pads-for-15-Rims-w-Unit-Bearings-BBK-NDM15-2UB.htm)  
 
 ## unit bearings/hubs
+[Article: Axle U-Joints & unit bearings](/jeep/axle-ujoints-hubs)  
 [Amazon: Timken bearing hub](https://www.amazon.com/dp/B000BZAF36/)  
+[Wrangler TJ wheel hub / bearing assembly replacement](https://www.jeepz.com/forum/drivetrain/42877-wrangler-tj-wheel-hub-bearing-assembly-replacement.html)  
+[WTJF: How to Install a Jeep Wrangler Front Axle U-Joint and Hub](https://wranglertjforum.com/threads/how-to-install-a-jeep-wrangler-front-axle-u-joint-and-hub.8967/)  
+[WTJF: ElectricWizards 2000 TJ Sport Build](https://wranglertjforum.com/threads/electricwizards-2000-tj-sport-build.14165/post-873537)  
+[stuck Unit Bearing - TJ Generation](https://jeepspecs.com/tj-generation/unit-bearing-dislodge/)   
+[WTJF: Can't remove front axle, any tips?](https://wranglertjforum.com/threads/cant-remove-front-axle-any-tips.20707/)   
+
 
 ## subwoofer unit
 [Amazon: JBL BassPro Nano 6" Powered Subwoofer](https://www.amazon.com/dp/B08J4B1WZH/?tag=wranglerorg-20)  
@@ -344,4 +371,90 @@ The cylinder head cover is isolated from the cylinder head via grommets and a re
 
 ## fix blend door
 
-[WTFJ: blend door](https://marinapoolspaandpatio.com/product-category/robotic-pool-cleaners-maytronics-residential/)  
+[WTFJ: blend door](https://marinapoolspaandpatio.com/product-category/robotic-pool-cleaners-maytronics-residential/)   
+
+## grease front end
+
+There are seven total zerks. 2 upper ball joints, the track bar frame end, and 4 in the steering ends.  
+[TJ Grease & Lube Fittings - TJ Generation](https://jeepspecs.com/tj-generation/grease-and-lube-fittings/)  
+
+![grease zerks](../img/greasezerks.jpg)
+
+[Grease recommendation | WTJF](https://wranglertjforum.com/threads/grease-recommendation.2161/)  
+Lucas Red'n tacky  
+[Lucas Oil 3 oz. Red N Tacky (3-Pack) 10318 | Home Depot](https://www.homedepot.com/p/Lucas-Oil-3-oz-Red-N-Tacky-3-Pack-10318/318840010)  
+[Lucas Oil 14 oz. Red 'N' Tacky Grease 10005 | Home Depot](https://www.homedepot.com/p/Lucas-Oil-14-oz-Red-N-Tacky-Grease-10005/202521504)
+
+
+## service johnny joints
+
+I have 18 johnny joints.   
+9 2.5" - 8 on the 4 lower cas, 1 on the frame end of the front track bar  
+9 2" - 8 on the 4 upper cas, 1 on the diff end of the front track bar  
+
+### grease 
+moly grease for RCVs? - johnny joints   
+[Red Line Synthetic Grease 80402](https://www.summitracing.com/parts/red-80402)  
+[Red Line Synthetic Oil. CV-2 Grease](https://www.redlineoil.com/cv-2-grease)
+[CE-9013G - Johnny Joint® Grease](https://www.rockjock4x4.com/CE-9013G)  
+
+tools are $200+, two sizes needed for the uppers and lowers.  
+budget option is all thread rod and sockets  
+
+[Johnny Joint Maintenance | Page 4 | WTJF](https://wranglertjforum.com/threads/johnny-joint-maintenance.54875/post-958808)  
+@rasband: All thread (or a long bolt), a cup that the housing can rest against, and a socket that is big enough to go around the bolt hole and rest on the washer on the snap ring side. 
+
+[mr blaine: Johnny Joint Maintenance | WTJF](https://wranglertjforum.com/threads/johnny-joint-maintenance.54875/post-957708)   
+Two things are key. First, the socket you use to push in the washer to take the load off the snap ring needs to be larger than the hole in the washer by enough not to tilt into the hole. It also needs to be smaller than the amount of room that it takes to pop the snap ring out of the groove. **You can grind a flat on one side to give the snap ring eyes room to pop out.**  
+
+The second thing is when you using all thread to squeeze the washer, **the opposite side needs to be on the body, not the other washer**. Otherwise, you can move the wrong washer or really have to squeeze the races towards each other in hopes that the one under the snap ring moves. React against the body opposite the snap ring and it all works much better.  
+
+### Tools: 
+- Vise 
+- Big snap ring pliers 
+   
+rockjock:  
+[CE-9110T - 2 1/2” Johnny Joint® Assembly/Disassembly Tool](https://www.rockjock4x4.com/CE-9110T)  
+[CE-9112T - 2” Johnny Joint® Assembly/Disassembly Tool](https://www.rockjock4x4.com/CE-9112T)  
+
+ebay:    
+[CE-9110T - 2 ½” Johnny Joint® Assembly/Disassembly Tool  | eBay](https://www.ebay.com/itm/324585499103)  
+[CE-9112T - 2” Johnny Joint® Assembly/Disassembly Tool  | eBay](https://www.ebay.com/itm/324585530236)  
+
+![jj tool usage](../img/jjtool.jpg)  
+
+
+### bolts  
+check for drilled balls when disassembled. if balls are drilled, it can accept grease from drilled bolts.  
+greaseable bolts for johnny joints  
+[CE-91107 - 9/16" Greaseable Bolts for Currie Johnny Joint - Savvy Off Road](https://savvyoffroad.com/product/ce-91107/)  
+[rock jock Greasable Bolts](https://www.rockjock4x4.com/products/johnny-joints-rod-ends/johnny-joints-parts-department/johnny-joints-greasable-bolts)  
+
+### how to guides
+[How-To Rebuild a Johnny Joint - YouTube](https://www.youtube.com/watch?v=hUGd6_FYho8)
+[How To Rebuild Johnny Joint, With or Without the Expensive Rebuild Tool! - YouTube](https://www.youtube.com/watch?v=xABN89PIDZE)
+[Rebuilt | Currie Johnny Joint - YouTube](https://www.youtube.com/watch?v=5LfOErncvQU)
+
+track bar grease fittings are 1/4-28 threaded  
+[Precision 1/4-28 Inch flush Grease Zerk 621 | O'Reilly](https://www.oreillyauto.com/detail/c/precision/hardware---fasteners/brass-fittings/grease-fittings/49e6d129c331/precision-1-4-28-inch-grease-zerk/opj0/621)  
+[1/4-28 Flush Straight Grease Zerk Fitting 5 Pcs - ZerksPlusStarStarCartSearchCartSearchCloseaccount.wishlists.headingCloseFacebookEmailPrintTwitterPinterestClose](https://zerksplus.com/1-4-28-flush-straight-grease-zerk-fitting-5-pcs/)  
+[Metal Grease Fitting Plugs | Huyett](https://www.huyett.com/products/grease-fittings-lubrication/fittings/grease-plugs?fs_threadsize=1%2F4%22)
+
+## front component speakers
+
+[KICKER | KS Series 5.25" Components KSS504 or KSS50](https://www.kicker.com/47KSS50)  
+[Kicker 47KSS504 KS Series 5-1/4" component speaker Crutchfield](https://www.crutchfield.com/p_20647KSS50/Kicker-47KSS504.html)
+
+## stereo head unit
+
+[Clarion M508 Marine | Crutchfield](https://www.crutchfield.com/p_020M508/Clarion-M508.html)
+[Kenwood Excelon KMM-X704 | Crutchfield](https://www.crutchfield.com/p_113KMX704/Kenwood-Excelon-KMM-X704.html)
+
+## regear
+
+[Grimm Jeeper Gear Ratio Calculator](http://www.grimmjeeper.com/gears.html)
+
+## rear axle seals
+9912S
+[Leaky rear axle seal, what'd I mess up? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/leaky-rear-axle-seal-whatd-i-mess-up.64522/post-1175398)  
+Edit: the one on the right is SKF 18731 [SKF 18731 Grease Seals](https://a.co/d/fyvCeIh)
