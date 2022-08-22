@@ -437,7 +437,7 @@ greaseable bolts for johnny joints
 
 track bar grease fittings are 1/4-28 threaded  
 [Precision 1/4-28 Inch flush Grease Zerk 621 | O'Reilly](https://www.oreillyauto.com/detail/c/precision/hardware---fasteners/brass-fittings/grease-fittings/49e6d129c331/precision-1-4-28-inch-grease-zerk/opj0/621)  
-[1/4-28 Flush Straight Grease Zerk Fitting 5 Pcs - ZerksPlusStarStarCartSearchCartSearchCloseaccount.wishlists.headingCloseFacebookEmailPrintTwitterPinterestClose](https://zerksplus.com/1-4-28-flush-straight-grease-zerk-fitting-5-pcs/)  
+[1/4-28 Flush Straight Grease Zerk Fitting 5 Pcs](https://zerksplus.com/1-4-28-flush-straight-grease-zerk-fitting-5-pcs/)  
 [Metal Grease Fitting Plugs | Huyett](https://www.huyett.com/products/grease-fittings-lubrication/fittings/grease-plugs?fs_threadsize=1%2F4%22)
 
 ## front component speakers
@@ -447,14 +447,18 @@ track bar grease fittings are 1/4-28 threaded
 
 ## stereo head unit
 
-[Clarion M508 Marine | Crutchfield](https://www.crutchfield.com/p_020M508/Clarion-M508.html)
-[Kenwood Excelon KMM-X704 | Crutchfield](https://www.crutchfield.com/p_113KMX704/Kenwood-Excelon-KMM-X704.html)
+[Clarion M508 Marine | Crutchfield](https://www.crutchfield.com/p_020M508/Clarion-M508.html)  
+[Kenwood Excelon KMM-X704 | Crutchfield](https://www.crutchfield.com/p_113KMX704/Kenwood-Excelon-KMM-X704.html)  
 
 ## regear
 
-[Grimm Jeeper Gear Ratio Calculator](http://www.grimmjeeper.com/gears.html)
+[Grimm Jeeper Gear Ratio Calculator](http://www.grimmjeeper.com/gears.html)  
+thinking 4.88s for my nv3550 and 33s  
+this is what i had in my '01 with 35s and it was fine.  
+[Nitro Gear set](https://www.nitro-gear.com/Rubicon-Dana-44-Front-and-Rear-Nitro-Gear-Package-p/gptjrubicon-xxx.htm)
 
 ## rear axle seals
-9912S
+9912S  
 [Leaky rear axle seal, what'd I mess up? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/leaky-rear-axle-seal-whatd-i-mess-up.64522/post-1175398)  
-Edit: the one on the right is SKF 18731 [SKF 18731 Grease Seals](https://a.co/d/fyvCeIh)
+Edit: the one on the right is SKF 18731  
+[SKF 18731 Grease Seals](https://a.co/d/fyvCeIh)  
