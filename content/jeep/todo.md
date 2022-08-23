@@ -78,6 +78,7 @@ tags: ['jeep']
 - [center axle under jeep](#center-axle-under-jeep)
 - [set bumpstops](#set-bump-stops)
 - [valve cover gasket]()
+- [fuse and relay](#fuse-and-relay)
 ---
 
 ## O2 Sensors
@@ -230,6 +231,8 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 [stuck Unit Bearing - TJ Generation](https://jeepspecs.com/tj-generation/unit-bearing-dislodge/)   
 [WTJF: Can't remove front axle, any tips?](https://wranglertjforum.com/threads/cant-remove-front-axle-any-tips.20707/)   
 
+[Stu: unstick that unit bearing](https://web.archive.org/web/20171111184247/http://www.stu-offroad.com/axle/unitbearing/unitbearing-1.htm)
+![stuck unit bearing](../img/unitb-1.jpg)
 
 ## subwoofer unit
 [Amazon: JBL BassPro Nano 6" Powered Subwoofer](https://www.amazon.com/dp/B08J4B1WZH/?tag=wranglerorg-20)  
@@ -462,3 +465,6 @@ this is what i had in my '01 with 35s and it was fine.
 [Leaky rear axle seal, what'd I mess up? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/leaky-rear-axle-seal-whatd-i-mess-up.64522/post-1175398)  
 Edit: the one on the right is SKF 18731  
 [SKF 18731 Grease Seals](https://a.co/d/fyvCeIh)  
+
+## fuse and relay
+[Fuse box diagram Jeep Wrangler TJ and relay with assignment and location](https://fuseandrelay.com/jeep/wrangler.html)  
