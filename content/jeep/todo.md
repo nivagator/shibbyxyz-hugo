@@ -184,10 +184,10 @@ people really like the OTC kits, but they are pricey
 [orion press kit](https://www.amazon.com/gp/product/B09J54HW7Y)
 
 Adapter kit:
-The trick for the ball joints is the 7894 adapter kit (amazon) 
+The trick for the ball joints is the 7894 adapter kit (amazon)  
 [OTC 7894 ball joint adapter kit](https://www.amazon.com/OTC-Dodge-Joint-Service-Adapter/dp/B0002SRGW0)  
 [Amazon OTC Jeep/Dodge Joint service adapter](https://www.amazon.com/gp/product/B0002SRGW0)  
-[amazon Sunluway adapter kit](https://www.amazon.com/gp/product/B07FVS1RHJ)
+[amazon Sunluway adapter kit](https://www.amazon.com/gp/product/B07FVS1RHJ)  
 
 ![upper ball joint tool](../img/upperbjpress.jpg)
 ![lower ball joint tool](../img/lowerbjpress.jpg)

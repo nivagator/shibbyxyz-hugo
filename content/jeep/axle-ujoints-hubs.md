@@ -15,38 +15,28 @@ Parts needed:
 
 part | qty | $
 ---|---|---
-5-760x ujoint | 2 | $40
-hub/unit bearing | 2 | $140
-brake shield L | 1 | $20
-brake shield R | 1 | $20
-axle nut kit | 2 | $14
-BMB pads & rotors | 2 | $295
+5-760x ujoint | 2 
+hub/unit bearing | 2
+brake shield L | 1 
+brake shield R | 1 
+axle nut kit | 2 
 
-### ujoints - 5-760x 
-retailer | $ | link
----|---:|---
-amazon | pair: $55 - $27.50 | <https://www.amazon.com/dp/B014OFD90Y/>
-amazon | $24 | <https://www.amazon.com/dp/B009X1XDZG/>
-rockauto | $19 | <https://www.rockauto.com/en/moreinfo.php?pk=4937682&jsn=270>
-dennys | $19 | [Denny's Spicer 5-793X](https://www.dennysdriveshaft.com/p2264_dana_spicer_5_793x_fits_2003_to_2006_jeep_tj_rubicon_and_unl.html)
+### axle ujoints
+Spicer 5-760x non greasable  
 
 ### unit bearings/hubs
 [unit bearings/hubs](/jeep/todo#unit-bearingshubs)  
-[Amazon: Timken HA597449](https://www.amazon.com/dp/B000BZAF36/) - $70ea  
+[Amazon: Timken HA597449](https://www.amazon.com/dp/B000BZAF36/)  
  
 ### axle nut
 front axle nut - 36mm torqued to 175 ft/lbs.  
-[Rockauto DORMAN 05101 spindle nut kit](https://www1.rockauto.com/en/moreinfo.php?pk=15572&cc=1425901&pt=1616) - $6.83   
-[Amazon: dorman 05101 kit](https://www.amazon.com/Dorman-HELP-05101-Spindle-Lock/dp/B000CO8ZQU) - $8.69  
+[Rockauto DORMAN 05101 spindle nut kit](https://www1.rockauto.com/en/moreinfo.php?pk=15572&cc=1425901&pt=1616)  
+[Amazon: dorman 05101 kit](https://www.amazon.com/Dorman-HELP-05101-Spindle-Lock/dp/B000CO8ZQU)  
 
 ### brake shields
-[Amazon: Front Left Brake Shield](https://www.amazon.com/dp/B074MMV85G/) - $20  
-[Amazon: Front Right Brake Shield](https://www.amazon.com/dp/B074MM8HTR/) - $20 
-[Rockauto: SKP SKY01034 set](https://www.rockauto.com/en/moreinfo.php?pk=12743621) - $26  
-
-### pads and rotors 
-[Jeep Todo: Brakes](/jeep/todo#front-brakes)  
-[BMB: Front pads and rotors](https://www.shop.blackmagicbrakes.com/Front-Pads-477s-Front-Rotors-67045s-F-BMBP-47700067045.htm) - $295  
+[Amazon: Front Left Brake Shield](https://www.amazon.com/dp/B074MMV85G/)  
+[Amazon: Front Right Brake Shield](https://www.amazon.com/dp/B074MM8HTR/) 
+[Rockauto: SKP SKY01034 set](https://www.rockauto.com/en/moreinfo.php?pk=12743621)  
 
 ## how to guides and info
 [Jeep Front Axle U-Joint Replacement DIY (Detailed) - YouTube](https://www.youtube.com/watch?v=jh5xM3UFTaU)   
@@ -57,6 +47,7 @@ front axle nut - 36mm torqued to 175 ft/lbs.
 [jeep todo: flush brake fluid](/jeep/todo#flush-brake-fluid)  
 [mr blaine: Axle u joint replacement | WTJF](https://wranglertjforum.com/threads/axle-u-joint-replacement.1110/post-13944)  
 
+**Mr Blaine:**
 - never use a press on axle ujoints  
 - The hammer and socket method wont damage the yoke. 
 - No need to protect the cap being driven in, it is much harder than any hammer so don't be afraid to beat on it.
@@ -72,14 +63,3 @@ front axle nut - 36mm torqued to 175 ft/lbs.
 stuck hub:  
 - Put a 2.5 inch wide tube, a big bolt, whatever behind the outer stub axle and the inner C and use the steering wheel to push the bearing out.
 - beat on the 12 point bolts with 12 point socket too and drive it out
-
-## links
-HF impact socket adapter set 3 piece $6
-4xshaft u joint replacement
-
-hubs | 70.41 | 152.44
-spindle nut | 8.69 | 
-brake shield r | 24.99
-brake shield l | 16.49 | 17.85
-5-760x | 22.74
-36mm deep impact socket | 14.97
