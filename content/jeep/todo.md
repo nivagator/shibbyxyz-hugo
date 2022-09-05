@@ -203,6 +203,10 @@ About the only thing not included in that kit that I'd recommend would be a diff
 
 [Replacing Front Driveshaft Double Cardan U-Joints on Jeep Wrangler TJ Dana 30 - YouTube](https://www.youtube.com/watch?v=2wc0pfZKqRM)  
 
+### 03-06 TJ Rubicon factory DS
+TJ Rubicon front driveshafts use a nylon injection to hold the axle end yoke u-joint in place. There are no snap rings or c-clips. You heat up the yoke and the nylon literally shoots out the injection hole. Once removed, clear the channel where the nylon was and use inner c-clips with the replacement u-joint.  
+[Correct front drive shaft u-joint? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/correct-front-drive-shaft-u-joint.8295/)    
+![rubi ds nylon](../img/rubi-ds-ujoint-nylon.jpg)
 
 ## flip door handles 
 [WTJF: How to Reverse TJ Door Handles](https://wranglertjforum.com/threads/how-to-reverse-tj-door-handles.53652/)  
