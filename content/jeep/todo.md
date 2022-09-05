@@ -8,25 +8,20 @@ tags: ['jeep']
 [Build Sheet](https://www.jeep.com/webselfservice/BuildSheetServlet?vin=1J4FA69SX4P757994)
 
 ## Todo List 
-- oil change at 138,350
+- [oil change]() at 138,350
 - tire rotation at 140,000
 - [oil pan and gasket](#oil-pan-and-gasket)
 - [rebuild front driveshaft](#rebuild-front-driveshaft)
 - [O2 sensors](#o2-sensors)
-- [axle ujoints](#axle-ujoints)
 - [ball joints](#ball-joints)
 - [rms](#rms)
 - [timing chain](#timing-chain)
-- [unit bearings/hubs](#unit-bearingshubs)
-- blend door fixapple
 - paint shocks
 - paint BL gap
-- install front diff lube locker
-- service front diff
+- [service front diff]()
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)
 - [locker switches wiring](#locker-switches-wiring)
-- [adjust steering stops](#steering-stop-adjustment)
 - [replace clutch](#clutch)
 - skid nutsert replacement
 - [front component speakers](#front-component-speakers)
@@ -69,16 +64,29 @@ tags: ['jeep']
 - [fix blend door](#fix-blend-door)
 - [grease front end](#grease-front-end)
 - [rear axle seals](#rear-axle-seals)
+- tighten suspension bolts
+- [zj steering](#zj-tie-rodsteering)
+- [frame drain holes](#frame-drain-holes)
 ---
 
 ## done
 - [repair fog light switch](#repair-mf-switch-fog-lights)
 - [h4 headlight conversion](#h4-headlight-conversion)
 - [alignment](#alignment)
+- rear diff fluid | 2021-11-22 @ 133,760mi
+- coolant flush | 2021-10-17 @ 133,500mi
 - [center axle under jeep](#center-axle-under-jeep)
 - [set bumpstops](#set-bump-stops)
-- [valve cover gasket]()
+- spark plugs | 2021-09-31 @ 133,400mi
+- seat risers | 2021-10-01 @ 133,400mi
+- door hinge bushings | 2021-10-21
+- valve cover gasket | 2021-10-18 @ 133,516mi
+- tcase fluid | 2021-11-15 @ 133,650mi
+- transmission fluid | 2021-11-15 @ 133,650mi
 - [fuse and relay](#fuse-and-relay)
+- [axle ujoints](#axle-ujoints) | 2022-09-05 @ 135,972mi
+- [unit bearings/hubs](#unit-bearingshubs) | 2022-09-05 @ 135,972mi
+- [adjust steering stops](#steering-stop-adjustment) | 2022-09-05 @ 135,972mi
 ---
 
 ## O2 Sensors
@@ -105,6 +113,20 @@ spicer 5-760x
 [5-760x pair Amazon](https://www.amazon.com/dp/B014OFD90Y/)  
 [Amazon: spicer 5-760x](https://www.amazon.com/dp/B009X1XDZG)  
 
+[How To Remove The Front Axle and Change The U joint On YJ/TJ/XJ Jeep Wrangler - YouTube](https://www.youtube.com/watch?v=YwHdcQ_fhlQ)  
+[WTJF: How to Install a Jeep Wrangler Front Axle U-Joint and Hub](https://wranglertjforum.com/threads/how-to-install-a-jeep-wrangler-front-axle-u-joint-and-hub.8967/)  
+[WTJF: ElectricWizards 2000 TJ Sport Build](https://wranglertjforum.com/threads/electricwizards-2000-tj-sport-build.14165/post-873537)  
+[mr blaine: Axle u joint replacement | WTJF](https://wranglertjforum.com/threads/axle-u-joint-replacement.1110/post-13944)  
+
+**Mr Blaine:**
+- never use a press on axle ujoints  
+- The hammer and socket method wont damage the yoke. 
+- No need to protect the cap being driven in, it is much harder than any hammer so don't be afraid to beat on it.
+- When you drive the first cap in, take it below flush so the other pin is sticking out a bit further. That way you can pull the cross halfway out of the installed cap and it sticks up high enough on the other side to get the second cap started and engage the needle bearings in both caps. That prevents a needle from falling over and getting trapped which is always a mess. That is also when you install the clip in the first cap's groove so when you hammer in the second cap, it pushes the first one back against the snap ring.
+- When that is done, the second groove will be showing and when you install the snap ring, it will be loose. You need to set the caps back against the snap rings so the pressure of the cap pushes them against the inside of the yoke. That is done by holding the assembled axle pointing straight away from you in one hand and then taking a nice size hammer and smacking the yoke on the fat part right below the holes for the caps. Inertia will act upon the cross and move the cap outward to lock the snap ring in place. You can check all of this very simply. Once you get the joint installed, move it back and forth and you can feel the tightness from one side being shoved against the thrust bearing inside the cap. After you set both side back against the snap rings, it will free up the joint in a most noticeable manner.
+- You should also try to rotate the snap ring in the groove with the end of a screwdriver by pushing on it. If it doesn't spin easily, that's good enough.
+- Also why you see folks struggling to remove the snap rings. They don't understand that the previous installer did it correctly and they need to release the pressure by first smacking the cap inwards before trying to pry out the snap ring and then doing the same to the other side to get that snap ring out.
+
 ![ujointsimage](/jeep/img/ujoints.jpg)  
 
 ## steering stop adjustment
@@ -124,9 +146,30 @@ spicer 5-760x
 
 ## winch stuff
 [Roundforge: Warn M8000 buyers guide](https://www.roundforge.com/articles/warn-m8000-and-m8-winch/)  
-[TRE Thimbles](https://www.tacticalrecoveryequipment.com/product-category/winch-thimble/)  
 [TRE Winch Rope](https://www.tacticalrecoveryequipment.com/product-category/synthetic-winch-rope/)  
-[TRE Thimble Fairlead](https://www.tacticalrecoveryequipment.com/product-category/winch-fairlead-hawse-fairlead/)  
+
+Wizard Recovery Gear!
+[Wizard Recovery Gear - ST FAIRLEAD](https://www.shop.blackmagicbrakes.com/Wizard-Recovery-Gear-ST-FAIRLEAD-WRG-ST-FAIRLEAD.htm)  
+[Wizard Recovery Gear - STANDARD HAWSE FAIRLEAD](https://www.shop.blackmagicbrakes.com/Wizard-Recovery-Gear-STANDARD-HAWSE-FAIRLEAD-WRG-STD-HAWSE-FAIRLEAD.htm)  
+Thimble and rope coming soon
+
+[Which winch? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/which-winch.27803/post-451230)
+
+[WARN 37170 Winch Mounting Plate for 97-06 Jeep Wrangler TJ & Unlimited | Quadratec](https://www.quadratec.com/products/12114_02_07.htm)  
+[LoD Offroad JWP9654 Bolt-On Winch Plate for 87-06 Jeep Wrangler YJ, TJ & TJ Unlimited with Tube Bumper | Quadratec](https://www.quadratec.com/p/lod-offroad/winch-plate-wrangler-yj-tj-tj-unlimited-JWP9654)  
+[Smittybilt 2802 SMI Raised Winch Plate for 87-06 Jeep Wrangler YJ, TJ & Unlimited | Quadratec](https://www.quadratec.com/products/92122_1103_07.htm)  
+[Fishbone Offroad FB21052 Winch Mounting Plate for 97-06 Jeep Wrangler TJ with Fishbone Offroad Piranha Front Bumper | Quadratec](https://www.quadratec.com/p/fishbone-offroad/winch-mounting-plate-87-06-jeep-wrangler-yj-tj-fishbone-offroad-piranha-front)  
+
+### XD9000i rebuild info  
+[Warn XD9000i for repair | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/warn-xd9000i-for-repair.64834/post-1182388)  
+- 83665 remote $82
+- 77892 motor $210-260
+- 72631 solenoid $32 each (need 4)
+- 32455 brake $140-160
+- Misc parts $40ish
+
+[Warn XD9000i | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/warn-xd9000i.48976/)  
+Montanajacks had all the parts I needed in stock.[Warn winches – Montana Jacks Outpost](https://www.montanajacks.com/)  
 
 ## new soft top
 [Sierra Offroad 2003-2006 TJ Wrangler Soft Top with Tinted Windows, Black Trilogy Acoustic Vinyl](https://www.autotopsdirect.com/product-p/10-40-tj19702-35.htm?1=1&CartID=1)  
@@ -158,6 +201,9 @@ About the only thing not included in that kit that I'd recommend would be a diff
 5-1330x - cv ujoints (2)   
 [Denny's driveshaft rebuild kit](https://www.dennysdriveshaft.com/p2297_cv_996_1_rebuild_kit_for_2003_to_2006_jeep_tj_rubicon_with_o.html#photo)  
 
+[Replacing Front Driveshaft Double Cardan U-Joints on Jeep Wrangler TJ Dana 30 - YouTube](https://www.youtube.com/watch?v=2wc0pfZKqRM)  
+
+
 ## flip door handles 
 [WTJF: How to Reverse TJ Door Handles](https://wranglertjforum.com/threads/how-to-reverse-tj-door-handles.53652/)  
 
@@ -173,6 +219,7 @@ About the only thing not included in that kit that I'd recommend would be a diff
 [youtube: jeep ball joint replacement](https://www.youtube.com/watch?v=3ol3TPHzvHk)  
 [WTJF: Ball Joint Tool Kit](https://wranglertjforum.com/threads/ball-joint-tool-kit.63711/#post-1155273)  
 [Amazon: spicer 706944X ball joint kit](https://www.amazon.com/dp/B007N6OHI0)  
+[How to Replace Ball Joints in a Jeep Wrangler - YouTube](https://www.youtube.com/watch?v=vddabvVrLDc)
 
 ### tools
 Press:   
@@ -231,8 +278,24 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 [stuck Unit Bearing - TJ Generation](https://jeepspecs.com/tj-generation/unit-bearing-dislodge/)   
 [WTJF: Can't remove front axle, any tips?](https://wranglertjforum.com/threads/cant-remove-front-axle-any-tips.20707/)   
 
-[Stu: unstick that unit bearing](https://web.archive.org/web/20171111184247/http://www.stu-offroad.com/axle/unitbearing/unitbearing-1.htm)
-![stuck unit bearing](../img/unitb-1.jpg)
+[Amazon: Timken HA597449](https://www.amazon.com/dp/B000BZAF36/)  
+front axle nut - 36mm torqued to 175 ft/lbs [Amazon: dorman 05101 kit](https://www.amazon.com/Dorman-HELP-05101-Spindle-Lock/dp/B000CO8ZQU)  
+
+### how to guides and info
+[Wrangler TJ wheel hub / bearing assembly replacement](https://www.jeepz.com/forum/drivetrain/42877-wrangler-tj-wheel-hub-bearing-assembly-replacement.html)  
+ 
+
+
+### troubleshooting
+[stuck Unit Bearing - TJ Generation](https://jeepspecs.com/tj-generation/unit-bearing-dislodge/)   
+[WTJF: Can't remove front axle, any tips?](https://wranglertjforum.com/threads/cant-remove-front-axle-any-tips.20707/)   
+
+stuck hub:  
+- Put a 2.5 inch wide tube, a big bolt, whatever behind the outer stub axle and the inner C and use the steering wheel to push the bearing out.
+- beat on the 12 point bolts with 12 point socket too and drive it out
+
+[Stu: unstick that unit bearing](https://web.archive.org/web/20171111184247/http://www.stu-offroad.com/axle/unitbearing/unitbearing-1.htm)  
+![stuck unit bearing](../img/unitb-1.jpg)  
 
 ## subwoofer unit
 [Amazon: JBL BassPro Nano 6" Powered Subwoofer](https://www.amazon.com/dp/B08J4B1WZH/?tag=wranglerorg-20)  
@@ -245,7 +308,11 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 
 ## aim headlights 
 [Daniel Stern aim headlights](https://www.danielsternlighting.com/tech/aim/aim.html)  
-[WTJF: How to aim and align your headlights](https://wranglertjforum.com/threads/how-to-aim-and-align-your-headlights.2218/)
+[WTJF: How to aim and align your headlights](https://wranglertjforum.com/threads/how-to-aim-and-align-your-headlights.2218/)  
+
+[How to aim and align your headlights | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-aim-and-align-your-headlights.2218/)   
+Screwing the bottom screw clockwise will move the beam toward the passenger side.   
+Screwing the top screw clockwise will move the beam up.   
 
 ## flush brake fluid
 [WTJF: School me on flushing brake fluid](https://wranglertjforum.com/threads/school-me-on-flushing-brake-fluid.24241/)  
@@ -468,3 +535,56 @@ Edit: the one on the right is SKF 18731
 
 ## fuse and relay
 [Fuse box diagram Jeep Wrangler TJ and relay with assignment and location](https://fuseandrelay.com/jeep/wrangler.html)  
+
+## zj tie rod/steering
+https://wranglertjforum.com/threads/zj-steering-upgrade.11895/
+https://wranglertjforum.com/threads/zj-tie-rod-conversion.2373/  
+https://wranglertjforum.com/threads/what-is-the-best-steering-for-my-jeep-wrangler-tj.2956/  
+
+
+### tie rod only 
+(1) ES3096L End
+(1) ES2079S Sleeve
+(1) DS1312 Tie Rod
+
+ES3096L Tie Rod End (x1)
+ES2079S Adjusting Sleeve (x1)
+DS1312 Tie Rod (x1)
+
+### Torque Specs
+Drag Link to Pitman Arm Nut - 81 Nm / 60 ft.lbs.
+Drag Link to Knuckle Nut - 47 Nm / 35 ft.lbs.
+Drag Link Clamp Bolts - 49 Nm / 36 ft.lbs.
+Tie Rod Clamp Bolts - 49 Nm / 35 ft.lbs
+Tie Rod Knuckle - 47 Nm / 35 ft.lbs
+Tie Rod to Drag Link - 75 Nm / 55 ft.lbs.
+
+## service front diff
+75w-140 gl-5  
+1.89 L (4.0 pts.)  
+
+## frame drain holes
+5/16 or 3/8. I drilled 1-1/2 inches away from each control arm mount.  
+5/8 in the usual positions, after drilling a pilot hole I used a step drill.  
+it’s either 1/2” or 5/8” for it to drain. if the hole isn’t big enough then the surface tension of the water will prevent it from running out  
+Drill 5/8” drain holes about 3-4” behind the front control arms brackets. Absolutely!  
+1/2” is good. Some go to 3/4”. Anything in there is fine.
+15mm hole centered 117mm behind the front control arm mounts 
+
+looking like 5/8 is the right size
+
+### rear crossmember drain
+![rear crossmember](/jeep/img/rearcross-drain.jpg)
+
+### frame clean out
+I sit a fan type water sprinkler that goes back and forth under the jeep in various places for 15-20 minutes at a time for a total of a couple hours once I get back. Then I use this with my pressure washer. Under carriage clearer
+
+Last, I use my water hose and shoot water into the frame at every hole I can find from front to back and at different angle to flush anything out.
+
+[Clog Hog® Sewer Jetter Drain Cleaner —  See It in Action - YouTube](https://www.youtube.com/watch?v=McZVVmMRqLg)  
+https://www.amazon.com/dp/B016Y1LIN6/
+https://www.amazon.com/gp/product/B07K22DGRY
+
+## engine oil
+5w30 STP conv high mileage $27  
+mopar m0-090 $10  
