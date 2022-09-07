@@ -8,10 +8,9 @@ tags: ['jeep']
 [Build Sheet](https://www.jeep.com/webselfservice/BuildSheetServlet?vin=1J4FA69SX4P757994)
 
 ## Todo List 
-- [oil change]() at 138,350
+- [oil change](#engine-oil) at 138,350
 - tire rotation at 140,000
 - [oil pan and gasket](#oil-pan-and-gasket)
-- [rebuild front driveshaft](#rebuild-front-driveshaft)
 - [O2 sensors](#o2-sensors)
 - [ball joints](#ball-joints)
 - [rms](#rms)
@@ -49,7 +48,6 @@ tags: ['jeep']
 - [raise gas skid](#raise-gas-skid)
 - add a trunk nutserts
 - new battery
-- battery cables
 - morryde tailgate hinges
 - factory bumper end caps
 - stubby factory front bumper
@@ -67,6 +65,7 @@ tags: ['jeep']
 - tighten suspension bolts
 - [zj steering](#zj-tie-rodsteering)
 - [frame drain holes](#frame-drain-holes)
+- [electrical cables](#electrical-cables)
 ---
 
 ## done
@@ -87,6 +86,7 @@ tags: ['jeep']
 - [axle ujoints](#axle-ujoints) | 2022-09-05 @ 135,972mi
 - [unit bearings/hubs](#unit-bearingshubs) | 2022-09-05 @ 135,972mi
 - [adjust steering stops](#steering-stop-adjustment) | 2022-09-05 @ 135,972mi
+- [rebuild front driveshaft](#rebuild-front-driveshaft) | 2022-05-06 @ 136,002mi
 ---
 
 ## O2 Sensors
@@ -147,18 +147,25 @@ spicer 5-760x
 ## winch stuff
 [Roundforge: Warn M8000 buyers guide](https://www.roundforge.com/articles/warn-m8000-and-m8-winch/)  
 [TRE Winch Rope](https://www.tacticalrecoveryequipment.com/product-category/synthetic-winch-rope/)  
+[Winch Master Disconnect | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/winch-master-disconnect.64060/)  
 
-Wizard Recovery Gear!
+### Wizard Recovery Gear!  
 [Wizard Recovery Gear - ST FAIRLEAD](https://www.shop.blackmagicbrakes.com/Wizard-Recovery-Gear-ST-FAIRLEAD-WRG-ST-FAIRLEAD.htm)  
 [Wizard Recovery Gear - STANDARD HAWSE FAIRLEAD](https://www.shop.blackmagicbrakes.com/Wizard-Recovery-Gear-STANDARD-HAWSE-FAIRLEAD-WRG-STD-HAWSE-FAIRLEAD.htm)  
 Thimble and rope coming soon
 
 [Which winch? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/which-winch.27803/post-451230)
 
-[WARN 37170 Winch Mounting Plate for 97-06 Jeep Wrangler TJ & Unlimited | Quadratec](https://www.quadratec.com/products/12114_02_07.htm)  
-[LoD Offroad JWP9654 Bolt-On Winch Plate for 87-06 Jeep Wrangler YJ, TJ & TJ Unlimited with Tube Bumper | Quadratec](https://www.quadratec.com/p/lod-offroad/winch-plate-wrangler-yj-tj-tj-unlimited-JWP9654)  
+### warn m8000
+[warn m8000 | summit](https://www.summitracing.com/parts/wrn-26502)
+
+### winch plate
+[WARN 37170 Winch Mounting Plate for 97-06 Jeep Wrangler TJ & Unlimited | Quadratec](https://www.quadratec.com/products/12114_02_07.htm)    
+[Warn 37170 winch plate | summit](https://www.summitracing.com/parts/wrn-37170)  
+[LoD Offroad JWP9654 Bolt-On Winch Plate for TJ | Quadratec](https://www.quadratec.com/p/lod-offroad/winch-plate-wrangler-yj-tj-tj-unlimited-JWP9654)  
+[LoD Offroad | TJ Bolt-on Winch Plate](https://lodoffroad.com/products/1996-2006-jeep-tj-lj-yj-bolt-on-winch-plate)  
 [Smittybilt 2802 SMI Raised Winch Plate for 87-06 Jeep Wrangler YJ, TJ & Unlimited | Quadratec](https://www.quadratec.com/products/92122_1103_07.htm)  
-[Fishbone Offroad FB21052 Winch Mounting Plate for 97-06 Jeep Wrangler TJ with Fishbone Offroad Piranha Front Bumper | Quadratec](https://www.quadratec.com/p/fishbone-offroad/winch-mounting-plate-87-06-jeep-wrangler-yj-tj-fishbone-offroad-piranha-front)  
+[Fishbone Offroad FB21052 Winch Plate TJ with Fishbone Offroad Piranha Front Bumper | Quadratec](https://www.quadratec.com/p/fishbone-offroad/winch-mounting-plate-87-06-jeep-wrangler-yj-tj-fishbone-offroad-piranha-front)  
 
 ### XD9000i rebuild info  
 [Warn XD9000i for repair | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/warn-xd9000i-for-repair.64834/post-1182388)  
@@ -204,7 +211,17 @@ About the only thing not included in that kit that I'd recommend would be a diff
 [Replacing Front Driveshaft Double Cardan U-Joints on Jeep Wrangler TJ Dana 30 - YouTube](https://www.youtube.com/watch?v=2wc0pfZKqRM)  
 
 ### 03-06 TJ Rubicon factory DS
+Front Drive Shaft (stock)
+- U-Joint @ Diff: Spicer 5-793x
+- U-Joint @ DC Joint (x2): Spicer 5-790x (5-1330X)
+- Non-Greasable Centering Yoke Spicer 211996X
+- Centering-ball Seal: Spicer 2-86-418
+- U-Joint Strap Kits Spicer 2-70-18X
+- T-case Bolts 6036415AA  
+
+[04 Rubicon front driveshaft u-joint issue. What am I missing here? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/04-rubicon-front-driveshaft-u-joint-issue-what-am-i-missing-here.44356/post-749434):  
 TJ Rubicon front driveshafts use a nylon injection to hold the axle end yoke u-joint in place. There are no snap rings or c-clips. You heat up the yoke and the nylon literally shoots out the injection hole. Once removed, clear the channel where the nylon was and use inner c-clips with the replacement u-joint.  
+
 [Correct front drive shaft u-joint? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/correct-front-drive-shaft-u-joint.8295/)    
 ![rubi ds nylon](../img/rubi-ds-ujoint-nylon.jpg)
 
@@ -531,6 +548,8 @@ thinking 4.88s for my nv3550 and 33s
 this is what i had in my '01 with 35s and it was fine.  
 [Nitro Gear set](https://www.nitro-gear.com/Rubicon-Dana-44-Front-and-Rear-Nitro-Gear-Package-p/gptjrubicon-xxx.htm)
 
+Motive Gears
+
 ## rear axle seals
 9912S  
 [Leaky rear axle seal, what'd I mess up? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/leaky-rear-axle-seal-whatd-i-mess-up.64522/post-1175398)  
@@ -592,3 +611,6 @@ https://www.amazon.com/gp/product/B07K22DGRY
 ## engine oil
 5w30 STP conv high mileage $27  
 mopar m0-090 $10  
+
+## electrical cables
+[TJ Big 7 Complete Kit (Wrangler 97-06)](https://jeepcables.com/tj-big-7-complete-kit-wrangler-97-06/)  
