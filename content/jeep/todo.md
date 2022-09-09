@@ -24,7 +24,7 @@ tags: ['jeep']
 - [replace clutch](#clutch)
 - skid nutsert replacement
 - [front component speakers](#front-component-speakers)
-- swayloc
+- [aftermarket swaybar - swayloc or antirock](#aftermarket-sway-bar)
 - surface rust in drivers footwell
 - [Flip door handles](#flip-door-handles)
 - steering pillow
@@ -35,7 +35,7 @@ tags: ['jeep']
 - [radio separate amp](#radio-amp)
 - [separate subwoofer unit?](#subwoofer-unit)
 - rear bumper with hitch receiver 
-- [winch and winch plate](#winch-stuff)
+- [winch, winch plate, front bumper](#winch-stuff)
 - half doors
 - floor liners
 - paint axles?
@@ -50,7 +50,6 @@ tags: ['jeep']
 - new battery
 - morryde tailgate hinges
 - factory bumper end caps
-- stubby factory front bumper
 - rear axle shafts
 - front axle shafts
 - [regear to 4.88](#regear)
@@ -66,6 +65,8 @@ tags: ['jeep']
 - [zj steering](#zj-tie-rodsteering)
 - [frame drain holes](#frame-drain-holes)
 - [electrical cables](#electrical-cables)
+- [steering skid](#steering-skid)
+- [dead pedal](#dead-pedal)
 ---
 
 ## done
@@ -158,14 +159,22 @@ Thimble and rope coming soon
 
 ### warn m8000
 [warn m8000 | summit](https://www.summitracing.com/parts/wrn-26502)
+[warn m8000-s | summit](https://www.summitracing.com/parts/wrn-87800)
 
 ### winch plate
+[Winch with stock bumper? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/winch-with-stock-bumper.14062/)  
 [WARN 37170 Winch Mounting Plate for 97-06 Jeep Wrangler TJ & Unlimited | Quadratec](https://www.quadratec.com/products/12114_02_07.htm)    
 [Warn 37170 winch plate | summit](https://www.summitracing.com/parts/wrn-37170)  
 [LoD Offroad JWP9654 Bolt-On Winch Plate for TJ | Quadratec](https://www.quadratec.com/p/lod-offroad/winch-plate-wrangler-yj-tj-tj-unlimited-JWP9654)  
 [LoD Offroad | TJ Bolt-on Winch Plate](https://lodoffroad.com/products/1996-2006-jeep-tj-lj-yj-bolt-on-winch-plate)  
 [Smittybilt 2802 SMI Raised Winch Plate for 87-06 Jeep Wrangler YJ, TJ & Unlimited | Quadratec](https://www.quadratec.com/products/92122_1103_07.htm)  
 [Fishbone Offroad FB21052 Winch Plate TJ with Fishbone Offroad Piranha Front Bumper | Quadratec](https://www.quadratec.com/p/fishbone-offroad/winch-mounting-plate-87-06-jeep-wrangler-yj-tj-fishbone-offroad-piranha-front)  
+
+### front bumpers
+[WARN 87700 Rock Crawler Stubby Front Bumper for 97-06 Jeep Wrangler TJ & Unlimited | Quadratec](https://www.quadratec.com/products/12022_1002_07.htm)
+[UCF aluminum bumper with fairlead](https://undercoverfab.com/jeep-tj-lj-97-06/202-404-ucf-jeep-tj-aluminum-ultra-high-clearance-front-bumper.html#/36-fairlead_mount-add_fairlead_mount)
+[UCF steel bumper with fairlead](https://undercoverfab.com/jeep-tj-lj-97-06/203-409-ucf-jeep-tj-steel-ultra-high-clearance-front-bumper.html#/28-d_ring_mounts-none/36-fairlead_mount-add_fairlead_mount)
+[SAV-TJF - Savvy Off Road Front Bumper TJ/LJ 1997-2006 - Savvy Off Road](https://savvyoffroad.com/product/sav-tjf/)
 
 ### XD9000i rebuild info  
 [Warn XD9000i for repair | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/warn-xd9000i-for-repair.64834/post-1182388)  
@@ -177,6 +186,18 @@ Thimble and rope coming soon
 
 [Warn XD9000i | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/warn-xd9000i.48976/)  
 Montanajacks had all the parts I needed in stock.[Warn winches – Montana Jacks Outpost](https://www.montanajacks.com/)  
+
+### spooling line
+Do a locked Brummel eye about 14" in from the end of the line and leave the tail out after a very short bury. Make the eye large enough for the end terminal (thimble or hook) to fit through. Eye goes over the top of the drum, around the backside, out forward under the drum. Other end goes through the eye, snugs up tight against current anchor side, tail lays across drum and gets taped down and cut to length drum width. As soon as you tension it, it will snug up tight but no matter what, you can't pull the line loose from the winch if you screw up.  
+[How to Re-tie a Locking Brummel Loop at the end of your winch-line WITHOUT unspooling your winch!! - YouTube](https://www.youtube.com/watch?v=Ug0qAFRKcHY)  
+
+### in cab winch controllers
+[What winch panel switch are people using? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/what-winch-panel-switch-are-people-using.28457/post-458622)  
+
+### Control box relocation
+[Relocating winch control box | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/relocating-winch-control-box.43537/)  
+[MountaineerTom's 2006 Jeep Wrangler Unlimited | Page 6 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/mountaineertoms-2006-jeep-wrangler-unlimited.14995/page-6#post-887254)  
+
 
 ## new soft top
 [Sierra Offroad 2003-2006 TJ Wrangler Soft Top with Tinted Windows, Black Trilogy Acoustic Vinyl](https://www.autotopsdirect.com/product-p/10-40-tj19702-35.htm?1=1&CartID=1)  
@@ -299,6 +320,7 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 [stuck Unit Bearing - TJ Generation](https://jeepspecs.com/tj-generation/unit-bearing-dislodge/)   
 [WTJF: Can't remove front axle, any tips?](https://wranglertjforum.com/threads/cant-remove-front-axle-any-tips.20707/)   
 
+hub/bearing assembly bolts torqued to 75ft/lbs  
 [Amazon: Timken HA597449](https://www.amazon.com/dp/B000BZAF36/)  
 front axle nut - 36mm torqued to 175 ft/lbs [Amazon: dorman 05101 kit](https://www.amazon.com/Dorman-HELP-05101-Spindle-Lock/dp/B000CO8ZQU)  
 
@@ -556,13 +578,17 @@ Motive Gears
 Edit: the one on the right is SKF 18731  
 [SKF 18731 Grease Seals](https://a.co/d/fyvCeIh)  
 
+Timken 9912S or Dana 35239. The Dana would have been factory, the Timken is a different design with an expanding skirt that tightens up into the tube bore when you crank Down the retainer plate nuts. Helps prevent leaks. Many fans of the true 9912s here. Just don’t order the 9912S from Amazon because you’ll get fake crap. Order from rockauto. BTW, to find axle seals on rockauto, you need to go to “brake and wheel hub” and then to the “wheel seal” section.  they 
+
 ## fuse and relay
 [Fuse box diagram Jeep Wrangler TJ and relay with assignment and location](https://fuseandrelay.com/jeep/wrangler.html)  
 
 ## zj tie rod/steering
-https://wranglertjforum.com/threads/zj-steering-upgrade.11895/
+https://wranglertjforum.com/threads/zj-steering-upgrade.11895/  
 https://wranglertjforum.com/threads/zj-tie-rod-conversion.2373/  
 https://wranglertjforum.com/threads/what-is-the-best-steering-for-my-jeep-wrangler-tj.2956/  
+[Did MOOG screw up? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/did-moog-screw-up.64167/post-1165904)  
+
 
 
 ### tie rod only 
@@ -614,3 +640,23 @@ mopar m0-090 $10
 
 ## electrical cables
 [TJ Big 7 Complete Kit (Wrangler 97-06)](https://jeepcables.com/tj-big-7-complete-kit-wrangler-97-06/)  
+
+## steering skid
+[SAV-TJSS - Steering Box Protection - Savvy Aluminum TJ/LJ 97-06 - Savvy Off Road](https://savvyoffroad.com/product/sav-tjss/)  
+[Savvy steering box skid | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/savvy-steering-box-skid.34664/)  
+
+## aftermarket sway bar
+[REAL WORLD COMPARISON: OEM Anti-Sway Bar w/ Disconnects vs. Antirock Off-Road Sway Bar vs. SwayLOC Dual Rate Anti Swaybar System | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/real-world-comparison-oem-anti-sway-bar-w-disconnects-vs-antirock-off-road-sway-bar-vs-swayloc-dual-rate-anti-swaybar-system.46143/)  
+[Looking for thoughts and opinions on the Antirock | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/looking-for-thoughts-and-opinions-on-the-antirock.50570/)  
+[How does a Currie Antirock sway bar improve off road performance? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-does-a-currie-antirock-sway-bar-improve-off-road-performance.197/)  
+
+### swayloc
+[Jeep TJ Sway Bar SwayLOC For 97-06 Wrangler TJ OffRoadOnly - OffRoadOnly](https://offroadonly.com/shop/swayloc/off-road-only-swayloc-for-jeep-wrangler-tj/)  
+[Off Road Only SwayLOC for Jeep TJ | POLY PERFORMANCE](https://www.polyperformance.com/off-road-only-swayloc-for-jeep-tj)  
+[Off Road Only SL-TJLV Dual Rate Manual Operated SwayLOC Swaybar for 97-06 Jeep Wrangler TJ & Unlimited with 0-8" Lift | Quadratec](https://www.quadratec.com/products/16191_5500.htm)  
+
+### setting arm angle 
+[Do I need to pull my Antirock arm higher? | Page 2 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/do-i-need-to-pull-my-antirock-arm-higher.13490/post-1185864)
+
+## dead pedal
+[redrock dead pedaal | ExtremeTerrain](https://www.extremeterrain.com/productphotos?webid=redrock-4x4-jeep-wrangler-hd-dead-pedal-driver-side-j138784)
