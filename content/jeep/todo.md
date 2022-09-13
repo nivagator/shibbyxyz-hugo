@@ -47,7 +47,7 @@ tags: ['jeep']
 - [241 rear seal](#241-rear-seal-fix)
 - [raise gas skid](#raise-gas-skid)
 - add a trunk nutserts
-- new battery
+- [new battery](#battery)
 - morryde tailgate hinges
 - factory bumper end caps
 - rear axle shafts
@@ -67,6 +67,7 @@ tags: ['jeep']
 - [electrical cables](#electrical-cables)
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
+- [seat bushings]()
 ---
 
 ## done
@@ -83,6 +84,7 @@ tags: ['jeep']
 - valve cover gasket | 2021-10-18 @ 133,516mi
 - tcase fluid | 2021-11-15 @ 133,650mi
 - transmission fluid | 2021-11-15 @ 133,650mi
+- [intstall savvy adjustable control arms]()
 - [fuse and relay](#fuse-and-relay)
 - [axle ujoints](#axle-ujoints) | 2022-09-05 @ 135,972mi
 - [unit bearings/hubs](#unit-bearingshubs) | 2022-09-05 @ 135,972mi
@@ -137,6 +139,15 @@ spicer 5-760x
 [WTJF: Jeep Wrangler TJ Rubicon Factory Locker Bypass](https://wranglertjforum.com/threads/jeep-wrangler-tj-rubicon-factory-locker-bypass-use-your-lockers-in-4-hi.9241/)  
 [wandering trail: locker defeat](https://www.wanderingtrail.com/Mods/TJLJmods/Locker_Defeat.htm)  
 [rubicon locker bypass](https://www.rockcrawler.com/2003/04/jeep-rubicon-locker-bypass/)  
+[Upgrading Rubicon axles: is this a crazy thought? | Page 2 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/upgrading-rubicon-axles-is-this-a-crazy-thought.58411/page-2#post-1032696)  
+[ElectricWizards 2000 TJ Sport Build | Page 12 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/electricwizards-2000-tj-sport-build.14165/page-12#post-336835)  
+
+The idea is to insert a relay to interrupt the momentary ground that the pcm needs to enable both the lockers and the dash light circuits. If you wanted to enable lockers on all tcase positions, you have to do the wandering trail mod on top of this.  
+![locker wiring](../img/locker-wiring.jpg)
+
+![locker connetor](../img/locker-connector.jpg)   
+![locker toggle](../img/locker-toggle.png)  
+![led relay control](../img/led-locker-wiring.jpg)  
 
 ## Tailgate Dome Light Activation Switch
 [Tailgate Dome Light Activation Switch](https://wranglertjforum.com/threads/tailgate-dome-light-activation-switch.8682/)   
@@ -556,7 +567,8 @@ track bar grease fittings are 1/4-28 threaded
 ## front component speakers
 
 [KICKER | KS Series 5.25" Components KSS504 or KSS50](https://www.kicker.com/47KSS50)  
-[Kicker 47KSS504 KS Series 5-1/4" component speaker Crutchfield](https://www.crutchfield.com/p_20647KSS50/Kicker-47KSS504.html)
+[Kicker 47KSS504 KS Series 5-1/4" component speaker Crutchfield](https://www.crutchfield.com/p_20647KSS50/Kicker-47KSS504.html)  
+[Upgrading the sound system on your Jeep Wrangler TJ | Page 46 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/upgrading-the-sound-system-on-your-jeep-wrangler-tj.111q04/post-1171362)  
 
 ## stereo head unit
 
@@ -638,6 +650,9 @@ https://www.amazon.com/gp/product/B07K22DGRY
 5w30 STP conv high mileage $27  
 mopar m0-090 $10  
 
+Factory WIX 51085    
+Larger CJ size 51515 taller, holds more oil  
+
 ## electrical cables
 [TJ Big 7 Complete Kit (Wrangler 97-06)](https://jeepcables.com/tj-big-7-complete-kit-wrangler-97-06/)  
 
@@ -660,3 +675,42 @@ mopar m0-090 $10
 
 ## dead pedal
 [redrock dead pedaal | ExtremeTerrain](https://www.extremeterrain.com/productphotos?webid=redrock-4x4-jeep-wrangler-hd-dead-pedal-driver-side-j138784)
+
+## adjustable control arms
+uppers 7/16" 60 ft/lbs
+lowers 9/16" 90 ft/lbs
+
+## seat bushings
+[Seat Bushings | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/seat-bushings.41545/#post-1106982)  
+[Seat Bushing Repair Jeep Wrangler TJ LJ Front Seats - YouTube](https://www.youtube.com/watch?v=a1lVbkJ3kL4)  
+
+Hillman from lowes  
+Nylon spacers:  
+- 3/4 x 1/2 x 3/8 | 880447
+  - this slides over the upper stud to hold the cut nylons pacer in place (B)
+- 1/2 x .257 x 1 | 880438
+  - cut down to the length between the seat frame and button head. cut in half to sandwich over the shaft. (A)
+- 1/2 x .385 x 1 | 880441
+- 1 x 13.32 x 1/16 | 881539 flat nylon washer
+
+T40 torx  
+small pipe cutter?  
+craftsman tiny ratchet set
+super glue gel  
+file  
+needle nose pliers  
+
+(A):  
+![bushing A](../img/seat-bushing-a.png)
+
+(B):  
+![bushing B](../img/seat-bushing-b.png)
+
+(C):  
+![bushing C](../img/seat-bushing-c.png)
+
+(D):  
+![bushing D](../img/seat-bushing-d.png)
+
+(E):  
+![bushing E](../img/seat-bushing-e.png)
