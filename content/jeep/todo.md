@@ -17,13 +17,11 @@ tags: ['jeep']
 - [timing chain](#timing-chain)
 - paint shocks
 - paint BL gap
-- [service front diff]()
+- [service front diff](#service-front-diff)
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)
-- [locker switches wiring](#locker-switches-wiring)
 - [replace clutch](#clutch)
 - skid nutsert replacement
-- [front component speakers](#front-component-speakers)
 - [aftermarket swaybar - swayloc or antirock](#aftermarket-sway-bar)
 - surface rust in drivers footwell
 - [Flip door handles](#flip-door-handles)
@@ -31,10 +29,11 @@ tags: ['jeep']
 - control arm mini-skids
 - [savvy sliders](#sliders)
 - hood dent repair?
+- [front component speakers](#front-component-speakers)
 - [new radio head unit](#stereo-head-unit) 
-- [radio separate amp](#radio-amp)
+- [radio separate amp](#radio-amp) 
 - [separate subwoofer unit?](#subwoofer-unit)
-- rear bumper with hitch receiver 
+- rear bumper with hitch receiver? 
 - [winch, winch plate, front bumper](#winch-stuff)
 - half doors
 - floor liners
@@ -56,41 +55,45 @@ tags: ['jeep']
 - paint front frame suspension mounts
 - new starter
 - [aim headlights](#aim-headlights)
-- [cooling system](#cooling-system)
 - [service johnny joints](#service-johnny-joints)
 - [fix blend door](#fix-blend-door)
-- [grease front end](#grease-front-end)
 - [rear axle seals](#rear-axle-seals)
 - tighten suspension bolts
 - [zj steering](#zj-tie-rodsteering)
-- [frame drain holes](#frame-drain-holes)
 - [electrical cables](#electrical-cables)
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
-- [seat bushings]()
 ---
 
 ## done
 - [repair fog light switch](#repair-mf-switch-fog-lights)
 - [h4 headlight conversion](#h4-headlight-conversion)
-- [alignment](#alignment)
 - rear diff fluid | 2021-11-22 @ 133,760mi
 - coolant flush | 2021-10-17 @ 133,500mi
-- [center axle under jeep](#center-axle-under-jeep)
-- [set bumpstops](#set-bump-stops)
 - spark plugs | 2021-09-31 @ 133,400mi
 - seat risers | 2021-10-01 @ 133,400mi
 - door hinge bushings | 2021-10-21
 - valve cover gasket | 2021-10-18 @ 133,516mi
 - tcase fluid | 2021-11-15 @ 133,650mi
 - transmission fluid | 2021-11-15 @ 133,650mi
-- [intstall savvy adjustable control arms]()
-- [fuse and relay](#fuse-and-relay)
+- [intstall savvy adjustable control arms](#adjustable-control-arms)
+- [center axle under jeep](#center-axle-under-jeep)
+- [set bumpstops](#set-bump-stops)
+- [alignment](#alignment) 
+- [grease front end](#grease-front-end)
 - [axle ujoints](#axle-ujoints) | 2022-09-05 @ 135,972mi
 - [unit bearings/hubs](#unit-bearingshubs) | 2022-09-05 @ 135,972mi
 - [adjust steering stops](#steering-stop-adjustment) | 2022-09-05 @ 135,972mi
-- [rebuild front driveshaft](#rebuild-front-driveshaft) | 2022-05-06 @ 136,002mi
+- [rebuild front driveshaft](#rebuild-front-driveshaft) | 2022-09-06 @ 136,002mi
+- [frame drain holes](#frame-drain-holes) | 2022-09-08 @ 136,038mi
+- [seat bushings](#seat-bushings)| 2022-09-10 @ 136,056mi
+- [locker switches wiring](#locker-switches-wiring) | 2022-09-12 @ 136,072mi
 ---
+
+## reference  
+- [defrost only fix](#defrost-only-fix)  
+- [fuse and relay](#fuse-and-relay)
+- [cooling system](#cooling-system)
 
 ## O2 Sensors
 NTK was the oem supplier  
@@ -402,18 +405,19 @@ AGM battery
 
 [WTJF: AGM Advantages](https://wranglertjforum.com/threads/group-34-vs-group-24-battery-on-2006-tj.57456/post-1011414)
 
-Odyssey
-Napa Legend AGM
-$220 [Oreilly SuperStart platinum AGM group 34](https://www.oreillyauto.com/detail/c/platinum/super-start-platinum-battery-group-size-34/ssbq/34plt/v/a/17926/automotive-suv-2004-jeep-wrangler?brand=true&pos=9)
-- $158 [Oreilly: Super Start Marine AGM Group Size 34M Top Post Battery](https://www.oreillyauto.com/detail/c/marine-agm/super-start-marine-agm-group-size-34m-top-post-battery/ssbj/34magm/v/a/17926/automotive-suv-2004-jeep-wrangler)
+Odyssey  
+Napa Legend AGM  
+$220 [Oreilly SuperStart platinum AGM group 34](https://www.oreillyauto.com/detail/c/platinum/super-start-platinum-battery-group-size-34/ssbq/34plt/v/a/17926/automotive-suv-2004-jeep-wrangler?brand=true&pos=9)  
+- $158 [Oreilly: Super Start Marine AGM Group Size 34M Top Post Battery](https://www.oreillyauto.com/detail/c/marine-agm/super-start-marine-agm-group-size-34m-top-post-battery/ssbj/34magm/v/a/17926/automotive-suv-2004-jeep-wrangler)  
 - $135 [Sams Duracell AGM Deep Cycle Marine and RV Battery, Group Size 34M](https://www.samsclub.com/p/duracell-agm-deep-cycle-marine-and-rv-battery-group-size-sl34magm/prod3590225)
-- $190 [Sams Duracell AGM Automotive 34](https://www.samsclub.com/p/auto-group-24-34agm-36-mo-free/prod9510079?xid=plp_product_1)
-- $190 [Sams Duracell AGM Automotive 34/78](https://www.samsclub.com/p/duracell-agm-automotive-battery-group-size-78dtagm/prod3590233?xid=plp_product_3)
+- $190 [Sams Duracell AGM Automotive 34](https://www.samsclub.com/p/auto-group-24-34agm-36-mo-free/prod9510079?xid=plp_product_1)  
+- $190 [Sams Duracell AGM Automotive 34/78](https://www.samsclub.com/p/duracell-agm-automotive-battery-group-size-78dtagm/prod3590233?xid=plp_product_3)  
+- 
 
-duralast platinum agm Auto zone
-diehard platinum agm
-x2 power 
-northstar
+duralast platinum agm Auto zone  
+diehard platinum agm  
+x2 power   
+northstar  
 
 "Calcium" AGM like the offerings from NAPA, O'Reillys, Duracell, etc., - good batteries at a more reasonable price point and suitable for most jeepers looking to upgrade from a flooded lead acid battery who either can't afford the price point of a Northstar or don't need the features of a pure lead AGM battery. I will probably buy one of these as my next battery
 
@@ -426,11 +430,11 @@ See: http://www.hendonpub.com/law_and_order/articles/2015/04/agm_battery_technol
 
 It appears from the article that in the hierarchy of AGM's the Napa Legend is better than a flooded lead acid battery but not in the same category as a pure lead AGM battery such as Northstar, Odyssey and Optima. It also explains the substantial price difference between the East Penn offerings and those of the other AGM manufacturers.
 
-Be sure to get a Group 24 instead of a group 34 for the extra capacity.
+Be sure to get a Group 24 instead of a group 34 for the extra capacity.(?)  
 
-34 is original
-24 is taller, more capacity but lower amps
-78 
+34 is original  
+24 is taller, more capacity but lower amps  
+78  
 
 ## center axle under jeep
 [WTJF: center axle with adjustable track bar](https://wranglertjforum.com/threads/how-to-align-your-axle-with-an-adjustable-track-bar.16623/#post-270843)  
@@ -714,3 +718,16 @@ needle nose pliers
 
 (E):  
 ![bushing E](../img/seat-bushing-e.png)
+
+
+## defrost only fix
+[Air won't come out of vents? Read this! | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/air-wont-come-out-of-vents-read-this.7620/)  
+[How to fix heat / AC / air not blowing through center vents | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-fix-heat-ac-air-not-blowing-through-center-vents.2887/)  
+[Only blows out the defrost | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/only-blows-out-the-defrost.12541/)  
+[Defroster control not working | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/defroster-control-not-working.36525/)  
+[HVAC air only blowing through defrost vents | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/hvac-air-only-blowing-through-defrost-vents.36898/)  
+
+Fsm  
+24-2  
+24-16-18  
+24-38  
