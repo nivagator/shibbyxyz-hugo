@@ -397,8 +397,8 @@ Drilling a hole into the thermostat's flange like shown below and positioning th
 
 [WTJF: drill hole in thermo](https://wranglertjforum.com/threads/replaced-water-pump-and-thermostat-now-overheating-at-idle.63825/post-1157974)
 
-![irun thermo](img/thermo-hole1.jpg)
-![bransford thermo](img/Thermostat-drilled-hole.jpg)
+![irun thermo](../img/thermo-hole1.jpg)
+![bransford thermo](../img/Thermostat-drilled-hole.jpg)
 
 ## battery
 AGM battery
