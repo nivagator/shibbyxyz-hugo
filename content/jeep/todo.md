@@ -20,7 +20,7 @@ tags: ['jeep']
 - [service front diff](#service-front-diff)
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)
-- [replace clutch](#clutch)
+- [replace clutch](#clutch)   
 - skid nutsert replacement
 - [aftermarket swaybar - swayloc or antirock](#aftermarket-sway-bar)
 - surface rust in drivers footwell
@@ -53,7 +53,6 @@ tags: ['jeep']
 - front axle shafts
 - [regear to 4.88](#regear)
 - paint front frame suspension mounts
-- new starter
 - [aim headlights](#aim-headlights)
 - [service johnny joints](#service-johnny-joints)
 - [fix blend door](#fix-blend-door)
@@ -63,24 +62,44 @@ tags: ['jeep']
 - [electrical cables](#electrical-cables)
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
+- [drill rear crossmember drain hole](#frame-drain-holes)
+- [clean IAC](#clean-iac)
 ---
 
 ## done
-- [repair fog light switch](#repair-mf-switch-fog-lights)
-- [h4 headlight conversion](#h4-headlight-conversion)
-- rear diff fluid | 2021-11-22 @ 133,760mi
-- coolant flush | 2021-10-17 @ 133,500mi
 - spark plugs | 2021-09-31 @ 133,400mi
 - seat risers | 2021-10-01 @ 133,400mi
-- door hinge bushings | 2021-10-21
+- oil change | 2021-10-04 
+- coolant flush | 2021-10-17 @ 133,500mi
 - valve cover gasket | 2021-10-18 @ 133,516mi
-- tcase fluid | 2021-11-15 @ 133,650mi
-- transmission fluid | 2021-11-15 @ 133,650mi
-- [intstall savvy adjustable control arms](#adjustable-control-arms)
-- [center axle under jeep](#center-axle-under-jeep)
-- [set bumpstops](#set-bump-stops)
-- [alignment](#alignment) 
-- [grease front end](#grease-front-end)
+- door hinge bushings | 2021-10-21
+- [h4 headlight conversion](#h4-headlight-conversion) | 2021-10-25
+- install factory front bumper | 2021-11-03
+- relocate factory locker pumps | 2021-11-03
+- install polk 5.25" front speakers | 2021-11-03
+- [repair fog light switch](#repair-mf-switch-fog-lights) | 2021-11-03
+- tcase fluid | 2021-11-12 @ 133,650mi
+- transmission fluid | 2021-11-12 @ 133,650mi
+- installed kc fog lights | 2021-11-14
+- replaced lug nuts with gorilla | 2021-11-16
+- rear diff fluid | 2021-11-22 @ 133,760mi
+- [replaced rear diff side air fitting](#replace-factory-diff-side-air-fitting) | 2021-11-23
+- [intstall savvy adjustable control arms](#adjustable-control-arms) | 2021-11-30
+- install track bars, jks springs, rancho shocks | 2021-11-30
+- tom woods rear driveshaft | 2021-11-30
+- [alignment](#alignment) | 2021-11-30
+- [diy quick disconnects](#diy-quick-discos) | 2022-01-13
+- claytone reverse led lights | 2022-01-15
+- replaced transmission backup sensor | 2022-01-15
+- tires cooper evolution 285/75r16 | 2022-02-09
+- savvy body lift | 2022-02-22
+- ucf extra clearance skid | 2022-02-22
+- jks mml | 2022-02-22
+- rear tow point | 2022-03-2022
+- [center axle under jeep](#center-axle-under-jeep) | 2022-03-10
+- [set bumpstops](#set-bump-stops) | 2022-03-12
+- new sub install | 2022-05-06
+- [grease front end](#grease-front-end) | 2022-08-30
 - [axle ujoints](#axle-ujoints) | 2022-09-05 @ 135,972mi
 - [unit bearings/hubs](#unit-bearingshubs) | 2022-09-05 @ 135,972mi
 - [adjust steering stops](#steering-stop-adjustment) | 2022-09-05 @ 135,972mi
@@ -88,12 +107,14 @@ tags: ['jeep']
 - [frame drain holes](#frame-drain-holes) | 2022-09-08 @ 136,038mi
 - [seat bushings](#seat-bushings)| 2022-09-10 @ 136,056mi
 - [locker switches wiring](#locker-switches-wiring) | 2022-09-12 @ 136,072mi
+- [new starter](#diagnose-hard-start) | 2022-09-17 @ 136,130mi 
 ---
 
 ## reference  
 - [defrost only fix](#defrost-only-fix)  
 - [fuse and relay](#fuse-and-relay)
 - [cooling system](#cooling-system)
+---
 
 ## O2 Sensors
 NTK was the oem supplier  
@@ -146,9 +167,8 @@ spicer 5-760x
 [ElectricWizards 2000 TJ Sport Build | Page 12 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/electricwizards-2000-tj-sport-build.14165/page-12#post-336835)  
 
 The idea is to insert a relay to interrupt the momentary ground that the pcm needs to enable both the lockers and the dash light circuits. If you wanted to enable lockers on all tcase positions, you have to do the wandering trail mod on top of this.  
-![locker wiring](../img/locker-wiring.jpg)
-
-![locker connetor](../img/locker-connector.jpg)   
+![locker wiring](../img/locker-wiring.jpg)  
+![locker connetor](../img/locker-connector.jpg)     
 ![locker toggle](../img/locker-toggle.png)  
 ![led relay control](../img/led-locker-wiring.jpg)  
 
@@ -587,6 +607,17 @@ this is what i had in my '01 with 35s and it was fine.
 [Nitro Gear set](https://www.nitro-gear.com/Rubicon-Dana-44-Front-and-Rear-Nitro-Gear-Package-p/gptjrubicon-xxx.htm)
 
 Motive Gears
+[Motive Gear Complete Ring and Pinion Kit for Jeep TJ Rubicon, 4.88 - Front and Rear | Best Prices & Reviews at Morris 4x4](https://www.morris4x4center.com/motive-gear-differential-complete-ring-and-pinion-kit-for-jeep-tj-rubicon-4-88-front-and-rear-mgk-116.html)  
+[Motive Gear Jeep Wrangler Dana 44 Front Axle/44 Rear Axle Complete Ring Gear and Pinion Kit - 4.88 Gears MGK-116 (03-06 Jeep Wrangler TJ Rubicon)](https://www.extremeterrain.com/motive-dana-44f-44r-complete-ring-gear-and-pinion-kit-488-gears-0306-tj-rubi.html)  
+
+
+Revolution gears
+[Jeep TJ Rubicon Gear Package 4.56-5.38 Ratio Front/Rear W/ Timken Master Overhaul Kits Comes W/Thick Gears | Revolution Gear & Axle](https://www.revolutiongear.com/product/jeep_tj_rubicon_gear_package_456_538_ratio_frontrear_w_timken_master_overhaul_kits_comes)  
+[Revolution Rev-TJ-D44-488 4.88 Master OveRHaul Kits for 97-06 Jeep Wrangler (TJ)  | eBay](https://www.ebay.com/itm/173994560419)  
+https://www.amazon.com/Revolution-Gear-Axle-overhaul-carriers/dp/B01ETJQZCY  
+[Revolution Gear & Axle Front and Rear Gear Package for 03-05 Jeep TJ Rubicon | POLY PERFORMANCE](https://www.polyperformance.com/revolution-gear-axle-front-and-rear-gear-package-for-03-05-jeep-tj-rubicon)  
+[Jeep TJ Rubicon 4.88 Ratio Gear Package (D44Thick-D44Thick) with Timken Bearings. Comes with D44 Thick Gears, no Carrier Change Needed Revolution Gear and Axle](https://rwkhaussupply.com/catalog/product/view/id/19131/s/jeep-tj-rubicon-4-88-ratio-gear-package-d44thick-d44thick-with-timken-bearings-comes-with-d44-thick-gears-no-carrier-change-needed-revolution-gear-and-axle/)
+[Jeep TJ Rubicon (D44/D44) 4.88 ratio with Koyo bearing Thick ring gear - King Off Road Parts](https://kingoffroadparts.com/jeep-tj-rubicon-d44-d44-4-88-ratio-with-koyo-bearing-thick-ring-gear/)  
 
 ## rear axle seals
 9912S  
@@ -604,8 +635,6 @@ https://wranglertjforum.com/threads/zj-steering-upgrade.11895/
 https://wranglertjforum.com/threads/zj-tie-rod-conversion.2373/  
 https://wranglertjforum.com/threads/what-is-the-best-steering-for-my-jeep-wrangler-tj.2956/  
 [Did MOOG screw up? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/did-moog-screw-up.64167/post-1165904)  
-
-
 
 ### tie rod only 
 (1) ES3096L End
@@ -731,3 +760,29 @@ Fsm
 24-2  
 24-16-18  
 24-38  
+
+## replace factory diff side air fitting
+[How To Replace Rubicon Axle Air Fitting | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-replace-rubicon-axle-air-fitting.4038/)  
+[factory diff air fitting](https://www.summitracing.com/parts/mop-05083663ab)  
+
+## diy quick discos
+[DIY Quick Disconnect Pins (bolted) | Jeep Enthusiast Forums](https://www.jeepforum.com/threads/diy-quick-disconnect-pins-bolted.1415746/)
+
+## clean IAC  
+Basically start the engine then spray throttle body cleaner into the throttle body at idle rpms. The IAC will only draw the cleaner in through itself when the engine is at idle. The cleaner will flood the IAC so the engine will die. That's ok, just restart the engine. Plus the extra time the cleaner sits inside the IAC after the engine dies and before you restart it helps it work.
+
+No guarantees of course but thoroughly cleaning the IAC usually fixes this kind of problem. My goal is to get 1/3 of the can of TB cleaner through the IAC.
+
+[How to clean your IAC (Idle Air Controller) valve | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-clean-your-iac-idle-air-controller-valve.662/)
+
+actually removing the IAC to clean it is seldom required. When cleaned as suggested above, the IAC usually pulls in enough cleaner through itself to restore it back to good operating condition.
+
+## diagnose hard start
+fuel pump | Delphi FG1353 | [Diagnosing Hard Start Issue | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/diagnosing-hard-start-issue.64361/)  
+[IAC](#clean-iac)
+
+[Difficulty starting | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/difficulty-starting.179/post-698)
+
+### new starter
+new starter installed2022-09-17 @ 136,130mi  
+reman unit from oreilly's on 407
