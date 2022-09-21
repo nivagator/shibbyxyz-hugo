@@ -62,7 +62,6 @@ tags: ['jeep']
 - [electrical cables](#electrical-cables)
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
-- [drill rear crossmember drain hole](#frame-drain-holes)
 - [clean IAC](#clean-iac)
 ---
 
@@ -95,7 +94,7 @@ tags: ['jeep']
 - savvy body lift | 2022-02-22
 - ucf extra clearance skid | 2022-02-22
 - jks mml | 2022-02-22
-- rear tow point | 2022-03-2022
+- rear tow point | 2022-03-20
 - [center axle under jeep](#center-axle-under-jeep) | 2022-03-10
 - [set bumpstops](#set-bump-stops) | 2022-03-12
 - new sub install | 2022-05-06
@@ -107,7 +106,8 @@ tags: ['jeep']
 - [frame drain holes](#frame-drain-holes) | 2022-09-08 @ 136,038mi
 - [seat bushings](#seat-bushings)| 2022-09-10 @ 136,056mi
 - [locker switches wiring](#locker-switches-wiring) | 2022-09-12 @ 136,072mi
-- [new starter](#diagnose-hard-start) | 2022-09-17 @ 136,130mi 
+- [new starter](#diagnose-hard-start) | 2022-09-17 @ 136,125mi 
+- [drill rear crossmember drain hole](#frame-drain-holes) | 2022-09-18 @ 130,138mi
 ---
 
 ## reference  
@@ -337,6 +337,9 @@ Fluid, transmission/transfer case (ATF+4) 05013457AA (3)
 [WTJF: What is involved in lifting the gas tank one inch?](https://wranglertjforum.com/threads/what-is-involved-in-lifting-the-gas-tank-one-inch.23059/#post-372896)  
 [WTJF: JMT build thread gts clearance mod](https://wranglertjforum.com/threads/05-flame-red-tj-build.3998/page-54#post-322990)  
 
+![gts mod 01](../img/gts-mod01.jpeg)  
+![gts mod 02](../img/gts-mod02.jpeg)  
+
 ## front brakes
 [front left brake shield](https://www.amazon.com/dp/B074MMV85G)    
 [front right brake shield](https://www.amazon.com/dp/B074MM8HTR)    
@@ -560,6 +563,10 @@ The second thing is when you using all thread to squeeze the washer, **the oppos
 ### Tools: 
 - Vise 
 - Big snap ring pliers 
+  - [jjvw | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/currie-control-arms-creaking-alot-time-to-rebuild.65300/post-1192914)
+    - https://www.amazon.com/dp/B003UHUDDE/
+  - [taylormade73 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/currie-control-arms-creaking-alot-time-to-rebuild.65300/post-1192921)
+    - [Precision Snap Ring Pliers, 8 Piece](https://www.harborfreight.com/precision-snap-ring-pliers-8-piece-63841.html)
    
 rockjock:  
 [CE-9110T - 2 1/2” Johnny Joint® Assembly/Disassembly Tool](https://www.rockjock4x4.com/CE-9110T)  
@@ -581,7 +588,8 @@ greaseable bolts for johnny joints
 ### how to guides
 [How-To Rebuild a Johnny Joint - YouTube](https://www.youtube.com/watch?v=hUGd6_FYho8)
 [How To Rebuild Johnny Joint, With or Without the Expensive Rebuild Tool! - YouTube](https://www.youtube.com/watch?v=xABN89PIDZE)
-[Rebuilt | Currie Johnny Joint - YouTube](https://www.youtube.com/watch?v=5LfOErncvQU)
+[Rebuilt | Currie Johnny Joint - YouTube](https://www.youtube.com/watch?v=5LfOErncvQU)  
+[How to Rejuvenate a Worn Out Johnny Joint | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-rejuvenate-a-worn-out-johnny-joint.63740/)  
 
 track bar grease fittings are 1/4-28 threaded  
 [Precision 1/4-28 Inch flush Grease Zerk 621 | O'Reilly](https://www.oreillyauto.com/detail/c/precision/hardware---fasteners/brass-fittings/grease-fittings/49e6d129c331/precision-1-4-28-inch-grease-zerk/opj0/621)  
