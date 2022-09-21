@@ -49,8 +49,7 @@ tags: ['jeep']
 - [new battery](#battery)
 - morryde tailgate hinges
 - factory bumper end caps
-- rear axle shafts
-- front axle shafts
+- [chromoly axle shafts](#chromoly-axle-shafts)
 - [regear to 4.88](#regear)
 - paint front frame suspension mounts
 - [aim headlights](#aim-headlights)
@@ -63,6 +62,7 @@ tags: ['jeep']
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
 - [clean IAC](#clean-iac)
+- [arb air lockers](#arb-air-lockers)
 ---
 
 ## done
@@ -114,6 +114,7 @@ tags: ['jeep']
 - [defrost only fix](#defrost-only-fix)  
 - [fuse and relay](#fuse-and-relay)
 - [cooling system](#cooling-system)
+- [rubicon factory lockers](#rubicon-factory-lockers)
 ---
 
 ## O2 Sensors
@@ -612,20 +613,69 @@ track bar grease fittings are 1/4-28 threaded
 [Grimm Jeeper Gear Ratio Calculator](http://www.grimmjeeper.com/gears.html)  
 thinking 4.88s for my nv3550 and 33s  
 this is what i had in my '01 with 35s and it was fine.  
-[Nitro Gear set](https://www.nitro-gear.com/Rubicon-Dana-44-Front-and-Rear-Nitro-Gear-Package-p/gptjrubicon-xxx.htm)
 
-Motive Gears
+### how to
+[Regearing from 4.88 to Revolution Gear's new 5.38... sweet! | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/regearing-from-4-88-to-revolution-gears-new-5-38-sweet.7570/)
+- After removing the carrier, the existing pinion gear depth was measured using the bearing cap seating surface as a reference point. That gave a very good preliminary depth from which to set the new pinion gear depth. Setting the pinion gear depth involves shimming it in/out with shims included in the master install kit.  
+- we’re measuring down to the thousandth of an inch.
+- It requires a bearing puller to pull the carrier and pinion bearings off. The bearings have a TIGHT fit so they require a bearing puller powered by an impact wrench. It takes a while for the bearing to finally come off even with this setup.
+- Installing the ring gear requires Loctite be applied to the new ring gear bolts. That prevents the bolts from backing out which can destroy pretty much everything inside the housing. Some use blue Loctite but we used red which is more secure. Revolution's ring gear fit over the Rubicon locker snugly/perfectly without needing to heat the ring gear and freeze the locker/carrier as some require.
+- Pressing the pinion bearings using a hydrolic press
+- Reinstalling the Rubicon locker reuses the Rubicon's OE carrier shims to position it left/right to create the right amount of backlash between the gears. Too little backlash between them can cause insufficient lubrication between the gears and damage the tooth surfaces, too much backlash reduces strength. We ended up with the backlash being right on at .008, same as it was originally.
+- This pic shows using a brass punch to tap in the shim. Using brass here eliminates damage to the shim. Just be careful you get the same shims back in the same sides they came out of.
+- Painting the gear marking compound onto the gear teeth.
+- Part of the setup procedure requires setting the pinion bearing preload which requires a small 1/4" drive in-lbs. bar-indicator torque wrench. Revolution specifies between 14 and 19 inch-lbs. of resistance required to rotate the pinion gear. We ended up right at 18 inch-lbs.
+- Checking the final backlash between the gears. Revolution Gear specified .006 to .010, we ended up at .008.
+- One thing about the Rubicon’s locker and sensor, you have to pay attention to getting the carrier and sensor situated correctly together. With help from Brook at RGA and danb303 and TJR238 here on JF, I used the “toothpick” technique to fully extend the sensor's pin out far enough to clear and avoid damage while inserting the locker back into the housing.
+- Once the locker is back in place after the final pattern and preload adjustments have been completed, you pull the toothpick out with the fishing line tied to it. That releases the sensor to seat properly behind the locker’s actuator plate. However, this is only a concern if you have a Rubicon.
+
+
+### Tools needed 
+The only specialized tools required include a press for the new bearings, bearing puller, dial indicator for the backlash setting, a ½” torque wrench, and an inch-lbs. beam-style ¼” torque wrench for setting the pinion bearing preload.  
+
+### Rubicon info blerbs
+"Thick" gear sets are what you need for your Rubicon lockers and X2 on the recommendation for Revolution Gear & Axle's gears. For 35's X2 for 5.38 if you're running the automatic, definitely.  
+revolution 4.88 gears from allens offroad  
+Note the ‘Thick’ ring gear designation on the label. That means they fit and work with the Rubicon lockers made to work with higher (lower number) ratios. A conventional non-thick 5.38 ring gear will not work with the TJ Rubicon lockers.  
+
+### rubicon info threads
+[Gearing down stock Rubicon carriers | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/gearing-down-stock-rubicon-carriers.12073/)  
+[Gearing recommendation for 2003 Rubicon with manual transmission and 35" tires? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/gearing-recommendation-for-2003-rubicon-with-manual-transmission-and-35-tires.10385/)  
+[Thick Cut Gears vs. Thin Cut Gears (and Axle Carrier Breaks Explained) | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/thick-cut-gears-vs-thin-cut-gears-and-axle-carrier-breaks-explained.20622/)  
+
+
+### Ring and Pinion Break in Procedure
+When installing a new ring and pinion it is recommended to properly break in the new components. The proper break in procedure will extend the life of the components and help with the prevention of premature failure usually caused by extreme heat.  
+Although your new ring and pinion is “Lapped” from the factory for smooth quiet operation, they will still need to be broken in once they have been installed. A new ring and pinion will initially run hotter when new and can cause extensive damage if the temperature exceeds ideal operating conditions for an extended period of time. The suggested break in procedure is as follows:  
+- The first drive with the new ring and pinion should be under normal driving conditions (No hard starts, No racing, No off-roading, No towing and not at Highway speeds).
+- The vehicle should be driven 15-20 minutes around town, normal stop and go driving. Then you should let the axle assembly “Completely Cool” (this will allow the gear oil to cool down so it does not reach temperatures that will break down the oil, causing loss of protection)
+- Repeat the 10-15 minute drive and cooling off period 2-3 times
+- Then you will want to drive on the highway and repeat the process at least 2 times abiding by local speed laws but not exceeding 65 MPH, be sure to let the axle assembly completely cool between drives (very important).
+- Lastly you will want to change the gear oil after the initial 500-1000 miles and your gears are broken in correctly.
+Note: If vehicle will be used for towing, repeat the break in procedure the first time it is used to tow.
+
+Follow the factory service manual for recommended differential service intervals unless the vehicle is used in extreme conditions on a regular basis, you will want to service the differential more often.  
+(Recommended gear oil is an 85-140W, Non-Synthetic, GL5 grade or Higher, Name Brand Oil. Please note extreme weather conditions may require alternative weight oil so be sure to consult a local mechanic or lube technician for recommendations)  
+
+### gearsets
+Motive Gears  
 [Motive Gear Complete Ring and Pinion Kit for Jeep TJ Rubicon, 4.88 - Front and Rear | Best Prices & Reviews at Morris 4x4](https://www.morris4x4center.com/motive-gear-differential-complete-ring-and-pinion-kit-for-jeep-tj-rubicon-4-88-front-and-rear-mgk-116.html)  
 [Motive Gear Jeep Wrangler Dana 44 Front Axle/44 Rear Axle Complete Ring Gear and Pinion Kit - 4.88 Gears MGK-116 (03-06 Jeep Wrangler TJ Rubicon)](https://www.extremeterrain.com/motive-dana-44f-44r-complete-ring-gear-and-pinion-kit-488-gears-0306-tj-rubi.html)  
+[Motive Gear Front and Rear Ring and Pinion with Master Install Kits for 03-06 Jeep Wrangler TJ Rubicon | Quadratec](https://www.quadratec.com/p/motive-gear/front-and-rear-ring-and-pinion-master-install-kits-jeep-wrangler-tj-rubicon)  
 
-
-Revolution gears
+Revolution gears - Rev-TJ-Rub-488  
 [Jeep TJ Rubicon Gear Package 4.56-5.38 Ratio Front/Rear W/ Timken Master Overhaul Kits Comes W/Thick Gears | Revolution Gear & Axle](https://www.revolutiongear.com/product/jeep_tj_rubicon_gear_package_456_538_ratio_frontrear_w_timken_master_overhaul_kits_comes)  
 [Revolution Rev-TJ-D44-488 4.88 Master OveRHaul Kits for 97-06 Jeep Wrangler (TJ)  | eBay](https://www.ebay.com/itm/173994560419)  
 https://www.amazon.com/Revolution-Gear-Axle-overhaul-carriers/dp/B01ETJQZCY  
 [Revolution Gear & Axle Front and Rear Gear Package for 03-05 Jeep TJ Rubicon | POLY PERFORMANCE](https://www.polyperformance.com/revolution-gear-axle-front-and-rear-gear-package-for-03-05-jeep-tj-rubicon)  
-[Jeep TJ Rubicon 4.88 Ratio Gear Package (D44Thick-D44Thick) with Timken Bearings. Comes with D44 Thick Gears, no Carrier Change Needed Revolution Gear and Axle](https://rwkhaussupply.com/catalog/product/view/id/19131/s/jeep-tj-rubicon-4-88-ratio-gear-package-d44thick-d44thick-with-timken-bearings-comes-with-d44-thick-gears-no-carrier-change-needed-revolution-gear-and-axle/)
+[Jeep TJ Rubicon 4.88 Ratio Gear Package (D44Thick-D44Thick) with Timken Bearings. Comes with D44 Thick Gears, no Carrier Change Needed Revolution Gear and Axle](https://rwkhaussupply.com/catalog/product/view/id/19131/s/jeep-tj-rubicon-4-88-ratio-gear-package-d44thick-d44thick-with-timken-bearings-comes-with-d44-thick-gears-no-carrier-change-needed-revolution-gear-and-axle/)  
 [Jeep TJ Rubicon (D44/D44) 4.88 ratio with Koyo bearing Thick ring gear - King Off Road Parts](https://kingoffroadparts.com/jeep-tj-rubicon-d44-d44-4-88-ratio-with-koyo-bearing-thick-ring-gear/)  
+
+Yukon gears  
+[Yukon Gear & Install Kit package for Jeep TJ Rubicon, 4.88 ratio.](https://eastcoastgearsupply.com/i-18953562-yukon-gear-install-kit-package-for-jeep-tj-rubicon-4-88-ratio.html)  
+
+Nitro Gears  
+[Nitro Gear set](https://www.nitro-gear.com/Rubicon-Dana-44-Front-and-Rear-Nitro-Gear-Package-p/gptjrubicon-xxx.htm)  
 
 ## rear axle seals
 9912S  
@@ -794,3 +844,52 @@ fuel pump | Delphi FG1353 | [Diagnosing Hard Start Issue | Jeep Wrangler TJ Foru
 ### new starter
 new starter installed2022-09-17 @ 136,130mi  
 reman unit from oreilly's on 407
+
+## chromoly axle shafts
+
+[Jeep TJ / LJ / YJ / XJ Axle Kits | Carbon Off Road 4340 Chromoly Jeep Axle Kits](https://carbonoffroad.com/t/jeep-tj-/-yj-/-xj-axle-kits)
+
+### fronts
+[Chromoly Shafts - Front - Dana 44](https://eastcoastgearsupply.com/i-18849300-dana-44-tj-rubicon-chromoly-axle-shaft-kit.html)
+
+## arb air lockers
+[ARB Lockers in TJ Rubicon | Pirate 4x4](https://www.pirate4x4.com/threads/arb-lockers-in-tj-rubicon.878353/)
+
+RD116 or RD117?  
+To install an ARB for TJ Rubicons '03-'06 WITH the thick gear set, you need an **RD117** front & rear.  
+More specifically, you need an ARB with differential case # 013005 and flange cap assembly # 027305. That means that if you want to upgrade your rear to a 35 spline dana 44, then you need to find the ARB with this case and flange cap assembly (all other internal parts are the same). NOTE: on ARB's product guide it will say "Dana 44, 35 Spline, 3.73 & DN" for the ARB you need with the thick gear set. It doesn't say anything about Rubicon's, other than "call ARB" (which I found on another product sheet BTW). However, this is the correct locker even though it states "3.73 & down", because of the thick ring gear, and if you have a Rubicon, then you know that your gears are 4:10 & up.
+
+To upgrade to a 33 spline D44 for the rear, you will need to contact ARB to have them assemble the correct one for you, since it's not a production locker they list as of yet. You still need the case & flange cap assembly as stated above.
+
+So here's what the part numbers break down to for TJ Rubicon's with the Dana 44 thick gear set:
+- 30 Spline (front & rear): RD117  
+- 33 Spline (rear): call ARB  
+- 35 Spline (rear): RD147  
+
+Now, if you re-gear AND do an ARB at the same time, you can just get the normal 44 ring & pinion and normal ARB as listed on their product guide. However, I re-geared to 4:88 with the stock lockers, so I had to re-gear with the thick ring gear....which is how I ran into all this when I later installed the ARBs with the thick ring gear I already had in there.
+
+If you are ditching your air locker and regearing at the same time just skip getting thick gears. Get the gears you want in a normal set and the appropriate locker for the 3.73 and up range.
+
+[jjvw: ARB Thick Cut Gears vs. Thin Cut ](https://wranglertjforum.com/threads/thick-cut-gears-vs-thin-cut-gears-and-axle-carrier-breaks-explained.20622/post-335808)  
+Fear not! Those of us with Rubicons can change the carrier and still use thick cut gears if we want to.  
+ARB RD116 uses standard cut for 3.92+ gears  
+ARB RD117 uses thick cut for 3.92+ gears  
+
+Part # | Differential |	Ratio | Spline Count
+---|---|---|---
+ARB-RD100	| D30 Front	| 3.73 & Up	|27	
+ARB-RD101	| D30 Front	| 3.54 & Down	|27	
+ARB-RD117	| D44 TJ Rubicon Front	| 3.73 & Down	|30
+ARB-RD103	| D35 Rear	| 2.73 - 3.31	|27	
+ARB-RD102	| D35 Rear	| 3.54 & Up	|27	
+ARB-RD93	| Chrysler 8.25" Rear	| All	|29
+ARB-RD116	| D44 Rear	| 3.92 & Up	|30	
+ARB-RD117	| D44 TJ Rubicon Rear	| 3.73 & Down	|30	
+
+
+## RD117 
+[ARB RD117 Air Locker Locking Differential for 69-06 Jeep Vehicles with 30 Spline Rear Dana 44 with 3.73 and Numerically Lower Gear Ratio | Quadratec](https://www.quadratec.com/products/16100_2009_07.htm)
+[ARB Lockers for Jeep TJ/YJ/XJ/ZJ | POLY PERFORMANCE](https://www.polyperformance.com/arb-lockers-for-jeep-tj-yj-xj-zj)
+
+## rubicon factory lockers
+![factory rear cutaway](../img/rubicon-factory-rear-cutaway.jpg)
