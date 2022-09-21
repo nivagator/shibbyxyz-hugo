@@ -10,6 +10,7 @@ date: 2022-07-18T09:34:31-05:00
 
 4.0l | NV3550 5-spd  
 Rubicon Dana 44s, facotry 4.10 and lockers  
+Electric Lime Green Pearl  
 Cooper Evolution M/T 286/75/R16  
 3" JKS Springs  
 Rancho RS5000x shocks 55239/55256 | [shock math](../build-thread/039)   
