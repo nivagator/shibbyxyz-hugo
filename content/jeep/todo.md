@@ -61,7 +61,6 @@ tags: ['jeep']
 - [electrical cables](#electrical-cables)
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
-- [clean IAC](#clean-iac)
 - [arb air lockers](#arb-air-lockers)
 ---
 
@@ -108,6 +107,7 @@ tags: ['jeep']
 - [locker switches wiring](#locker-switches-wiring) | 2022-09-12 @ 136,072mi
 - [new starter](#diagnose-hard-start) | 2022-09-17 @ 136,125mi 
 - [drill rear crossmember drain hole](#frame-drain-holes) | 2022-09-18 @ 130,138mi
+- [clean IAC](#clean-iac) | 2022-09-21
 ---
 
 ## reference  
@@ -659,20 +659,22 @@ Follow the factory service manual for recommended differential service intervals
 
 ### gearsets
 Motive Gears  
-[Motive Gear Complete Ring and Pinion Kit for Jeep TJ Rubicon, 4.88 - Front and Rear | Best Prices & Reviews at Morris 4x4](https://www.morris4x4center.com/motive-gear-differential-complete-ring-and-pinion-kit-for-jeep-tj-rubicon-4-88-front-and-rear-mgk-116.html)  
-[Motive Gear Jeep Wrangler Dana 44 Front Axle/44 Rear Axle Complete Ring Gear and Pinion Kit - 4.88 Gears MGK-116 (03-06 Jeep Wrangler TJ Rubicon)](https://www.extremeterrain.com/motive-dana-44f-44r-complete-ring-gear-and-pinion-kit-488-gears-0306-tj-rubi.html)  
-[Motive Gear Front and Rear Ring and Pinion with Master Install Kits for 03-06 Jeep Wrangler TJ Rubicon | Quadratec](https://www.quadratec.com/p/motive-gear/front-and-rear-ring-and-pinion-master-install-kits-jeep-wrangler-tj-rubicon)  
+[Motive Gear Jeep TJ Rubicon, 4.88 | Morris 4x4](https://www.morris4x4center.com/motive-gear-differential-complete-ring-and-pinion-kit-for-jeep-tj-rubicon-4-88-front-and-rear-mgk-116.html)  
+[Motive Gear Jeep Rubicon 4.88 Gears MGK-116 | extreme terrain](https://www.extremeterrain.com/motive-dana-44f-44r-complete-ring-gear-and-pinion-kit-488-gears-0306-tj-rubi.html)  
+[Motive Gear Rubicon 4.88 | Quadratec](https://www.quadratec.com/p/motive-gear/front-and-rear-ring-and-pinion-master-install-kits-jeep-wrangler-tj-rubicon)  
 
 Revolution gears - Rev-TJ-Rub-488  
-[Jeep TJ Rubicon Gear Package 4.56-5.38 Ratio Front/Rear W/ Timken Master Overhaul Kits Comes W/Thick Gears | Revolution Gear & Axle](https://www.revolutiongear.com/product/jeep_tj_rubicon_gear_package_456_538_ratio_frontrear_w_timken_master_overhaul_kits_comes)  
-[Revolution Rev-TJ-D44-488 4.88 Master OveRHaul Kits for 97-06 Jeep Wrangler (TJ)  | eBay](https://www.ebay.com/itm/173994560419)  
+[Jeep TJ Rubicon Gears Revolution Gear & Axle](https://www.revolutiongear.com/product/jeep_tj_rubicon_gear_package_456_538_ratio_frontrear_w_timken_master_overhaul_kits_comes)   
+[Koyo Rev-TJ-Rub-488-K eBay](https://www.ebay.com/itm/283229700772)  
+[Timken Rev-TJ-Rub-488 eBay](https://www.ebay.com/itm/283229700147)  
 https://www.amazon.com/Revolution-Gear-Axle-overhaul-carriers/dp/B01ETJQZCY  
-[Revolution Gear & Axle Front and Rear Gear Package for 03-05 Jeep TJ Rubicon | POLY PERFORMANCE](https://www.polyperformance.com/revolution-gear-axle-front-and-rear-gear-package-for-03-05-jeep-tj-rubicon)  
-[Jeep TJ Rubicon 4.88 Ratio Gear Package (D44Thick-D44Thick) with Timken Bearings. Comes with D44 Thick Gears, no Carrier Change Needed Revolution Gear and Axle](https://rwkhaussupply.com/catalog/product/view/id/19131/s/jeep-tj-rubicon-4-88-ratio-gear-package-d44thick-d44thick-with-timken-bearings-comes-with-d44-thick-gears-no-carrier-change-needed-revolution-gear-and-axle/)  
-[Jeep TJ Rubicon (D44/D44) 4.88 ratio with Koyo bearing Thick ring gear - King Off Road Parts](https://kingoffroadparts.com/jeep-tj-rubicon-d44-d44-4-88-ratio-with-koyo-bearing-thick-ring-gear/)  
+[Revolution Gear & Axle TJ Rubicon | POLY PERFORMANCE](https://www.polyperformance.com/revolution-gear-axle-front-and-rear-gear-package-for-03-05-jeep-tj-rubicon)  
+[Jeep TJ Rubicon 4.88 Timken rwkhaus](https://rwkhaussupply.com/catalog/product/view/id/19131/s/jeep-tj-rubicon-4-88-ratio-gear-package-d44thick-d44thick-with-timken-bearings-comes-with-d44-thick-gears-no-carrier-change-needed-revolution-gear-and-axle/)  
+[Jeep TJ Rubicon 4.88 ratio Koyo | King Off Road Parts](https://kingoffroadparts.com/jeep-tj-rubicon-d44-d44-4-88-ratio-with-koyo-bearing-thick-ring-gear/)  
+[Jeep TJ Rubicon 4.88 Timken Rev-TJ-Rub-488 | vividracing](https://www.vividracing.com/revolution-gear-and-axle-jeep-rubicon-488-ratio-gear-package-d44thickd44thick-with-timken-bearings-comes-with-d44-thick-gears-carrier-change-needed-p-152592425.html)   
 
 Yukon gears  
-[Yukon Gear & Install Kit package for Jeep TJ Rubicon, 4.88 ratio.](https://eastcoastgearsupply.com/i-18953562-yukon-gear-install-kit-package-for-jeep-tj-rubicon-4-88-ratio.html)  
+[Yukon Gear Jeep TJ Rubicon, 4.88 ratio | ecgs](https://eastcoastgearsupply.com/i-18953562-yukon-gear-install-kit-package-for-jeep-tj-rubicon-4-88-ratio.html)  
 
 Nitro Gears  
 [Nitro Gear set](https://www.nitro-gear.com/Rubicon-Dana-44-Front-and-Rear-Nitro-Gear-Package-p/gptjrubicon-xxx.htm)  
