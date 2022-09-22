@@ -22,3 +22,6 @@ tabs.md
 
 # static files to not push to github
 static/img/*
+
+# gitless scratch files 
+/gitless/
