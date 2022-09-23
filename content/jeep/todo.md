@@ -665,11 +665,11 @@ Motive Gears
 
 Revolution gears - Rev-TJ-Rub-488  
 [Jeep TJ Rubicon Gears Revolution Gear & Axle](https://www.revolutiongear.com/product/jeep_tj_rubicon_gear_package_456_538_ratio_frontrear_w_timken_master_overhaul_kits_comes)   
-[Koyo Rev-TJ-Rub-488-K eBay](https://www.ebay.com/itm/283229700772)  
-[Timken Rev-TJ-Rub-488 eBay](https://www.ebay.com/itm/283229700147)  
+[Koyo Rev-TJ-Rub-488-K | eBay](https://www.ebay.com/itm/283229700772)  
+[Timken Rev-TJ-Rub-488 | eBay](https://www.ebay.com/itm/283229700147)  
 https://www.amazon.com/Revolution-Gear-Axle-overhaul-carriers/dp/B01ETJQZCY  
 [Revolution Gear & Axle TJ Rubicon | POLY PERFORMANCE](https://www.polyperformance.com/revolution-gear-axle-front-and-rear-gear-package-for-03-05-jeep-tj-rubicon)  
-[Jeep TJ Rubicon 4.88 Timken rwkhaus](https://rwkhaussupply.com/catalog/product/view/id/19131/s/jeep-tj-rubicon-4-88-ratio-gear-package-d44thick-d44thick-with-timken-bearings-comes-with-d44-thick-gears-no-carrier-change-needed-revolution-gear-and-axle/)  
+[Jeep TJ Rubicon 4.88 Timken | rwkhaus](https://rwkhaussupply.com/catalog/product/view/id/19131/s/jeep-tj-rubicon-4-88-ratio-gear-package-d44thick-d44thick-with-timken-bearings-comes-with-d44-thick-gears-no-carrier-change-needed-revolution-gear-and-axle/)  
 [Jeep TJ Rubicon 4.88 ratio Koyo | King Off Road Parts](https://kingoffroadparts.com/jeep-tj-rubicon-d44-d44-4-88-ratio-with-koyo-bearing-thick-ring-gear/)  
 [Jeep TJ Rubicon 4.88 Timken Rev-TJ-Rub-488 | vividracing](https://www.vividracing.com/revolution-gear-and-axle-jeep-rubicon-488-ratio-gear-package-d44thickd44thick-with-timken-bearings-comes-with-d44-thick-gears-carrier-change-needed-p-152592425.html)   
 
