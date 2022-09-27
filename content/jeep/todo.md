@@ -561,6 +561,9 @@ Two things are key. First, the socket you use to push in the washer to take the 
 
 The second thing is when you using all thread to squeeze the washer, **the opposite side needs to be on the body, not the other washer**. Otherwise, you can move the wrong washer or really have to squeeze the races towards each other in hopes that the one under the snap ring moves. React against the body opposite the snap ring and it all works much better.  
 
+[rasband | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/rocky-mountain-billy-goat-build.14166/post-908661):  
+JJ balls have a small line around the collar of one of the two sides. This signifies the side that should be facing the snap ring. This is to note the side that’s marginally longer to account for the snap ring added on that side. It’s slight, but measurable at 1/16” on a 2.5” JJ.
+
 ### Tools: 
 - Vise 
 - Big snap ring pliers 
