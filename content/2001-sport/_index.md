@@ -8,7 +8,7 @@ date: 2022-07-18T09:34:31-05:00
 
 ![current](img/2001-tj-sold.JPG)
 
-4.0l | NV3550 5-spd 
+4.0l | NV3550 5-spd   
 Rubicon Dana 44s, 4.88 factory lockers, chromoly shafts   
 Silverstone Metallic  
 BFGoodrich 35x12.50x15 on Canyons  
@@ -20,7 +20,7 @@ JKS front and rear track bar
 JKS body lift  
 JKS 1" MML  
 Rokmen tummy tuck   
-Rokmen gas tank skid
+Rokmen gas tank skid  
 No name sliders  
 Advanced Adapters SYE  
 Coast Custom rear CV shaft  
@@ -29,8 +29,8 @@ Smittybilt rear bumper/tire carrier
 Warn XD9000i  
 DIY sway bar quick disconnects  
 Teraflex hand throttle  
-M.O.R.E. Steering skid
-[Baertrax Buttface Diff Cover](https://www.rockcrawler.com/techreports/baertrax_buttface/index.asp)
+M.O.R.E. Steering skid  
+[Baertrax Buttface Diff Cover](https://www.rockcrawler.com/techreports/baertrax_buttface/index.asp)  
 Uniden CB  
 
 Sold 2010
