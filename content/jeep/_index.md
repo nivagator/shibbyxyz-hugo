@@ -26,6 +26,7 @@ Tom Woods rear CV shaft
 1" StreetRays Seat Risers  
 KC Apollo Pro fog lights   
 DIY sway bar quick disconnects  
+Teraflex hand throttle  
 Bulletpoint phone/radio/gopro mount  
 Radioddity GM-30 and Baofeng UV-5R  
 Wizard Recovery Gear soft shackles  
