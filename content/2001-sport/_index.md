@@ -15,7 +15,7 @@ BFGoodrich 35x12.50x15 on Canyons
 3" BDS Springs  
 Pro Comp Shocks  
 Rokmen/JKS Adjustable Control Arms  
-Currie CurrectLync Steering
+Currie CurrectLync Steering  
 JKS front and rear track bar  
 JKS body lift  
 JKS 1" MML  
@@ -28,7 +28,9 @@ LoD Front Stubby bumper and winch plate
 Smittybilt rear bumper/tire carrier  
 Warn XD9000i  
 DIY sway bar quick disconnects  
+Teraflex hand throttle  
 M.O.R.E. Steering skid
+[Baertrax Buttface Diff Cover](https://www.rockcrawler.com/techreports/baertrax_buttface/index.asp)
 Uniden CB  
 
 Sold 2010
