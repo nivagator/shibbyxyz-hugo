@@ -108,6 +108,7 @@ tags: ['jeep']
 - [new starter](#diagnose-hard-start) | 2022-09-17 @ 136,125mi 
 - [drill rear crossmember drain hole](#frame-drain-holes) | 2022-09-18 @ 136,138mi
 - [clean IAC](#clean-iac) | 2022-09-21
+- clearanced gas skid for rear track bar | 2022-09-26
 ---
 
 ## reference  
