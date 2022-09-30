@@ -699,28 +699,28 @@ Timken 9912S or Dana 35239. The Dana would have been factory, the Timken is a di
 ## fuse and relay
 [Fuse box diagram Jeep Wrangler TJ and relay with assignment and location](https://fuseandrelay.com/jeep/wrangler.html)  
 
-## zj tie rod/steering
+## zj tie rod/steering  
 https://wranglertjforum.com/threads/zj-steering-upgrade.11895/  
 https://wranglertjforum.com/threads/zj-tie-rod-conversion.2373/  
 https://wranglertjforum.com/threads/what-is-the-best-steering-for-my-jeep-wrangler-tj.2956/  
 [Did MOOG screw up? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/did-moog-screw-up.64167/post-1165904)  
 
-### tie rod only 
-(1) ES3096L End
-(1) ES2079S Sleeve
-(1) DS1312 Tie Rod
+### tie rod only   
+(1) ES3096L End  
+(1) ES2079S Sleeve  
+(1) DS1312 Tie Rod  
 
-ES3096L Tie Rod End (x1)
-ES2079S Adjusting Sleeve (x1)
-DS1312 Tie Rod (x1)
+ES3096L Tie Rod End (x1)  
+ES2079S Adjusting Sleeve (x1)  
+DS1312 Tie Rod (x1)  
 
 ### Torque Specs
-Drag Link to Pitman Arm Nut - 81 Nm / 60 ft.lbs.
-Drag Link to Knuckle Nut - 47 Nm / 35 ft.lbs.
-Drag Link Clamp Bolts - 49 Nm / 36 ft.lbs.
-Tie Rod Clamp Bolts - 49 Nm / 35 ft.lbs
-Tie Rod Knuckle - 47 Nm / 35 ft.lbs
-Tie Rod to Drag Link - 75 Nm / 55 ft.lbs.
+Drag Link to Pitman Arm Nut - 81 Nm / 60 ft.lbs.  
+Drag Link to Knuckle Nut - 47 Nm / 35 ft.lbs.  
+Drag Link Clamp Bolts - 49 Nm / 36 ft.lbs.  
+Tie Rod Clamp Bolts - 49 Nm / 35 ft.lbs  
+Tie Rod Knuckle - 47 Nm / 35 ft.lbs  
+Tie Rod to Drag Link - 75 Nm / 55 ft.lbs.  
 
 ## service front diff
 75w-140 gl-5  
