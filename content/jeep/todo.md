@@ -116,6 +116,7 @@ tags: ['jeep']
 - [fuse and relay](#fuse-and-relay)
 - [cooling system](#cooling-system)
 - [rubicon factory lockers](#rubicon-factory-lockers)
+- [shocks](#shocks)
 ---
 
 ## O2 Sensors
@@ -247,6 +248,7 @@ Do a locked Brummel eye about 14" in from the end of the line and leave the tail
 [HF: Three Jaw Bearing Puller](https://www.harborfreight.com/3-jaw-pilot-bearing-puller-4876.html)   
 [Amazon: E12 socket](https://www.amazon.com/dp/B007QV1AZ0)  
 [Amazon: Luk clutch kit](https://www.amazon.com/gp/product/B000CICYZ4)   
+[Amazon: Omix-Ada Clutch Fork](https://www.amazon.com/gp/product/B000FQ7BQA)
 [Timken 614093 Clutch Release Bearing](https://www.amazon.com/dp/B000BZ6XV4/?tag=wranglerorg-20)  
 [National 614093 Clutch Release Bearing Assembly](https://www.amazon.com/dp/B000BZIQ4Q/?tag=wranglerorg-20)  
 
@@ -319,6 +321,9 @@ The trick for the ball joints is the 7894 adapter kit (amazon)
 
 ## alignment
 [How to align your Jeep Wrangler TJ](https://wranglertjforum.com/threads/how-to-align-your-jeep-wrangler-tj.85/)  
+
+set your toe-in so the fronts of the tires are 1/16" to 1/8" closer together in front than in the rear  
+Re-centering the steering wheel is required whenever the toe-in is adjusted or when the suspension height changes. That is easily done by rotating the short adjustment link on the drag link after loosening its two clamps.  
 
 ## 241 rear seal fix
 [TSB # 21-003-04: Leaking NV241 transfer case on TJ Rubicon models](https://wranglertjforum.com/threads/tsb-21-003-04-leaking-nv241-transfer-case-on-tj-rubicon-models.9314/)  
@@ -899,3 +904,21 @@ ARB-RD117	| D44 TJ Rubicon Rear	| 3.73 & Down	|30
 
 ## rubicon factory lockers
 ![factory rear cutaway](../img/rubicon-factory-rear-cutaway.jpg)
+
+## shocks
+
+[Measuring for shock length and bumpstop length | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/measuring-for-shock-length-and-bumpstop-length.34285/post-558881)  
+@freedom_in_4low:  
+0. Measure the distance between shock mounts at ride height.
+1. put your frame on jack stands
+2. Remove wheels/tires
+3. remove shocks and disconnect sway bar
+4. let the axle droop all the way out and measure the distance between your shock mounts. You'll use this later to see how much shock extension you can use.
+5. remove springs - if they won't come out, remove the axle end track bar bolt to let the axle droop farther. Remove the rubber jounce bumpers from the bump stop cups.
+6. use a floor jack to cycle the axle all the way to full compression on each side and in the middle (to get both sides bumped at the same time. You're looking for any mechanical contact, such as a track bar hitting a diff cover, steering hitting anything, etc. For the tie rods you'll want to turn the wheel all the way in each direction. Measure how far your bump stops are from each other at the points where things touch that you don't want to touch, and measure the distance between your shock mounts at the same point.
+7. Repeat number 6 with the tire on the side you are stuffing. Technically you can do it at the same time as #6, I just find things easier to see without a tire in the way so I separate them. Just see where the tire hits, again turning the wheel to both extremes. Note your bump stop and shock mount measurement, if it's greater than the one from step 6.
+8. Go shopping for shocks. Find one that best uses your available travel as measured in steps 0, 4, 6, and 7, but puts your ride height roughly in the middle of the total travel. If the shock length you pick is longer than what you measured, you'l need to add bump stop to take up the difference, and that will cost you uptravel. If you can't get exactly in the middle, that's ok, just don't farther than you have to on one side or the other. I know 2.5" of downtravel isn't enough. Stock had 4" of uptravel so I want to have at least that.
+
+[Shock Comparison: Rancho RS5000X vs Skyjacker Black Max vs KYB Monotube | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/shock-comparison-rancho-rs5000x-vs-skyjacker-black-max-vs-kyb-monotube.51209/)  
+[STICKY - TJ Shock & Spring Specification Resource Thread | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/tj-shock-spring-specification-resource-thread.47846/)  
+[I don't like my Rancho RS5000X shocks | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/i-dont-like-my-rancho-rs5000x-shocks.50974/)  
