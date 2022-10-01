@@ -113,7 +113,7 @@ tags: ['jeep']
 - clearanced gas skid for rear track bar | 2022-09-26
 - [zj steering](#zj-tie-rodsteering) | 2022-09-30 @ 136,292mi 
 - [service front diff](#service-front-diff) w/ lubelocker | 2022-09-30 @ 136,292mi 
-- [alignment](#alignment) | 2022-09-30 @ 136,292mi
+- [alignment](#alignment) fr: 58 1/8 rr: 58 1/4 | 2022-09-30 @ 136,292mi
 ---
 
 ## reference  
