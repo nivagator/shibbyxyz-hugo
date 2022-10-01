@@ -81,11 +81,12 @@ tags: ['jeep']
 - installed kc fog lights | 2021-11-14
 - replaced lug nuts with gorilla | 2021-11-16
 - rear diff fluid | 2021-11-22 @ 133,760mi
-- [replaced rear diff side air fitting](#replace-factory-diff-side-air-fitting) | 2021-11-23
+- [replaced rear diff side air fitting](#replace-factory-diff-side-air-fitting) | 2021-11-23  
+- [134,000mi](../img/134000.jpeg) | 2021-12-17
 - [intstall savvy adjustable control arms](#adjustable-control-arms) | 2021-11-30
-- install track bars, jks springs, rancho shocks | 2021-11-30
-- tom woods rear driveshaft | 2021-11-30
-- [alignment](#alignment) | 2021-11-30
+- install track bars, jks springs, rancho shocks | 2021-12-30
+- tom woods rear driveshaft | 2021-12-30
+- [alignment](#alignment) | 2021-12-30
 - [diy quick disconnects](#diy-quick-discos) | 2022-01-13
 - claytone reverse led lights | 2022-01-15
 - replaced transmission backup sensor | 2022-01-15
@@ -96,12 +97,14 @@ tags: ['jeep']
 - rear tow point | 2022-03-20
 - [center axle under jeep](#center-axle-under-jeep) | 2022-03-10
 - [set bumpstops](#set-bump-stops) | 2022-03-12
+- [135,000mi](../img/135000.jpeg) | 2022-04-12
 - new sub install | 2022-05-06
 - [grease front end](#grease-front-end) | 2022-08-30
 - [axle ujoints](#axle-ujoints) | 2022-09-05 @ 135,972mi
 - [unit bearings/hubs](#unit-bearingshubs) | 2022-09-05 @ 135,972mi
 - [adjust steering stops](#steering-stop-adjustment) | 2022-09-05 @ 135,972mi
 - [rebuild front driveshaft](#rebuild-front-driveshaft) | 2022-09-06 @ 136,002mi
+- [136,000mi](../img/136002.jpeg) | 2022-09-06
 - [frame drain holes](#frame-drain-holes) | 2022-09-08 @ 136,038mi
 - [seat bushings](#seat-bushings)| 2022-09-10 @ 136,056mi
 - [locker switches wiring](#locker-switches-wiring) | 2022-09-12 @ 136,072mi
