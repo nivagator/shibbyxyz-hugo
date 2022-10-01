@@ -17,7 +17,6 @@ tags: ['jeep']
 - [timing chain](#timing-chain)
 - paint shocks
 - paint BL gap
-- [service front diff](#service-front-diff)
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)
 - [replace clutch](#clutch)   
@@ -57,7 +56,6 @@ tags: ['jeep']
 - [fix blend door](#fix-blend-door)
 - [rear axle seals](#rear-axle-seals)
 - tighten suspension bolts
-- [zj steering](#zj-tie-rodsteering)
 - [electrical cables](#electrical-cables)
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
@@ -99,6 +97,7 @@ tags: ['jeep']
 - [set bumpstops](#set-bump-stops) | 2022-03-12
 - [135,000mi](../img/135000.jpeg) | 2022-04-12
 - new sub install | 2022-05-06
+- passed state inspection | 2022-08-25 @ 135,915mi
 - [grease front end](#grease-front-end) | 2022-08-30
 - [axle ujoints](#axle-ujoints) | 2022-09-05 @ 135,972mi
 - [unit bearings/hubs](#unit-bearingshubs) | 2022-09-05 @ 135,972mi
@@ -112,6 +111,9 @@ tags: ['jeep']
 - [drill rear crossmember drain hole](#frame-drain-holes) | 2022-09-18 @ 136,138mi
 - [clean IAC](#clean-iac) | 2022-09-21
 - clearanced gas skid for rear track bar | 2022-09-26
+- [zj steering](#zj-tie-rodsteering) | 2022-09-30 @ 136,292mi 
+- [service front diff](#service-front-diff) w/ lubelocker | 2022-09-30 @ 136,292mi 
+- [alignment](#alignment) | 2022-09-30 @ 136,292mi
 ---
 
 ## reference  
@@ -699,6 +701,12 @@ Edit: the one on the right is SKF 18731
 
 Timken 9912S or Dana 35239. The Dana would have been factory, the Timken is a different design with an expanding skirt that tightens up into the tube bore when you crank Down the retainer plate nuts. Helps prevent leaks. Many fans of the true 9912s here. Just don’t order the 9912S from Amazon because you’ll get fake crap. Order from rockauto. BTW, to find axle seals on rockauto, you need to go to “brake and wheel hub” and then to the “wheel seal” section.  they 
 
+[Rear Dana 44 axle seal | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/rear-dana-44-axle-seal.65058/post-1200085)  
+X2, you need to remove the existing bearing and bearing retainer to place the seal. You want a SET10 bearing set, the Timken 9912S from rockauto, not amazon is the right choice for the seal.
+
+The old bearings are removed by drilling a big hole in the bearing retainer, stopping the drill bit before it reaches the axle shaft. A cold chisel across the hole will break it so it can be removed.  
+Then you'll need a press to install the new SET10 bearings, seal, and bearing retainer. It should look like this once they're pressed into place. This shows the disk brake type of axle retainer bracket, the one for drum brakes is flat without the flange.  
+
 ## fuse and relay
 [Fuse box diagram Jeep Wrangler TJ and relay with assignment and location](https://fuseandrelay.com/jeep/wrangler.html)  
 
@@ -713,10 +721,6 @@ https://wranglertjforum.com/threads/what-is-the-best-steering-for-my-jeep-wrangl
 (1) ES2079S Sleeve  
 (1) DS1312 Tie Rod  
 
-ES3096L Tie Rod End (x1)  
-ES2079S Adjusting Sleeve (x1)  
-DS1312 Tie Rod (x1)  
-
 ### Torque Specs
 Drag Link to Pitman Arm Nut - 81 Nm / 60 ft.lbs.  
 Drag Link to Knuckle Nut - 47 Nm / 35 ft.lbs.  
@@ -728,6 +732,9 @@ Tie Rod to Drag Link - 75 Nm / 55 ft.lbs.
 ## service front diff
 75w-140 gl-5  
 1.89 L (4.0 pts.)  
+
+Diff cover bolts: 30 ft.lbs  
+Diff fill plug: 25 ft.lbs.   
 
 ## frame drain holes
 5/16 or 3/8. I drilled 1-1/2 inches away from each control arm mount.  
@@ -925,3 +932,18 @@ ARB-RD117	| D44 TJ Rubicon Rear	| 3.73 & Down	|30
 [Shock Comparison: Rancho RS5000X vs Skyjacker Black Max vs KYB Monotube | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/shock-comparison-rancho-rs5000x-vs-skyjacker-black-max-vs-kyb-monotube.51209/)  
 [STICKY - TJ Shock & Spring Specification Resource Thread | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/tj-shock-spring-specification-resource-thread.47846/)  
 [I don't like my Rancho RS5000X shocks | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/i-dont-like-my-rancho-rs5000x-shocks.50974/)  
+
+### shock torque specs
+
+Front:  
+upper nut: 17 ft.lbs
+lower: 250 in.lbs | 21 ft.lbs
+
+Rear:  
+upper bolts: 23 ft.lbs  
+lower bolt: 74 ft.lbs
+
+Rear Currie/Rock jock extensions:  
+3/8 small bolt: 35 ft.lbs  
+factory bolt through spacer: 85 ft.lbs  
+shock bolt: 85 ft.lbs
