@@ -60,6 +60,7 @@ tags: ['jeep']
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
 - [arb air lockers](#arb-air-lockers)
+- [air filter](#air-filter)
 ---
 
 ## done
@@ -264,6 +265,15 @@ This is a bolt-in job, there's not much to it. Just know that there's usually no
 
 About the only thing not included in that kit that I'd recommend would be a different throwout bearing than what is included. 
 
+[Transmission impossible (2002 Jeep wrangler TJ) - YouTube](https://www.youtube.com/watch?v=dVA0-jM6XFg)  
+[Removing pilot bearing TJ Jeep Wrangler - YouTube](https://www.youtube.com/watch?v=Gi8hz4WS7nA)  
+[TJ jeep shifter disassembly - YouTube](https://www.youtube.com/watch?v=rx3oSv9ZVMg)  
+[Jeep TJ wrangler Clutch install debriefing - YouTube](https://www.youtube.com/watch?v=iKLVr09JaFo)  
+[NV3550 shifter overhaul Jeep TJ wrangler 5 speed - YouTube](https://www.youtube.com/watch?v=K0MHWst9u48)  
+[TJ Jeep trans mount overhaul - YouTube](https://www.youtube.com/watch?v=aw5LvqjzICA)  
+[Flywheel 2.0 and Clutch (jeep wrangler TJ 4.0L) - YouTube](https://www.youtube.com/watch?v=f6Ud5mcZOoM)  
+[Jeep Transmission install - YouTube](https://www.youtube.com/watch?v=7X0krRSBkPc)  
+
 ## rain cover
 [Rain Gear Trail Cover](https://www.raingearcovers.com/product-page/wrangler-tj-1997-2006-trail-cover)  
 
@@ -396,7 +406,10 @@ stuck hub:
 [JF Archive: easy console sub](/jeep/jeep-sub-install)  
 
 ## oil pan and gasket
-[youtube](https://www.youtube.com/watch?v=Xrj8oIPYSOQ)  
+[youtube](https://www.youtube.com/watch?v=Xrj8oIPYSOQ)   
+[Oil pan removal jeep TJ wrangler - YouTube](https://www.youtube.com/watch?v=kmGi01QhLgM)  
+[Jeep 4.0L Oil pan strap refurb (hard to find part) - YouTube](https://www.youtube.com/watch?v=aYtYEtj9TS0)  
+[Oil pan reinstalled Jeep TJ 4.0 - YouTube](https://www.youtube.com/watch?v=Xrj8oIPYSOQ)  
 
 ## aim headlights 
 [Daniel Stern aim headlights](https://www.danielsternlighting.com/tech/aim/aim.html)  
@@ -486,6 +499,8 @@ This is very, very true! Anyone installing a RMS should make sure to use the sup
 Getting the pan off, with the front Dana 30 or 44 in place, requires unbolting the shocks, dropping the rear as far as it will go, and loosening the exhaust bolts, so the pan will clear.
 
 [WTJF: rms replacement](https://wranglertjforum.com/threads/rear-main-seal-replacement-4-0.826/)  
+[rear main seal 2002 TJ Jeep Wrangler 4.0L - YouTube](https://www.youtube.com/watch?v=3MAyclRNa9k)  
+
 
 Tools and Parts Needed
 - High Temperature RTV - https://www.amazon.com/dp/B0002UEN1A/?tag=wranglerorg-20
@@ -760,10 +775,12 @@ https://www.amazon.com/gp/product/B07K22DGRY
 
 ## engine oil
 5w30 STP conv high mileage $27  
-mopar m0-090 $10  
 
+### engine oil filter filter
+mopar m0-090 $10  
 Factory WIX 51085    
 Larger CJ size 51515 taller, holds more oil  
+
 
 ## electrical cables
 [TJ Big 7 Complete Kit (Wrangler 97-06)](https://jeepcables.com/tj-big-7-complete-kit-wrangler-97-06/)  
@@ -933,6 +950,8 @@ ARB-RD117	| D44 TJ Rubicon Rear	| 3.73 & Down	|30
 [STICKY - TJ Shock & Spring Specification Resource Thread | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/tj-shock-spring-specification-resource-thread.47846/)  
 [I don't like my Rancho RS5000X shocks | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/i-dont-like-my-rancho-rs5000x-shocks.50974/)  
 
+SkyJacker Black Max B8528 for the rear
+
 ### shock torque specs
 
 Front:  
@@ -947,3 +966,8 @@ Rear Currie/Rock jock extensions:
 3/8 small bolt: 35 ft.lbs  
 factory bolt through spacer: 85 ft.lbs  
 shock bolt: 85 ft.lbs
+
+## air filter
+AC delco A1548C gold  
+Wix 46081
+Mopar 4797777
