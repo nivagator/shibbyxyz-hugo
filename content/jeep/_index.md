@@ -23,6 +23,7 @@ UCF extra-clearance steel skid
 Savvy cable shifter  
 M.O.R.E. 1" steering riser  
 Tom Woods rear CV shaft  
+ZJ Tie Rod Conversion | [053](../build-thread/053)  
 1" StreetRays Seat Risers  
 KC Apollo Pro fog lights | [020](../build-thread/020)   
 Toyota H4 complete headlight kit | [WTJF Thread](https://wranglertjforum.com/threads/toyota-lights-on-your-tj-cheap-quality-led-alternative.52840/) | [011](../build-thread/011)   
