@@ -2,7 +2,7 @@
 title: "2014 Honda Accord EX-L"
 date: 2022-10-03T12:05:40-05:00
 ---
-[Owners Manual](https://techinfo.honda.com/rjanisis/pubs/OM/AH/A2A14SEOM/enu/A2A14SEOM.PDF) | [maintenace log](./maintenance) | [Vehicle Specifications](https://owners.honda.com/vehicles/information/2014/Accord-Sedan/specs#mid^CR2F8EJNW) 
+{{< ablank href="https://techinfo.honda.com/rjanisis/pubs/OM/AH/A2A14SEOM/enu/A2A14SEOM.PDF" title="Owners Manual" >}} | [maintenace log](./maintenance) | {{< ablank href="https://owners.honda.com/vehicles/information/2014/Accord-Sedan/specs#mid^CR2F8EJNW" title="Vehicle Specifications">}}  
 
 - Engine Type: In-Line 4-Cylinder
 - Engine Block/Cylinder Head: Aluminum-Alloy
