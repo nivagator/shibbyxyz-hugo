@@ -21,6 +21,8 @@ tags: ['jeep']
 - {{< ablank href="https://www.crossbarranch.net/" title="Cross Bar Ranch Offroad Park" >}} | Davis, OK  
   - onsite camping
 - Hogan's Offroad Park | Disney, OK | {{< ablank href="https://www.travelok.com/listings/view.profile/id.13287" title="Hogan's Off Road Park | Travel OK" >}}  
+- {{< ablank href="https://ruggedmountainranch.com/" title="Rugged Mountain Ranch" >}}
+- {{< ablank href="https://www.google.com/maps/place/Green+Acres+Offroad/@34.5732908,-95.4109686,12.83z/data=!4m5!3m4!1s0x87b547b93e809465:0xcbd9fc10e241af9f!8m2!3d34.5938509!4d-95.3666441" title="Green Acres | Clayton, OK" >}}
 
 # Missouri
 - {{< ablank href="https://www.smorr.net/" title="SMORR" >}}  
