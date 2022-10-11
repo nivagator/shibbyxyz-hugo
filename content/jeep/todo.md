@@ -5,15 +5,21 @@ tags: ['jeep']
 ---
 
 # 2004 Jeep TJ Wrangler Rubicon 
-[Build Sheet](https://www.jeep.com/webselfservice/BuildSheetServlet?vin=1J4FA69SX4P757994)
+
+## up next
+- [oil pan and gasket](#oil-pan-and-gasket)
+- [oil change](#engine-oil) at 138,350
+- [rms](#rms)?
+- [aim headlights](#aim-headlights)
+- [service UCA johnny joints](#service-johnny-joints)
+- cycle rear suspension
+
+---
 
 ## Todo List 
-- [oil change](#engine-oil) at 138,350
 - tire rotation at 140,000
-- [oil pan and gasket](#oil-pan-and-gasket)
 - [O2 sensors](#o2-sensors)
 - [ball joints](#ball-joints)
-- [rms](#rms)
 - [timing chain](#timing-chain)
 - paint shocks
 - paint BL gap
@@ -51,8 +57,6 @@ tags: ['jeep']
 - [chromoly axle shafts](#chromoly-axle-shafts)
 - [regear to 4.88](#regear)
 - paint front frame suspension mounts
-- [aim headlights](#aim-headlights)
-- [service johnny joints](#service-johnny-joints)
 - [fix blend door](#fix-blend-door)
 - [rear axle seals](#rear-axle-seals)
 - tighten suspension bolts
@@ -60,7 +64,8 @@ tags: ['jeep']
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
 - [arb air lockers](#arb-air-lockers)
-- [air filter](#air-filter)
+- [on board air](#on-board-air)
+- tailgate table
 ---
 
 ## done
@@ -111,10 +116,14 @@ tags: ['jeep']
 - [new starter](#diagnose-hard-start) | 2022-09-17 @ 136,125mi 
 - [drill rear crossmember drain hole](#frame-drain-holes) | 2022-09-18 @ 136,138mi
 - [clean IAC](#clean-iac) | 2022-09-21
-- clearanced gas skid for rear track bar | 2022-09-26
-- [zj steering](#zj-tie-rodsteering) | 2022-09-30 @ 136,292mi 
-- [service front diff](#service-front-diff) w/ lubelocker | 2022-09-30 @ 136,292mi 
+- clearanced gas skid for rear track bar | 2022-09-26 | [051](/build-thread/051)
+- [zj steering](#zj-tie-rodsteering) | 2022-09-30 @ 136,292mi  | [053](/build-thread/053)
+- [service front diff](#service-front-diff) w/ lubelocker | 2022-09-30 @ 136,292mi | [053](/build-thread/053)
 - [alignment](#alignment) fr: 58 1/8 rr: 58 1/4 | 2022-09-30 @ 136,292mi
+- [air filter](#air-filter) Wix 46081 | 2022-10-07 @ 136,392mi
+- [service LCA johnny joints](#service-johnny-joints) | 2022-10-08 @ 136,400mi | [054](/build-thread/054)
+- install rear black max shocks | 2022-10-08 @ 136,400mi
+- [install trunk](#add-a-trunk-install) | 2022-10-08
 ---
 
 ## reference  
@@ -123,6 +132,7 @@ tags: ['jeep']
 - [cooling system](#cooling-system)
 - [rubicon factory lockers](#rubicon-factory-lockers)
 - [shocks](#shocks)
+- [service johnny joints](#service-johnny-joints)
 ---
 
 ## O2 Sensors
@@ -566,9 +576,9 @@ Lucas Red'n tacky
 
 ## service johnny joints
 
-I have 18 johnny joints.   
+I have 16 johnny joints.   
 9 2.5" - 8 on the 4 lower cas, 1 on the frame end of the front track bar  
-9 2" - 8 on the 4 upper cas, 1 on the diff end of the front track bar  
+7 2" - 6 on the 4 upper cas, 1 on the diff end of the front track bar  
 
 ### grease 
 moly grease for RCVs? - johnny joints   
@@ -589,6 +599,9 @@ The second thing is when you using all thread to squeeze the washer, **the oppos
 
 [rasband | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/rocky-mountain-billy-goat-build.14166/post-908661):  
 JJ balls have a small line around the collar of one of the two sides. This signifies the side that should be facing the snap ring. This is to note the side that’s marginally longer to account for the snap ring added on that side. It’s slight, but measurable at 1/16” on a 2.5” JJ.
+
+Sharp washer edge goes away from the rubber bushing  
+same with the snap ring, sharp side faces out 
 
 ### Tools: 
 - Vise 
@@ -806,7 +819,7 @@ Larger CJ size 51515 taller, holds more oil
 [redrock dead pedaal | ExtremeTerrain](https://www.extremeterrain.com/productphotos?webid=redrock-4x4-jeep-wrangler-hd-dead-pedal-driver-side-j138784)
 
 ## adjustable control arms
-uppers 7/16" 60 ft/lbs
+uppers 7/16" 60 ft/lbs  
 lowers 9/16" 90 ft/lbs
 
 ## seat bushings
@@ -968,6 +981,29 @@ factory bolt through spacer: 85 ft.lbs
 shock bolt: 85 ft.lbs
 
 ## air filter
-AC delco A1548C gold  
-Wix 46081
-Mopar 4797777
+AC delco A1548C gold   
+Wix 46081  
+Mopar 4797777  
+
+## add a trunk install
+[Factory rear trunk | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/factory-rear-trunk.43457/post-729400)  
+
+I used four M6 nutserts and four M6x20mm (maybe 15mm?) flanged bolts with a 1.00 pitch. The instatrunk originally came with thumb screws instead of bolts, but mine didn't have any with it and ACE did not have any in that size. I used the flanged bolts to eliminate the need for washers.  
+The nutserts go into the hexagon holes behind the carpet on each side. There should be grommets there. Remove them and push the nutserts in their place. It's a tight squeeze so you'll have to use a little force. I think I used a rubber mallet.  
+The nutserts are designed to expand on the inside and crimp against the sheet metal and the outer nutsert flange. You'll need to make a "tool" to set it. I would get an M6x30mm bolt and a couple of nuts in at least grade 8 to set the nutserts. If use use a cheap grade bolt, you'll most likely snap it with the force it's receiving.  
+I used a socket on the bolt instead of a second wrench. This allows you to put equal force on the bolt and keep the nutsert straight in the hole. If the nutsert tilts to one side, it won't set properly. You don't have to go crazy with them though. You're not holding on a skid plate or rocker guards.  
+Once your nutserts are set, you need to cut open a space for the bolts to pass through the carpet and into the nutserts. I believe the factory just cut little slits in the carpet. In hindsight I probably should have done this, but instead I used a soldering iron to "melt" through the carpet and seal the edges of the hole to prevent fraying.  
+Before the iron was hot, I felt around until I found the nutsert under the carpet, and poked tiny holes for reference.  
+Once my holes were poked, I heated up the iron and burned my bigger holes in. This melted the edge of the holes together to prevent potential fraying.  
+Once I had my holes burned in, I lined up the trunk and installed my flanged M6x20mm (maybe 15mm?) bolts.  
+
+## on board air
+[How-To: Simple Onboard Air for your TJ (Viair 400H) | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-simple-onboard-air-for-your-tj-viair-400h.10235/)
+
+Viair 400h/400p
+
+### existing compressor
+existing compressor is a superflow or masterflow mv-50 and has a Nitto 10mm type q connector  
+[How-To: Simple Onboard Air for your TJ (Viair 400H) | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-simple-onboard-air-for-your-tj-viair-400h.10235/post-559349)  
+[masterflow 25' air hose](https://masterflowair.com/products/25-foot-air-hose-type-q-nitto-quick-connect-air-fitting-lock-on-air-chuck)  
+[superflow Parts](https://superflowair.com/collections/parts)  
