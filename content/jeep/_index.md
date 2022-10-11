@@ -4,7 +4,7 @@ date: 2022-07-18T09:34:31-05:00
 ---
 
 # 2004 Jeep Wrangler TJ Rubicon  
-[todo](todo/#todo-list) | [done](todo/#done) | [reference](todo/#reference) | [end goal](end-goal/) | [build thread](../build-thread/)
+[todo](todo/#todo-list) | [done](todo/#done) | [reference](todo/#reference) | [end goal](end-goal/) | [build thread](../build-thread/) | [build sheet](https://www.jeep.com/webselfservice/BuildSheetServlet?vin=1J4FA69SX4P757994)
 
 ![current](img/jeep_20220319.jpg)
 
@@ -13,7 +13,8 @@ Rubicon Dana 44s, factory 4.10 and lockers
 Electric Lime Green Pearl  
 Cooper Evolution M/T 286/75/R16 | [035](../build-thread/035)  
 3" JKS Springs  
-Rancho RS5000x shocks 55239/55256 | [shock math](../build-thread/039)   
+Rancho RS5000x front shocks 55239 | [shock math](../build-thread/039)   
+Skyjacker BlackMax B8528 rear shocks  
 Savvy double adjustable aluminum control arms  
 Rock Jock front track bar  
 JKS rear track bar  
