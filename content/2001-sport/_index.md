@@ -33,6 +33,7 @@ M.O.R.E. Steering skid
 [Baertrax Buttface Diff Cover](https://www.rockcrawler.com/techreports/baertrax_buttface/index.asp)  
 Uniden CB  
 
+Purchased July 2008 @ 68,000mi
 Sold 2010
 
 Build thread after sale:  [Catmechanic's TJ6 build](https://www.jeepforum.com/threads/catmechanics-tj6-build.4222450/)  
