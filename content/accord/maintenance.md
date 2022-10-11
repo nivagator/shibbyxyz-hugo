@@ -1,7 +1,6 @@
 ---
 title: "Accord Maintenance"
 date: 2022-10-03T12:02:16-05:00
-draft: true
 ---
 
 ## maintenance log
