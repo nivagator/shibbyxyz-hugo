@@ -13,7 +13,7 @@ tags: ['jeep']
 - [aim headlights](#aim-headlights)
 - [service UCA johnny joints](#service-johnny-joints)
 - cycle rear suspension
-
+- [speedo correction](#speedo-correction)
 ---
 
 ## Todo List 
@@ -21,7 +21,7 @@ tags: ['jeep']
 - [O2 sensors](#o2-sensors)
 - [ball joints](#ball-joints)
 - [timing chain](#timing-chain)
-- paint shocks
+- paint shocks?
 - paint BL gap
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)
@@ -38,7 +38,7 @@ tags: ['jeep']
 - [new radio head unit](#stereo-head-unit) 
 - [radio separate amp](#radio-amp) 
 - [separate subwoofer unit?](#subwoofer-unit)
-- rear bumper with hitch receiver? 
+- [rear bumper with hitch receiver](#rear-bumper-with-hitch-receiver)
 - [winch, winch plate, front bumper](#winch-stuff)
 - half doors
 - floor liners
@@ -50,7 +50,6 @@ tags: ['jeep']
 - currie currect lync
 - [241 rear seal](#241-rear-seal-fix)
 - [raise gas skid](#raise-gas-skid)
-- add a trunk nutserts
 - [new battery](#battery)
 - morryde tailgate hinges
 - factory bumper end caps
@@ -66,6 +65,7 @@ tags: ['jeep']
 - [arb air lockers](#arb-air-lockers)
 - [on board air](#on-board-air)
 - tailgate table
+- [seat heaters](#seat-heaters)
 ---
 
 ## done
@@ -133,6 +133,7 @@ tags: ['jeep']
 - [rubicon factory lockers](#rubicon-factory-lockers)
 - [shocks](#shocks)
 - [service johnny joints](#service-johnny-joints)
+- [pinion angle](#pinion-angle)
 ---
 
 ## O2 Sensors
@@ -149,6 +150,13 @@ NTK was the oem supplier
 [O2 sensor wiring extensions amazon](https://www.amazon.com/dp/B06XKGVFN4/?tag=wranglerorg-20)  
 
 ![o2sensorimage](/jeep/img/o2sensors.jpg)  
+
+![o2 locations](../img/02sensors-01.png)  
+Bank 1 sensor 1 =Red  
+Bank 1 Sensor 2 =Blue  
+Bank 2 Sensor 1 =Yellow  
+Bank 2 Sensor 2 =Green  
+![o2 locations](../img/02sensors-02.png)  
 
 ## axle ujoints
 spicer 5-760x  
@@ -900,8 +908,20 @@ reman unit from oreilly's on 407
 
 [Jeep TJ / LJ / YJ / XJ Axle Kits | Carbon Off Road 4340 Chromoly Jeep Axle Kits](https://carbonoffroad.com/t/jeep-tj-/-yj-/-xj-axle-kits)
 
+[Rear Locker Discussion | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/rear-locker-discussion.65808/post-1206005)  
+Jerry Bransford: good quality 4340 30 spline shaft like from Revolution Gear or Superior Axle  
+
 ### fronts
-[Chromoly Shafts - Front - Dana 44](https://eastcoastgearsupply.com/i-18849300-dana-44-tj-rubicon-chromoly-axle-shaft-kit.html)
+30 spline inner/27 spline outer  
+4340  
+[Chromoly Shafts - Front - Dana 44](https://eastcoastgearsupply.com/i-18849300-dana-44-tj-rubicon-chromoly-axle-shaft-kit.html)  
+[Motive Gear Ten Factory Shaft Kit Summit](https://www.summitracing.com/parts/mgr-mg22165/)
+
+### rears
+30 spline 
+4140  
+[DANA 44 REAR TJ CHROMOLY SHAFT KIT (97-06)](https://eastcoastgearsupply.com/i-2880826-dana-44-tj-xj-rear-30-spline-shaft-kit.html)  
+[Motive Gear Ten Factory Shafts Summit ](https://www.summitracing.com/parts/mgr-mg22135/)
 
 ## arb air lockers
 [ARB Lockers in TJ Rubicon | Pirate 4x4](https://www.pirate4x4.com/threads/arb-lockers-in-tj-rubicon.878353/)
@@ -1001,9 +1021,48 @@ Once I had my holes burned in, I lined up the trunk and installed my flanged M6x
 [How-To: Simple Onboard Air for your TJ (Viair 400H) | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-simple-onboard-air-for-your-tj-viair-400h.10235/)
 
 Viair 400h/400p
+Viair 88p
 
 ### existing compressor
 existing compressor is a superflow or masterflow mv-50 and has a Nitto 10mm type q connector  
 [How-To: Simple Onboard Air for your TJ (Viair 400H) | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-simple-onboard-air-for-your-tj-viair-400h.10235/post-559349)  
 [masterflow 25' air hose](https://masterflowair.com/products/25-foot-air-hose-type-q-nitto-quick-connect-air-fitting-lock-on-air-chuck)  
 [superflow Parts](https://superflowair.com/collections/parts)  
+
+
+## speedo correction
+[SpeedoDRD](https://shop.12oclocklabs.com/index.php?route=product/product&product_id=59)  
+[Yellow Box Speedo Recalibrator](https://www.yellr.com/)  
+**[JET AccuSpeed](https://www.4wheelparts.com/p/jet-performance-products-accu-speed-speedometer-calibrator-50110/_/R-BHDL-50110)**  
+[HealTech SpeedoHealer](https://www.polyperformance.com/healtech-speedohealer-jeep-plug-n-play-kit-for-98-06-wrangler-04-06-tj-98-01-cherokee-xj-shv4a-j01)  
+
+[mr blaine on install](https://wranglertjforum.com/threads/yellr-speedometer-recalibration-box-on-non-rubicon-model-tj.9438/post-145856)  
+I drill a hole in the firewall right in front of the fuse block behind the dash. Run the wires inside and then I have industrial Velcro I use to stick them right to the metal frame on the bottom of the passenger air bag. Zip it off and adjust it, put it back and it is as protected as it needs to be.  
+
+[mr blaine on install](https://wranglertjforum.com/threads/how-can-the-speedometer-be-correct-with-a-teraflex-transfer-case.63106/post-1141433)
+I highly prefer putting the correction device that can be dialed in by spinning a small screwdriver, stored behind the glove box with the total length of wire running from the PCM connectors to right behind the glove box. Clean, efficient, simple. Run a fuse tap from the instrument cluster fuse, ground in the same area. Total power and ground wires are about 18" long.  
+Yep, we drill a small hole in the firewall in front of the glove box, run a pair of wires from the correction device out through that, pick up the wires in the harness to the speedo at the PCM plugs, cut and splice and done.  
+
+[more mr blaine install](https://wranglertjforum.com/threads/how-can-the-speedometer-be-correct-with-a-teraflex-transfer-case.63106/post-1141909)
+Since the elegant part seems to be underappreciated, here is what it looks like when done the way we do it. At the firewall, small braided loom is the tap into the PCM harness. The folded back loom is the connector for the old hood light.
+
+![accuspeed install 01](../img/speedo01.JPG)
+![accuspeed install 03](../img/speedo03.JPG)
+![accuspeed install 04](../img/speedo04.png)
+
+## rear bumper with hitch receiver
+[UCF aluminum hybrid rear bumper](https://undercoverfab.com/jeep-tj-lj-97-06/201-ucf-aluminum-rear-bumper-for-jeep-yj-tj.html)  
+[TJ LJ YJ Low Profile Rear Bumper With 2" Receiver – Barnes 4WD](https://barnes4wd.com/products/tj-lj-yj-low-profile-rear-bumper-with-2-receiver)  
+
+## seat heaters
+Dorman 628-040  
+[(2 Seat Heaters) Dorman 628-040 Universal Seat Heater Element - Free Shipping  | eBay](https://www.ebay.com/itm/2-Seat-Heaters-Dorman-628-040-Universal-Seat-Heater-Element-Free-Shipping-/155212110745?_trksid=p2349526.m4383.l4275.c1#viTabs_0)  
+
+[How-to install other heated seats | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-install-heated-seats-in-your-jeep-wrangler-tj.15326/)  
+[How to install Dorman heated seats | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-install-heated-seats-in-your-jeep-wrangler-tj.4414/)  
+
+## pinion angle
+[How much angle is too much angle for the rear driveshaft? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-much-angle-is-too-much-angle-for-the-rear-driveshaft.32017/post-517967)  
+
+### front
+[05 Flame Red TJ Build | Page 271 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/05-flame-red-tj-build.3998/post-1211356)
