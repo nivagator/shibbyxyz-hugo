@@ -25,17 +25,17 @@ logitech g913 tkl
 logitech g pro wireless  
 steel series arctis 1  
 dell sdg2721dgf  
-endeavor os
+endeavor os  
 
 **galaxy**  
 ryzen 7 3700x  
 asus b450-f gaming  
 corsair lps 3600 cl18 32gb (4x8)  
 asus gtx 1650 super  
-nvidia quadro p400
-lsi 9211-8i hba
+nvidia quadro p400  
+lsi 9211-8i hba  
 fractal define 7  
-32tb raw storage  
+44tb raw storage  
 unraid 6  
 
 **nebula**  
@@ -48,6 +48,7 @@ old nzxt case, source 530 i think
 proxmox 7.2 
 
 **constellation**  
+**retired as of 2022-11**
 synology ds216j  
-12TB raw, mirror  
-DSM 7  
+12TB raw, mirror   
+DSM 7   
