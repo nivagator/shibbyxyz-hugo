@@ -1,7 +1,6 @@
 ---
 title: "Beef Stew"
 date: 2021-11-11T10:53:38-05:00
-draft: true
 tags: ['recipes']
 ---
 

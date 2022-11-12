@@ -1,7 +1,6 @@
 ---
 title: "Apple Pie"
 date: 2022-08-10T11:01:59-05:00
-draft: true
 tags: ['recipes']
 ---
 
