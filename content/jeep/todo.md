@@ -124,6 +124,8 @@ tags: ['jeep']
 - [service LCA johnny joints](#service-johnny-joints) | 2022-10-08 @ 136,400mi | [054](/build-thread/054)
 - install rear black max shocks | 2022-10-08 @ 136,400mi
 - [install trunk](#add-a-trunk-install) | 2022-10-08
+- [service front UCA johnny joints](#service-johnny-joints) | 2022-10-15 @136,500mi
+- replaced windshield wipers (bosch microedge 40713) | 2022-11-12 
 ---
 
 ## reference  
