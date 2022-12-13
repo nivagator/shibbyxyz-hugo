@@ -55,3 +55,7 @@ towel wrap
 [amazon](https://www.amazon.com/TowelSelections-Womens-Shower-Terry-Pink-White/dp/B06XBPVPW5)
 
 [Bath Body Wrap Gray - Room Essentials™ : Target](https://www.target.com/p/bath-body-wrap-gray-room-essentials-8482-/A-79137638)
+
+# Owen
+[Singing & Dancing Plush Dinosaur | Hobby Lobby | 5393111](https://www.hobbylobby.com/Christmas/Fashion-Novelty-Items/Stuffed-Animals/Singing-Dancing-Plush-Dinosaur/p/80997822)  
+[Tree Rex Snow Globe | Hobby Lobby | 5152764](https://www.hobbylobby.com/Christmas/Home-Decor-Pillows/Snow-Globes/Tree-Rex-Snow-Globe/p/80953675)
