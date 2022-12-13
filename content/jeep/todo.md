@@ -66,6 +66,8 @@ tags: ['jeep']
 - [on board air](#on-board-air)
 - tailgate table
 - [seat heaters](#seat-heaters)
+- [fix exhaust]
+
 ---
 
 ## done
@@ -1068,3 +1070,7 @@ Dorman 628-040
 
 ### front
 [05 Flame Red TJ Build | Page 271 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/05-flame-red-tj-build.3998/post-1211356)
+
+## fix exhaust
+exhaust contacts passenger uca frame mount. the hanger attached to the trans mount needs to be shortened.
+[B & B Muffler Lewisville](https://bandbmufflerlew.com)
