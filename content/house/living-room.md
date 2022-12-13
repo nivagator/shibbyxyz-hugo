@@ -1,7 +1,7 @@
 ---
 title: "Living Room"
 date: 2022-11-11T19:26:34-06:00
-draft: true
+tags: ['house']
 ---
 
 https://www.lowes.com/pd/Origin-21-Stool-Black-26-in-H-Counter-height-Upholstered-Bar-Stool/5012920299  
