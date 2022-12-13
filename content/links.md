@@ -10,3 +10,4 @@ liexclude: true
 [SelfHosted Show](https://selfhosted.show/)  
 [TheOrangeOne](https://theorangeone.net/)  
 [Wrangler TJ Forum](https://wranglertjforum.com)
+[Nice to know Unraid commands](https://selfhosters.net/commands/)
