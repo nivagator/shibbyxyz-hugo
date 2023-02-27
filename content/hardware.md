@@ -4,10 +4,10 @@ date: 2022-06-21T17:17:39-05:00
 liexclude: true
 ---
 
-## June 2022   
-**hp envy**  
-hp envy x360 13 laptop
-13" 1080p touchscreen
+## January 2023
+**hp envy**   
+hp envy x360 13 laptop  
+13" 1080p touchscreen  
 ryzen 7 4700u  
 8gb ram  
 1tb samsung 970 evo plus  
@@ -35,20 +35,21 @@ asus gtx 1650 super
 nvidia quadro p400  
 lsi 9211-8i hba  
 fractal define 7  
-44tb raw storage  
+48tb raw storage  
 unraid 6  
 
 **nebula**  
 Xeon E3-1245 V2  
-supermicro X9SCM  
+supermicro X9SCM-F  
 16gb DDR3 ECC  
 lsi 9211-8i hba  
-old nzxt case, source 530 i think  
-8tb raw storage  
-proxmox 7.2 
+old nzxt case, source 530?  
+proxmox 7  
+truenas scale  
+22tb raw storage, zfs mirror vdevs  
 
 **constellation**  
-**retired as of 2022-11**
+**retired as of 2022-11**  
 synology ds216j  
 12TB raw, mirror   
 DSM 7   
