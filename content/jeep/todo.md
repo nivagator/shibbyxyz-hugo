@@ -7,17 +7,15 @@ tags: ['jeep']
 # 2004 Jeep TJ Wrangler Rubicon 
 
 ## up next
-- [oil pan and gasket](#oil-pan-and-gasket)
-- [oil change](#engine-oil) at 138,350
 - [rms](#rms)?
 - [aim headlights](#aim-headlights)
-- [service UCA johnny joints](#service-johnny-joints)
+- [service rear UCA johnny joints](#service-johnny-joints) | [059](/build-thread/059)
 - cycle rear suspension
-- [speedo correction](#speedo-correction)
 ---
 
 ## Todo List 
 - tire rotation at 140,000
+- [oil change](#engine-oil) at 142,000mi or Feb 2024
 - [O2 sensors](#o2-sensors)
 - [ball joints](#ball-joints)
 - [timing chain](#timing-chain)
@@ -34,7 +32,6 @@ tags: ['jeep']
 - control arm mini-skids
 - [savvy sliders](#sliders)
 - hood dent repair?
-- [front component speakers](#front-component-speakers)
 - [new radio head unit](#stereo-head-unit) 
 - [radio separate amp](#radio-amp) 
 - [separate subwoofer unit?](#subwoofer-unit)
@@ -66,7 +63,7 @@ tags: ['jeep']
 - [on board air](#on-board-air)
 - tailgate table
 - [seat heaters](#seat-heaters)
-- [fix exhaust]
+- [speedo correction](#speedo-correction)
 
 ---
 
@@ -122,13 +119,18 @@ tags: ['jeep']
 - [zj steering](#zj-tie-rodsteering) | 2022-09-30 @ 136,292mi  | [053](/build-thread/053)
 - [service front diff](#service-front-diff) w/ lubelocker | 2022-09-30 @ 136,292mi | [053](/build-thread/053)
 - [alignment](#alignment) fr: 58 1/8 rr: 58 1/4 | 2022-09-30 @ 136,292mi
-- [air filter](#air-filter) Wix 46081 | 2022-10-07 @ 136,392mi
+- installed currie shock mount extensions | 2022-10-01 @ 136,325mi
+- [air filter](#air-filter) Wix 46081 | 2022-10-07 @ 136,392mi | [055](/build-thread/055)
 - [service LCA johnny joints](#service-johnny-joints) | 2022-10-08 @ 136,400mi | [054](/build-thread/054)
-- install rear black max shocks | 2022-10-08 @ 136,400mi
-- [install trunk](#add-a-trunk-install) | 2022-10-08
+- install rear black max shocks | 2022-10-08 @ 136,400mi | [055](/build-thread/055)
+- [install trunk](#add-a-trunk-install) | 2022-10-08 | [055](/build-thread/055)
 - [service front UCA johnny joints](#service-johnny-joints) | 2022-10-15 @136,500mi
-- replaced windshield wipers (bosch microedge 40713) | 2022-11-12 
+- replaced windshield wipers (bosch microedge 40713) | 2022-11-12 | [055](/build-thread/055)
 - [137,000mi](../img/137003.jpeg) | 2023-01-16
+- [front component speakers](#front-component-speakers) | 2023-02-| [056](/build-thread/056)
+- [oil pan and gasket](#oil-pan-and-gasket) | 2023-02-25 | [057](/build-thread/057)
+- [oil change](#engine-oil) | 2023-02-25 @137,500mi
+- [fix exhaust](#fix-exhaust) | 2023-02-27 @137,500mi | [058](/build-thread/058)
 ---
 
 ## reference  
@@ -656,7 +658,7 @@ track bar grease fittings are 1/4-28 threaded
 
 [KICKER | KS Series 5.25" Components KSS504 or KSS50](https://www.kicker.com/47KSS50)  
 [Kicker 47KSS504 KS Series 5-1/4" component speaker Crutchfield](https://www.crutchfield.com/p_20647KSS50/Kicker-47KSS504.html)  
-[Upgrading the sound system on your Jeep Wrangler TJ | Page 46 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/upgrading-the-sound-system-on-your-jeep-wrangler-tj.111q04/post-1171362)  
+[Upgrading the sound system on your Jeep Wrangler TJ | Page 46 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/upgrading-the-sound-system-on-your-jeep-wrangler-tj.11104/post-1171362)  
 
 ## stereo head unit
 
@@ -1070,8 +1072,11 @@ Dorman 628-040
 [How much angle is too much angle for the rear driveshaft? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-much-angle-is-too-much-angle-for-the-rear-driveshaft.32017/post-517967)  
 
 ### front
-[05 Flame Red TJ Build | Page 271 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/05-flame-red-tj-build.3998/post-1211356)
+[05 Flame Red TJ Build | Page 271 | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/05-flame-red-tj-build.3998/post-1211356)  
 
 ## fix exhaust
 exhaust contacts passenger uca frame mount. the hanger attached to the trans mount needs to be shortened.
-[B & B Muffler Lewisville](https://bandbmufflerlew.com)
+[B & B Muffler Lewisville](https://bandbmufflerlew.com)  
+
+[MountaineerTom: exhaust hanger mod with UCF extra clearance skid](https://wranglertjforum.com/threads/mountaineertoms-2006-jeep-wrangler-unlimited.14995/post-1268074)  
+[Farmergreg: exhaust hanger mod with UCF skid](https://wranglertjforum.com/threads/2006-ljr-ucf-skids-and-tummy-tuck.10972/post-243059)  
