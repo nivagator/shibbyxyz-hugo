@@ -33,3 +33,4 @@ Teraflex hand throttle
 Bulletpoint phone/radio/gopro mount  
 Radioddity GM-30 and Baofeng UV-5R  
 Wizard Recovery Gear soft shackles  
+Warn M8000 | [refresh](../m8000) | [info](/jeep/m8000) | [061](../build-thread/061)
