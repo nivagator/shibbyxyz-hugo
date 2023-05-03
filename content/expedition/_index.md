@@ -7,7 +7,7 @@ Component | Part Number
 --- | ---
 Air filter element | FA-1883
 Oil filter | FL-500-S
-Spark plugs | SP-534
+Spark plugs | SP-534 SP580/SP580xlo
 Windshield wiper blade | WW-2234
 Rear window wiper blade | WW-1612
 Recommended motor oil | SAE 5W-30 Premium Synthetic Blend
