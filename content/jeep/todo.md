@@ -8,7 +8,6 @@ tags: ['jeep']
 
 ## up next
 - [aim headlights](#aim-headlights)
-- [service rear UCA johnny joints](#service-johnny-joints)
 - [winch plate](#winch-stuff)
 - [AGM battery](#battery)
 - [electrical cables](#electrical-cables)
