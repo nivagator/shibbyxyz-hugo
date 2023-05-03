@@ -7,38 +7,36 @@ tags: ['jeep']
 # 2004 Jeep TJ Wrangler Rubicon 
 
 ## up next
-- [rms](#rms)?
 - [aim headlights](#aim-headlights)
-- [service rear UCA johnny joints](#service-johnny-joints) | [059](/build-thread/059)
+- [service rear UCA johnny joints](#service-johnny-joints)
+- [winch plate](#winch-stuff)
+- [AGM battery](#battery)
+- [electrical cables](#electrical-cables)
 - cycle rear suspension
+- [ball joints](#ball-joints)
+- [replace clutch](#clutch) 
+- [O2 sensors](#o2-sensors)
 ---
 
 ## Todo List 
 - tire rotation at 140,000
-- [oil change](#engine-oil) at 142,000mi or Feb 2024
-- [O2 sensors](#o2-sensors)
-- [ball joints](#ball-joints)
+- [oil change](#engine-oil) at 142,000mi or August 2023
 - [timing chain](#timing-chain)
 - paint shocks?
 - paint BL gap
 - [front brakes](#front-brakes)
-- [flush brake fluid](#flush-brake-fluid)
-- [replace clutch](#clutch)   
+- [flush brake fluid](#flush-brake-fluid)  
 - skid nutsert replacement
 - [aftermarket swaybar - swayloc or antirock](#aftermarket-sway-bar)
 - surface rust in drivers footwell
 - [Flip door handles](#flip-door-handles)
 - steering pillow
 - control arm mini-skids
-- [savvy sliders](#sliders)
+- [sliders](#sliders)
 - hood dent repair?
-- [new radio head unit](#stereo-head-unit) 
-- [radio separate amp](#radio-amp) 
-- [separate subwoofer unit?](#subwoofer-unit)
 - [rear bumper with hitch receiver](#rear-bumper-with-hitch-receiver)
 - [winch, winch plate, front bumper](#winch-stuff)
 - half doors
-- floor liners
 - paint axles?
 - [Tailgate Dome Light Activation Switch](#tailgate-dome-light-activation-switch)
 - [A/C Defeat](#ac-defeat)
@@ -64,7 +62,11 @@ tags: ['jeep']
 - tailgate table
 - [seat heaters](#seat-heaters)
 - [speedo correction](#speedo-correction)
-
+- [new exhaust](#new-exhaust)
+- [flat tow](#flat-tow)
+- [re-cover steering wheel](#steering-wheel)
+- [rms](#rms)?
+- [separate subwoofer unit?](#subwoofer-unit)
 ---
 
 ## done
@@ -127,10 +129,15 @@ tags: ['jeep']
 - [service front UCA johnny joints](#service-johnny-joints) | 2022-10-15 @136,500mi
 - replaced windshield wipers (bosch microedge 40713) | 2022-11-12 | [055](/build-thread/055)
 - [137,000mi](../img/137003.jpeg) | 2023-01-16
-- [front component speakers](#front-component-speakers) | 2023-02-| [056](/build-thread/056)
+- [front component speakers](#front-component-speakers) | 2023-02-13| [056](/build-thread/056)
 - [oil pan and gasket](#oil-pan-and-gasket) | 2023-02-25 | [057](/build-thread/057)
-- [oil change](#engine-oil) | 2023-02-25 @137,500mi
-- [fix exhaust](#fix-exhaust) | 2023-02-27 @137,500mi | [058](/build-thread/058)
+- [oil change](#engine-oil) | 2023-02-25 @137,175mi
+- [fix exhaust](#fix-exhaust) | 2023-02-27 @137,175mi | [058](/build-thread/058)
+- [new radio head unit](#stereo-head-unit) | 2023-03-07 | [059](/build-thread/059)
+- [radio separate amp](#radio-amp) | 2023-03-10 | [059](/build-thread/059)
+- installed Zone offroad sway disconnects | 2023-04-24 @ 137,895mi | [063](/build-thread/063)
+- [service rear UCA johnny joints](#service-johnny-joints) | 2023-04-29 @137,925mi | [063](/build-thread/063)
+- replaced leaking passenger rear black max shock | 2023-04-29 @137,925mi | [063](/build-thread/063)
 ---
 
 ## reference  
@@ -216,7 +223,8 @@ The idea is to insert a relay to interrupt the momentary ground that the pcm nee
 ## winch stuff
 [Roundforge: Warn M8000 buyers guide](https://www.roundforge.com/articles/warn-m8000-and-m8-winch/)  
 [TRE Winch Rope](https://www.tacticalrecoveryequipment.com/product-category/synthetic-winch-rope/)  
-[Winch Master Disconnect | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/winch-master-disconnect.64060/)  
+[Winch Master Disconnect | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/winch-master-disconnect.64060/)   
+[WTJF: Warn Midframe Winch Resource Thread](https://wranglertjforum.com/threads/warn-mid-frame-winch-resource-thread.68302/)
 
 ### Wizard Recovery Gear!  
 [Wizard Recovery Gear - ST FAIRLEAD](https://www.shop.blackmagicbrakes.com/Wizard-Recovery-Gear-ST-FAIRLEAD-WRG-ST-FAIRLEAD.htm)  
@@ -228,6 +236,9 @@ Thimble and rope coming soon
 ### warn m8000
 [warn m8000 | summit](https://www.summitracing.com/parts/wrn-26502)
 [warn m8000-s | summit](https://www.summitracing.com/parts/wrn-87800)
+
+[WTFJ m8000 recondition tips](https://wranglertjforum.com/threads/warn-m8000-reconditioned-tips.68240/page-3)
+
 
 ### winch plate
 [Winch with stock bumper? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/winch-with-stock-bumper.14062/)  
@@ -259,6 +270,9 @@ Montanajacks had all the parts I needed in stock.[Warn winches – Montana Jacks
 Do a locked Brummel eye about 14" in from the end of the line and leave the tail out after a very short bury. Make the eye large enough for the end terminal (thimble or hook) to fit through. Eye goes over the top of the drum, around the backside, out forward under the drum. Other end goes through the eye, snugs up tight against current anchor side, tail lays across drum and gets taped down and cut to length drum width. As soon as you tension it, it will snug up tight but no matter what, you can't pull the line loose from the winch if you screw up.  
 [How to Re-tie a Locking Brummel Loop at the end of your winch-line WITHOUT unspooling your winch!! - YouTube](https://www.youtube.com/watch?v=Ug0qAFRKcHY)  
 
+[WTJF: winch line to drum attachment WRG](https://wranglertjforum.com/threads/winch-line-to-drum-attachment-wrg.69352/)
+[Brummel lock-splice with one side fixed - YouTube](https://www.youtube.com/watch?v=4WW7Qvg3VjI)
+
 ### in cab winch controllers
 [What winch panel switch are people using? | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/what-winch-panel-switch-are-people-using.28457/post-458622)  
 
@@ -275,16 +289,33 @@ Do a locked Brummel eye about 14" in from the end of the line and leave the tail
 [Amazon: Soundstream picasso nano](https://www.amazon.com/dp/B00G051S7I)  
 [WTJF: SSTJ build notes](https://wranglertjforum.com/threads/sstjs-mostly-stock-97-se-2-5.50320/#post-980695)  
 
+### wiring examples
+
+### mount examples
+[WTJF: How to install a subwoofer amp under steering column](https://wranglertjforum.com/threads/how-to-install-a-subwoofer-amp-under-steering-column.30518/)  
+[WTFJ sourbluff mount](https://wranglertjforum.com/threads/keychain-delivered.32981/post-593371)  
+[WTJF Nashville install](https://wranglertjforum.com/threads/nashville-tjs-build-continued.42035/page-57)  
+
+### subwoofer wiring examples
+[Goldwood GW-S650/4 6-1/2" Poly Cone Woofer 4 Ohm](https://www.parts-express.com/Goldwood-GW-S650-4-6-1-2-Poly-Cone-Woofer-4-Ohm-290-308)  
+
+[Kicker 48CWRT674 CompRT shallow-mount 6-3/4" subwoofer with dual 4-ohm voice coils | Crutchfield](https://www.crutchfield.com/p_20648CT674/Kicker-48CWRT674.html)  
+
+The Soundstream's sub channel is rated at 350 watts at 2 ohms (or 200 watts at 4 ohms), so the Kicker subwoofer I would recommend is a 1 ohm or 4 ohm version, but not the 2 ohm version. The 1 ohm can be wired in series which will draw 2 ohms/350 watts, or the 4 ohm can be wired in parallel and draw the same 2 ohms/350 watts.
+
+![sub wiring](../img/subwiring.png)  
+
 ## clutch 
 [HF: Three Jaw Bearing Puller](https://www.harborfreight.com/3-jaw-pilot-bearing-puller-4876.html)   
 [Amazon: E12 socket](https://www.amazon.com/dp/B007QV1AZ0)  
 [Amazon: Luk clutch kit](https://www.amazon.com/gp/product/B000CICYZ4)   
-[Amazon: Omix-Ada Clutch Fork](https://www.amazon.com/gp/product/B000FQ7BQA)
+[Amazon: Omix-Ada Clutch Fork](https://www.amazon.com/gp/product/B000FQ7BQA)  
 [Timken 614093 Clutch Release Bearing](https://www.amazon.com/dp/B000BZ6XV4/?tag=wranglerorg-20)  
 [National 614093 Clutch Release Bearing Assembly](https://www.amazon.com/dp/B000BZIQ4Q/?tag=wranglerorg-20)  
+[HF 450 lb. Low Lift Transmission Jack](https://www.harborfreight.com/450-lb-low-lift-transmission-jack-61232.html)  
 
-[WTJF: NV3550 throwout bearing and clutch replacement advice](https://wranglertjforum.com/threads/nv3550-throwout-bearing-and-clutch-replacement-advice.34703/)  
-[WTJF: Clutch recommendations and tips?](https://wranglertjforum.com/threads/clutch-recommendations-and-tips.21262/)
+[WTJF: NV3550 throwout bearing and clutch replacement advice](https://wranglertjforum.com/threads/nv3550-throwout-bearing-and-clutch-replacement-advice.34703/)    
+[WTJF: Clutch recommendations and tips?](https://wranglertjforum.com/threads/clutch-recommendations-and-tips.21262/)  
 
 This is a bolt-in job, there's not much to it. Just know that there's usually no reason to have to replace the flywheel unless it is physically damaged. Also, don't have the surface of the flywheel resurfaced or refinished. The TJ's flywheel has a domed surface that would be removed if it was resurfaced. At the most, if it has any glazing on its surface, just remove it with a mild grade of sandpaper or emery cloth.
 
@@ -298,6 +329,13 @@ About the only thing not included in that kit that I'd recommend would be a diff
 [TJ Jeep trans mount overhaul - YouTube](https://www.youtube.com/watch?v=aw5LvqjzICA)  
 [Flywheel 2.0 and Clutch (jeep wrangler TJ 4.0L) - YouTube](https://www.youtube.com/watch?v=f6Ud5mcZOoM)  
 [Jeep Transmission install - YouTube](https://www.youtube.com/watch?v=7X0krRSBkPc)  
+[Jeep Clutch Repair on a 2000 Jeep Wrangler 4.0 / Transfer Case Removal Walk Though - YouTube](https://www.youtube.com/watch?v=BS4abyp0zfk)
+[4x4xplor 1997 Jeep TJ Clutch Replacement](https://www.4x4xplor.com/clutch.html)
+
+[NV3550 throwout bearing and clutch replacement advice](https://wranglertjforum.com/threads/nv3550-throwout-bearing-and-clutch-replacement-advice.34703/post-567356)  
+For the pilot bearing, use bread. I’ve used this trick three times now on different engines, works every time: pack the hole full of bread, take a 3/8 extension or a punch, wrap electrical tape around it until it’s the same diameter as the hole, to act as a “seal”. Keep hammering the extension into the hole. Stop and repack with bread as it gets compressed. Eventually, it’ll pop right out.
+Ive heard of people doing the same thing with grease, but bread is a lot easier to clean up than grease once the bearing pops out.
+
 
 ## rain cover
 [Rain Gear Trail Cover](https://www.raingearcovers.com/product-page/wrangler-tj-1997-2006-trail-cover)  
@@ -478,8 +516,11 @@ AGM battery
 
 [WTJF: AGM Advantages](https://wranglertjforum.com/threads/group-34-vs-group-24-battery-on-2006-tj.57456/post-1011414)
 
+[WTJF: Odyssey Northstar or Diehard](https://wranglertjforum.com/threads/odyssey-northstar-or-diehard-again.65576/page-2)
+
+
 Odyssey  
-Napa Legend AGM  
+$240 [Napa Legend AGM](https://www.napaonline.com/en/p/BAT983478)
 $220 [Oreilly SuperStart platinum AGM group 34](https://www.oreillyauto.com/detail/c/platinum/super-start-platinum-battery-group-size-34/ssbq/34plt/v/a/17926/automotive-suv-2004-jeep-wrangler?brand=true&pos=9)  
 - $158 [Oreilly: Super Start Marine AGM Group Size 34M Top Post Battery](https://www.oreillyauto.com/detail/c/marine-agm/super-start-marine-agm-group-size-34m-top-post-battery/ssbj/34magm/v/a/17926/automotive-suv-2004-jeep-wrangler)  
 - $135 [Sams Duracell AGM Deep Cycle Marine and RV Battery, Group Size 34M](https://www.samsclub.com/p/duracell-agm-deep-cycle-marine-and-rv-battery-group-size-sl34magm/prod3590225)
@@ -489,7 +530,7 @@ $220 [Oreilly SuperStart platinum AGM group 34](https://www.oreillyauto.com/deta
 
 duralast platinum agm Auto zone  
 diehard platinum agm  
-x2 power   
+$350 [x2 power](https://www.batteriesplus.com/product-details/auto_light-truck/battery/x2power/sli34=78agmdp)   
 northstar  
 
 "Calcium" AGM like the offerings from NAPA, O'Reillys, Duracell, etc., - good batteries at a more reasonable price point and suitable for most jeepers looking to upgrade from a flooded lead acid battery who either can't afford the price point of a Northstar or don't need the features of a pure lead AGM battery. I will probably buy one of these as my next battery
@@ -508,6 +549,8 @@ Be sure to get a Group 24 instead of a group 34 for the extra capacity.(?)
 34 is original  
 24 is taller, more capacity but lower amps  
 78  
+
+East Penn or Deka dealer near you and get an **Intimidator 9A78DT**. Should be able to find them in the $250 range.
 
 ## center axle under jeep
 [WTJF: center axle with adjustable track bar](https://wranglertjforum.com/threads/how-to-align-your-axle-with-an-adjustable-track-bar.16623/#post-270843)  
@@ -664,6 +707,7 @@ track bar grease fittings are 1/4-28 threaded
 
 [Clarion M508 Marine | Crutchfield](https://www.crutchfield.com/p_020M508/Clarion-M508.html)  
 [Kenwood Excelon KMM-X704 | Crutchfield](https://www.crutchfield.com/p_113KMX704/Kenwood-Excelon-KMM-X704.html)  
+[Kenwood Excelon KMM-X705 | Crutchfield](https://www.crutchfield.com/p_113KMX705/Kenwood-Excelon-KMM-X705.html)  
 
 ## regear
 
@@ -803,6 +847,7 @@ https://www.amazon.com/gp/product/B07K22DGRY
 
 ## engine oil
 5w30 STP conv high mileage $27  
+[napa high milage conventional](https://www.napaonline.com/en/p/NOL75305)
 
 ### engine oil filter filter
 mopar m0-090 $10  
@@ -1027,7 +1072,29 @@ Once I had my holes burned in, I lined up the trunk and installed my flanged M6x
 ## on board air
 [How-To: Simple Onboard Air for your TJ (Viair 400H) | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/how-to-simple-onboard-air-for-your-tj-viair-400h.10235/)
 
-Viair 400h/400p
+mounting plate
+- 4.75x12" 11 gauge steel
+- mousepad cushion  
+electrical
+- 10 gauge wiring
+- 10 gauge 2 pole connector (ebay)
+- zipcord
+- blue sea 5024 fuse block
+plumbing
+- "bar stock" brass tee
+- 22" high pressure, high temp 3/8 hose
+- check valve optional
+- swivel stud 1/4 NPT 
+hose
+- long
+- short
+- pressure guage
+- tee
+- valve
+- chucks
+- etc
+
+Viair 400h/400p  
 Viair 88p
 
 ### existing compressor
@@ -1060,6 +1127,7 @@ Since the elegant part seems to be underappreciated, here is what it looks like 
 ## rear bumper with hitch receiver
 [UCF aluminum hybrid rear bumper](https://undercoverfab.com/jeep-tj-lj-97-06/201-ucf-aluminum-rear-bumper-for-jeep-yj-tj.html)  
 [TJ LJ YJ Low Profile Rear Bumper With 2" Receiver – Barnes 4WD](https://barnes4wd.com/products/tj-lj-yj-low-profile-rear-bumper-with-2-receiver)  
+[Wrangler and CJ Rear Bumper | Dirtworx](https://www.thedirtworx.com/product-page/rear-bumper)  
 
 ## seat heaters
 Dorman 628-040  
@@ -1080,3 +1148,65 @@ exhaust contacts passenger uca frame mount. the hanger attached to the trans mou
 
 [MountaineerTom: exhaust hanger mod with UCF extra clearance skid](https://wranglertjforum.com/threads/mountaineertoms-2006-jeep-wrangler-unlimited.14995/post-1268074)  
 [Farmergreg: exhaust hanger mod with UCF skid](https://wranglertjforum.com/threads/2006-ljr-ucf-skids-and-tummy-tuck.10972/post-243059)  
+
+## new exhaust 
+[DYNOMAX 19391](https://www.rockauto.com/en/moreinfo.php?pk=920550&jsn=3)
+
+## flat tow
+https://fitmaster.roadmasterinc.com/fitmaster-results/?years=2004&make=JEEP&model=WRANGLER&type=direct
+https://nsarvproducts.com/pages/state-towing-laws  
+
+### threads
+https://wranglertjforum.com/threads/flat-tow-braking-options.32452/
+https://wranglertjforum.com/threads/using-existing-truck-brake-controller-to-flat-tow-like-a-trailer.59885/
+https://wranglertjforum.com/threads/flat-tow-setup-opinions.18747/
+https://wranglertjforum.com/threads/how-to-install-currie-tow-bar-mounts.8972/
+https://wranglertjforum.com/threads/flat-towing-my-tj.15976/
+https://wranglertjforum.com/threads/how-to-properly-tow-your-jeep-wrangler-tj.2479/  
+https://wranglertjforum.com/threads/flat-tow-bar-for-currie-bumper.69784/  
+
+
+For my LJ, I went with a Blue Ox, but a simple Reese tow bar will work too.
+
+https://www.blueox.com/product/bx7380-alpha-2-tow-bar/
+
+I also bought a Blue Ox Patriot 3 brake system. To keep my Jeep battery charged while flat towing, I installed a Hopkins Brake Buddy battery tender. To use my Jeeps turn signals and brake lights, a Roadmaster 6 to 7 pin flex coil, and a Hopkins wiring harness.
+
+### base plate
+Roadmaster RM-521424-4
+https://www.etrailer.com/p-RM-521424-4.html
+currie tow bar mounts CE-9033TJ
+https://www.amazon.com/dp/B00ENZCY8Y/?tag=wranglerorg-20
+
+### tow bar
+Roadmaster Falcon 2 RM-520
+https://www.etrailer.com/Tow-Bars/Roadmaster/RM-520.html
+Blue Ox
+Roadmaster Falcon All Terrain, Non-Binding Tow Bar RM-522
+Adapter for Jeep D-Ring Bumper Mounts to Roadmaster Motor Home Mount Tow Bars RM-035
+
+
+### braking
+https://www.etrailer.com/tbbrake-2004_Jeep_Wrangler.htm
+ready brake
+road master even brake
+demco stay-n-play duo
+https://www.etrailer.com/p-SM99251.html
+Invisi-Brake from Roadmaster
+Brake Buddy https://www.brakebuddy.com/stealth.html
+Brake Buddy Classic
+https://rvibrake.com/products/rvibrake3-flat-towing-braking-system?variant=20046642181
+
+### safety chains
+Roadmaster - RM-643
+https://www.etrailer.com/p-RM-643.html
+
+### wiring/lights
+https://www.etrailer.com/Tow-Bar-Wiring/Hopkins/HM56202.html
+Hopkins Endurance Flex-Coil Trailer Connector Adapter HM47053
+Roadmaster Brake-Lite Relay Kit for Towed Vehicles RM- 88400
+https://www.amazon.com/gp/product/B074RNF79R/?tag=wranglerorg-20
+
+## steering wheel
+[Jeep TJ Steering Wheel Upgrade - Project TJ - Ep. 28 - YouTube](https://www.youtube.com/watch?v=Sqi9jQV04X0)
+[Craft Customs: Steering Wheel Restoration and Customization](https://craftcustoms.com/)
