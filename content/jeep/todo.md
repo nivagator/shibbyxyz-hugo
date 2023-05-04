@@ -21,7 +21,6 @@ tags: ['jeep']
 - tire rotation at 140,000
 - [oil change](#engine-oil) at 142,000mi or August 2023
 - [timing chain](#timing-chain)
-- paint shocks?
 - paint BL gap
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)  
