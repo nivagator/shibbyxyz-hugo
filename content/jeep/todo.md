@@ -135,7 +135,8 @@ tags: ['jeep']
 - [radio separate amp](#radio-amp) | 2023-03-10 | [059](/build-thread/059)
 - installed Zone offroad sway disconnects | 2023-04-24 @ 137,895mi | [063](/build-thread/063)
 - [service rear UCA johnny joints](#service-johnny-joints) | 2023-04-29 @137,925mi | [063](/build-thread/063)
-- replaced leaking passenger rear black max shock | 2023-04-29 @137,925mi | [063](/build-thread/063)
+- replaced leaking passenger rear black max shock | 2023-04-29 @137,925mi | [063](/build-thread/063) 
+- [138,000mi](../img/138000.jpg) | 2023-05-07
 ---
 
 ## reference  
