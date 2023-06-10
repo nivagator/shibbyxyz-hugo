@@ -18,7 +18,7 @@ tags: ['jeep']
 ---
 
 ## Todo List 
-- tire rotation at 140,000
+- [tire rotation](#5-tire-rotation) at 141,000
 - [oil change](#engine-oil) at 142,000mi or August 2023
 - [timing chain](#timing-chain)
 - paint BL gap
@@ -137,6 +137,7 @@ tags: ['jeep']
 - [service rear UCA johnny joints](#service-johnny-joints) | 2023-04-29 @137,925mi | [063](/build-thread/063)
 - replaced leaking passenger rear black max shock | 2023-04-29 @137,925mi | [063](/build-thread/063) 
 - [138,000mi](../img/138000.jpg) | 2023-05-07
+- [rotate tires](#5-tire-rotation) | 2023-06-07 @ 138,182 
 ---
 
 ## reference  
@@ -1209,3 +1210,6 @@ https://www.amazon.com/gp/product/B074RNF79R/?tag=wranglerorg-20
 ## steering wheel
 [Jeep TJ Steering Wheel Upgrade - Project TJ - Ep. 28 - YouTube](https://www.youtube.com/watch?v=Sqi9jQV04X0)
 [Craft Customs: Steering Wheel Restoration and Customization](https://craftcustoms.com/)
+
+## 5 tire rotation
+![5 tire rotation](../img/5tire-rotation.jpg)
