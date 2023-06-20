@@ -3,10 +3,70 @@ title: "FRS"
 date: 2023-06-19T20:48:23-05:00
 ---
 
-Funkprofi T388
+# FRS Channel Lookup
+
+{{<rawhtml>}}
+<script type="text/javascript">
+    function clearFields() {
+        console.log("clearing fields");
+        document.getElementById("channel").value = null;
+        document.getElementById("pcode").value = null;
+        document.getElementById("frequency").innerHTML = "";
+        document.getElementById("mode").innerHTML = "";
+        document.getElementById("tone").innerHTML = "";
+
+    }
+    const freqs = [462.5625, 462.5875, 462.6125, 462.6375, 462.6625, 462.6875, 462.7125, 467.5625, 467.5875, 467.6125, 467.6375, 467.6625, 467.6875, 467.7125, 462.5500, 462.5750, 462.6000, 462.6250, 462.6500, 462.6750, 462.7000, 462.7250];
+    const codes = ["67.0 Hz", "71.9 Hz", "74.4 Hz", "77.0 Hz", "79.7 Hz", "82.5 Hz", "85.4 Hz", "88.5 Hz", "91.5 Hz", "94.8 Hz", "97.4 Hz", "100.0 Hz", "103.5 Hz", "107.2 Hz", "110.9 Hz", "114.8 Hz", "118.8 Hz", "123.0 Hz", "127.3 Hz", "131.8 Hz", "136.5 Hz", "141.3 Hz", "146.2 Hz", "151.4 Hz", "156.7 Hz", "162.2 Hz", "167.9 Hz", "173.8 Hz", "179.9 Hz", "186.2 Hz", "192.8 Hz", "203.5 Hz", "210.7 Hz", "218.1 Hz", "225.7 Hz", "233.6 Hz", "241.8 Hz", "250.3 Hz", "D023N", "D025N", "D026N", "D031N", "D032N", "D043N", "D047N", "D051N", "D054N", "D065N", "D071N", "D072N", "D073N", "D074N", "D114N", "D115N", "D116N", "D125N", "D131N", "D132N", "D134N", "D143N", "D152N", "D155N", "D156N", "D162N", "D165N", "D172N", "D174N", "D205N", "D223N", "D226N", "D243N", "D244N", "D245N", "D251N", "D261N", "D263N", "D265N", "D271N", "D306N", "D311N", "D315N", "D331N", "D343N", "D346N", "D351N", "D364N", "D365N", "D371N", "D411N", "D412N", "D412N", "D423N", "D431N", "D432N", "D445N", "D464N", "D465N", "D466N", "D503N"];
+    function frsLookup() {
+        // console.log("data changed");
+        let channel = document.getElementById("channel").value;
+        let pcode = document.getElementById("pcode").value;
+        let mode;
+        let freq;
+        console.log("channel:", channel, "pcode:", pcode);
+        if (pcode > 99) {
+            console.log("invalid pcode");
+        }
+        else if (pcode > 38) {
+            mode = "T-DCS";
+            pcode = pcode - 1;
+            tone = codes[pcode];
+        } else {
+            mode = "T-CTSS";
+            pcode = pcode - 1;
+            tone = codes[pcode];
+        }
+        document.getElementById("mode").innerHTML = mode;
+        document.getElementById("tone").innerHTML = tone;
+
+        if (channel > 22) {
+            console.log("invalid channel");
+        } else {
+            channel = channel - 1
+            freq = freqs[channel]
+            console.log(channel + 1, freq)
+        }
+        document.getElementById("frequency").innerHTML = freq;
+
+    }
+</script>
+<div id="lookup"> 
+    <label for="channel">Channel:</label>
+    <input id="channel" type="number" onkeyup="frsLookup()">
+    <label for="ctpcodecss">PCode:</label>
+    <input id="pcode" type="number"  onkeyup="frsLookup()">
+    <button id="clear" onClick="clearFields()">Clear</button>
+    <br>
+    <br>
+    Frequency: <span id="frequency">462.5625</span> <span id="mode">T-CTSS</span> <span id="tone">67.0 Hz</span>
+</div>
+{{</rawhtml>}}
+
+
 
 ## Common channel mappings
-
+Funkprofi T388
 FRS Channel | Frequency
 ---:        |---:
 01	        | 462.5625
@@ -30,7 +90,8 @@ FRS Channel | Frequency
 19	        | 462.6500
 20	        | 462.6750
 21	        | 462.7000
-22	        | 462.7250
+22	        | 462.7250  
+
 
 CTCSS Option | T-CTSS (uv-5r)
 ---:         |---
