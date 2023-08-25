@@ -17,7 +17,7 @@ The material feel is very similar. If I had to compare them, the GR2 might feel 
 The shape difference is noticeable here. The very square and boxy GR2 vs the Bullet's more rounded, bullet-like shape. You'll also see the zipper rain flaps on the GR2. The Bullet zippers are fully exposed. The zipper complement is identical between the two bags. YKK #8 Taiwanese made zippers for the main compartments and the YKK #10 size for everything else. 
 
 ![back](../img/compareback.jpg)  
-From the back the size difference is even more apparent. The GR2 is 2.5" wider than the Bullet, interestingly the Bullet is .5" tallerThe difference in the straps is immediately obvious as well. The GR2 straps are wider and have dramatically more padding betrayed by the stitching depth of the PALs webbing. The GR2 is much, much bigger, but doesn't feel like it on the back. I was surprised at just how comfortable it is out of the box. The bullet took a few weeks to break in and/or get used to before it was comfortable to wear daily.
+From the back the size difference is even more apparent. The GR2 is 2.5" wider than the Bullet, interestingly the Bullet is .5" taller. The difference in the straps is immediately obvious as well. The GR2 straps are wider and have dramatically more padding betrayed by the stitching depth of the PALs webbing. The GR2 is much, much bigger, but doesn't feel like it on the back. I was surprised at just how comfortable it is out of the box. The bullet took a few weeks to break in and/or get used to before it was comfortable to wear daily.
 
 You might notice the Bullet has an extended lumbar pad. I liked this idea when I purchased the bag, but I'm not sure it has made much of a difference. 
 
