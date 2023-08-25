@@ -511,6 +511,8 @@ Drilling a hole into the thermostat's flange like shown below and positioning th
 ![irun thermo](../img/thermo-hole1.jpg)
 ![bransford thermo](../img/Thermostat-drilled-hole.jpg)
 
+[Fan Clutch Removal](https://wranglertjforum.com/threads/fan-clutch-removal-which-direction.21835/post-353913)
+
 ## battery
 AGM battery
 
@@ -856,7 +858,8 @@ Larger CJ size 51515 taller, holds more oil
 
 
 ## electrical cables
-[TJ Big 7 Complete Kit (Wrangler 97-06)](https://jeepcables.com/tj-big-7-complete-kit-wrangler-97-06/)  
+[Jeep Cables TJ Big 7 Complete Kit (Wrangler 97-06)](https://jeepcables.com/tj-big-7-complete-kit-wrangler-97-06/)  
+[Custom BAttery Cables Zen 1 ga Cable Set - Big-3 Kit for Jeep TJ 1997-2006 4.0L I-6 (6 Cyl) #13027](https://custombatterycables.com/jeep-wrangler-tj/#idp_id_3)
 
 ## steering skid
 [SAV-TJSS - Steering Box Protection - Savvy Aluminum TJ/LJ 97-06 - Savvy Off Road](https://savvyoffroad.com/product/sav-tjss/)  
