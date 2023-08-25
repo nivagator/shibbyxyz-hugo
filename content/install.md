@@ -3,7 +3,6 @@ title: "installing arch"
 date: 2021-08-12T12:06:46-05:00
 tags: ['linux','arch']
 ---
-
 # installing arch  
 August 12, 2021
 
@@ -12,87 +11,167 @@ August 12, 2021
 ### 1. boot to iso
 
 ### 2. partition disks  
-- `fdisk -l` to identify disk
+- `lsblk -f` and/or `fdisk -l` to identify disk
 - `fdisk /dev/sdX` or `fdisk /dev/nvmeXXX`
+  1. `g` to create GPT partition table
+  2. `n` to create partitions
+  3. `t` to change partition typeok
+  4. `w` to write to disk
 - create partitions
   1. efi partition, +512M as #1 EFI System type
   2. root partition, +40G as #23 Linux x86_64
   3. home partition, remaining capacity as Linux Filesystem
 
 ### 3. format partitions  
-  - efi partition `mkfs.fat -F32 /dev/sda1`
-  - root and home `mkfs.ext4 /dev/sdaX`
+- efi partition `mkfs.fat -F32 /dev/sda1`
+- root, home, etc. `mkfs.ext4 /dev/sdaX`:w or `mkfs.btrfs /dev/sdaX`
 
-### 4. networking  
-  - wired should already work
-  - wifi `wifi-menu`
-
-### 5. update system and install reflector, update reflector  
-  ```bash
-  $ pacman -Syy
-  $ pacman -S reflector
-  # backup mirrorlist
-  $ cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak
-  # update mirrorlist
-  $ reflector -c "US" -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist
-  ```
-
-### 6. mount partitions  
+### 4. mount partitions  
 ```bash
-# mkdirs
-$ mkdir -pv /mnt/home /mnt/boot/efi
-# mount partitions
+# mount root
 $ mount /dev/sda2 /mnt # root partition to /mnt
-$ mount /dev/sda1 /mnt/boot/efi  # efi partition to /mnt/boot/efi
-$ mount /dev/sda3 /mnt/home # home partition to /mnt/home
+# mkdirs
+$ mkdir -pv /mnt/home /mnt/boot
+# mount partitions
+$ mount /dev/sda1 /mnt/boot 
+$ mount /dev/sda3 /mnt/home 
 ```
 
-### 7. install arch system  
+### 5. networking  
+- wired should already work
+- wifi `wifi-menu`
+
+artix and or other base systems may have other wifi tools 
+
+### 6. update system and install reflector, update reflector  
 ```bash
-$ pacstrap /mnt base linux linux-firmware vim 
+$ pacman -Syy
+# update mirrorlist
+$ reflector -c "US" -f 12 -l 10 -n 12 --save /etc/pacman.d/mirrorlist
+```
+
+### 7. install base arch system  
+```bash
+$ pacstrap -K /mnt base linux linux-firmware vim 
+# the -K option initializes an empty pacman keyring
 ```
 
 ### 8. generate fstab  
-`genfstab -U /mnt >> /mnt/etc/fstab`
+`genfstab -U /mnt >> /mnt/etc/fstab`  
+the `-U` option used UUIDs in the fstab
 
-### 9. arch-chroot and set up system  
+### 9. arch-chroot and base set up  
 ```bash
 # enter system as root
 $ arch-chroot /mnt
+
+# now inside the new system install
 # timezone
-$ timedatectl set-timezone America/Chicago
+$ ln -sf /usr/share/zoneinfo/America/Chicago /etc/localtime
+$ hwclock --systohc
+
 # locale
-$ vim /etc/local.gen # uncomment locale en_US-UTF.8
-$ echo LANG=en_US-UTF.8 > /etc/locale/conf
-$ export LANG=en_US-UTF.8
+$ vim /etc/local.gen # uncomment locale en_US.UTF-8
+$ locale-gen
+$ echo LANG=en_US.UTF-8 > /etc/locale/conf
+$ export LANG=en_US.UTF-8
+
 # hosts
 $ echo myarch > /etc/hostname # customize hostname for myarch
 $ vim /etc/hosts
-  # ADD HOSTS
-  127.0.0.1     localhost
-  ::1           localhost
-  127.0.1.1     myarch    #same as hostname
-$ passwd # set root password
+# ADD HOSTS
+127.0.0.1     localhost
+::1           localhost
+127.0.1.1     myarch    #same as hostname
+
 # update pacman.conf
 $ vim /etc/pacman.conf
-  # add ILoveCandy to the options section
-  [Options]
-  ...
-  ILoveCandy
+# add ILoveCandy to the options section
+# and uncomment Color, VerbosePkgLists, ParallelDownloads
+[Options]
+...
+Color
+ILoveCandy
+...
+Verbose PkgLists
+ParallelDownloads = 5
+# uncomment multilib section
+[multilib]
+Include=/etc/pacman.d/mirrorlist
 
-  # uncomment multilib section
-  [multilib]
-  Include=/etc/pacman.d/mirrorlist
+# network
+$ pacman -S networkmanager
+$ systemctl enable NetworkManager
 ```
 
-### 10. install grub  
+### sudo privileges 
+```bash
+# sudo
+$ pacman -S sudo
+$ EDITOR=vim visudo
+# uncomment %wheel ALL=(ALL:ALL) ALL
+```
+### 10. set root password 
+- `passwd` 
+
+### create user
+```bash
+# useradd -m -G additional_groups  username
+# -m creates the user home directory 
+# -G to add groups 
+$ useradd -m -G wheel gavin
+$ passwd gavin
+```
+
+### 11. install grub  
 ```bash
 $ pacman -S grub efibootmgr
 $ grub-install --target=x86_64-efi --bootloader-id=GRUB --efi-directory=/boot/efi
 $ grub-mkconfig -o /boot/grub/grub.cfg
 ```
+---
 
-### 11. install desktop  
+## From here the system will boot.
+```bash
+$ exit
+$ umount -R /mnt
+$ shutdown 0
+```
+---
+
+### post install considerations
+- processor ucode
+- graphical environment
+- fonts
+- tools
+- monitoring
+- custom configs
+- file sharing
+- xdg home dirs
+- build tools (git, base-devel)
+- aur
+- cli tools
+- man tools (`man-db`,`mandoc`)
+- bluetooth
+---
+
+### installing yay/aur access
+```bash
+$ pacman -S git base-devel
+$ git clone https://aur.archlinux.org/yay-git.git && cd yay-git
+$ makepkg -si
+```
+
+## Desktop Install
+
+---
+- [i3](./i3.md)
+- [kde](#install-kde-plasma)
+- [gnome]()
+
+## Install KDE Plasma
+
+### 12. install desktop  
 ```bash 
 $ pacman -S xorg sddm plasma kde-applications
 # if nvidia gpu
