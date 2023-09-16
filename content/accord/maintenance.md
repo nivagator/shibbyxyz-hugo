@@ -34,3 +34,8 @@ Honda 94109-14000Washer, Drain Plug (14MM)
 ## spark plugs
 NGK DILKAR7G11GS  
 DENSO DXE22HQR-D11S  
+
+## Oil changes
+Date | Mileage | Oil | Filter | Notes
+---|---:|---|---|---
+2022-11-05 | 60,600 | 0w-20 Castrol GTX Synthetic | Honda 15400PLM-A02| 
