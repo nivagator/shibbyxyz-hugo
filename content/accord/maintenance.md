@@ -12,10 +12,10 @@ date: 2022-10-03T12:02:16-05:00
 - engine oil 
 
 ## engine oil
-4.2qt for change
-4.4qt including filter
-0w-20 honda or API premium grade 0w-20 detergent oil
-[Castrol GTX 0w-20 synthetic walmart - $26](https://www.walmart.com/ip/Castrol-GTX-Full-Synthetic-0W-20-Motor-Oil-5-Quarts/642506040)  
+4.2qt for change  
+4.4qt including filter  
+0w-20 honda or API premium grade 0w-20 detergent oil  
+[Castrol GTX 0w-20 synthetic walmart - $26](https://www.walmart.com/ip/Castrol-GTX-Full-Synthetic-0W-20-Motor-Oil-5-Quarts/642506040)    
 
 drain plug needs new washer, 30ft.lbs  
 
