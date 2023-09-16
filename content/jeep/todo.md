@@ -7,20 +7,23 @@ tags: ['jeep']
 # 2004 Jeep TJ Wrangler Rubicon 
 
 ## up next
-- [aim headlights](#aim-headlights)
-- [winch plate](#winch-stuff)
+- [replace clutch](#clutch) 
+- [oil change](#engine-oil) at 142,000mi or August 2023
+- [O2 sensors](#o2-sensors)
+- [cooling system](#cooling-system)
+- [timing chain](#timing-chain)
+- [rms](#rms)
+- blackstone labs oil sample
+- [regear to 4.88](#regear)
 - [AGM battery](#battery)
 - [electrical cables](#electrical-cables)
-- cycle rear suspension
 - [ball joints](#ball-joints)
-- [replace clutch](#clutch) 
-- [O2 sensors](#o2-sensors)
+- [service LCA johnny joints](#service-johnny-joints)
+- [service UCA johnny joints](#service-johnny-joints)
 ---
 
 ## Todo List 
 - [tire rotation](#5-tire-rotation) at 141,000
-- [oil change](#engine-oil) at 142,000mi or August 2023
-- [timing chain](#timing-chain)
 - paint BL gap
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)  
@@ -47,7 +50,6 @@ tags: ['jeep']
 - morryde tailgate hinges
 - factory bumper end caps
 - [chromoly axle shafts](#chromoly-axle-shafts)
-- [regear to 4.88](#regear)
 - paint front frame suspension mounts
 - [fix blend door](#fix-blend-door)
 - [rear axle seals](#rear-axle-seals)
@@ -63,7 +65,6 @@ tags: ['jeep']
 - [new exhaust](#new-exhaust)
 - [flat tow](#flat-tow)
 - [re-cover steering wheel](#steering-wheel)
-- [rms](#rms)?
 - [separate subwoofer unit?](#subwoofer-unit)
 ---
 
@@ -138,6 +139,8 @@ tags: ['jeep']
 - replaced leaking passenger rear black max shock | 2023-04-29 @137,925mi | [063](/build-thread/063) 
 - [138,000mi](../img/138000.jpg) | 2023-05-07
 - [rotate tires](#5-tire-rotation) | 2023-06-07 @ 138,182 
+- [winch plate](#winch-stuff) | 2023-06-28
+- [139,000mi](../img/139000.jpg) | 2023-09-16
 ---
 
 ## reference  
@@ -502,6 +505,9 @@ Open screw, pedal to the floor hard and fast, close screw, let pedal up, repeat.
 ## timing chain
 [WTJF: Do I need a new timing chain?](https://wranglertjforum.com/threads/do-i-need-a-new-timing-chain.63185/)
 
+[Cloyes Kit Summit](https://www.summitracing.com/parts/clo-9-0385sa)  
+
+
 ## cooling system 
 
 Drilling a hole into the thermostat's flange like shown below and positioning the hole at the top when installing it will help get rid of the trapped air more quickly. Some thermostats come with a vent hole already, just make sure to position it at the top when installing it.
@@ -512,6 +518,8 @@ Drilling a hole into the thermostat's flange like shown below and positioning th
 ![bransford thermo](../img/Thermostat-drilled-hole.jpg)
 
 [Fan Clutch Removal](https://wranglertjforum.com/threads/fan-clutch-removal-which-direction.21835/post-353913)
+
+US Motor Works 22160 fan clutch
 
 ## battery
 AGM battery
