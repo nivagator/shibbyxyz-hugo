@@ -15,7 +15,7 @@ August 12, 2021
 - `fdisk /dev/sdX` or `fdisk /dev/nvmeXXX`
   1. `g` to create GPT partition table
   2. `n` to create partitions
-  3. `t` to change partition typeok
+  3. `t` to change partition type
   4. `w` to write to disk
 - create partitions
   1. efi partition, +512M as #1 EFI System type
@@ -73,7 +73,7 @@ $ hwclock --systohc
 # locale
 $ vim /etc/local.gen # uncomment locale en_US.UTF-8
 $ locale-gen
-$ echo LANG=en_US.UTF-8 > /etc/locale/conf
+$ echo LANG=en_US.UTF-8 > /etc/locale.conf
 $ export LANG=en_US.UTF-8
 
 # hosts
