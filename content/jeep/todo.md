@@ -151,6 +151,7 @@ tags: ['jeep']
 - [shocks](#shocks)
 - [service johnny joints](#service-johnny-joints)
 - [pinion angle](#pinion-angle)
+- [WTJF How To Index](https://wranglertjforum.com/threads/how-to-index.73409/)
 ---
 
 ## O2 Sensors

@@ -4,7 +4,7 @@ date: 2022-07-18T09:34:31-05:00
 ---
 
 # 2004 Jeep Wrangler TJ Rubicon  
-[todo](todo/#todo-list) | [done](todo/#done) | [reference](todo/#reference) | [end goal](end-goal/) | [build thread](../build-thread/) | [build sheet](https://www.jeep.com/webselfservice/BuildSheetServlet?vin=1J4FA69SX4P757994)
+[todo](todo/#up-next) | [done](todo/#done) | [maintenance](maintenance/) | [reference](todo/#reference) | [end goal](end-goal/) | [build thread](../build-thread/) | [build sheet](https://www.jeep.com/webselfservice/BuildSheetServlet?vin=1J4FA69SX4P757994)
 
 ![current](img/jeep_20220319.jpg)
 
