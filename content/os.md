@@ -26,9 +26,8 @@ It was fine, the Plasma desktop took a lot of effort to get to a place I liked. 
 
 ## <a id="arch"></a>[Arch](https://archlinux.org/)
 Which leads to Arch. I found the [EFLinux Channel](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw) on youtube around this time and watched a lot of his Arch install video series. It dramatically expanded my understanding of how the kernal, OS and desktop are related and more importantly, not related. 
- desktop was a self built gaming pc running Ryzen and an Nvidia GPU. I started with Ubuntu, but the look, feel and lack of gpu drivers led me to ask why I wouldn’t just start with Pop OS. Pop is Ubuntu based, has a great implementation of the Gnome desktop and has isos prepackaged with Nvidia drivers. Pop was exactly what Id for a modern system? What am I giving up by moving to a tiling window manager? How are games handled with a tiling window manager? 
 
-My intention was to nuke and pave Arch with a tiling window manager. 
+My intention was to nuke and pave Arch with a tiling window manager. What am I giving up by moving to a tiling window manager? How are games handled with a tiling window manager?
 
 ## <a id="archcraft"></a>[Archcraft](https://archcraft.io/)
 I eventually started playing with Archcraft. I wanted to stay with something Arch based and I was more than happy to install my own WM or DE but Archcraft offered pre-configured WM options for me to install and experiment with. For whatever reason I had decided that BSPWM was for me. Archcraft had a BSPWM install option. I had read about i3 (I think originally from [Jessie Frazelle](https://blog.jessfraz.com/post/ultimate-linux-on-the-desktop/) way back in 2017) but considered it to be "too hardcore" or some nonsense. 
@@ -40,6 +39,10 @@ I stumbled on Endeavour. I'm not sure where it popped up on my radar. It had wha
 
 Not long after, I wiped the laptop and installed rEFInd. This let me partition the 1tb internal ssd and install multiple distros. I installed pop, endeavour, mint, and a few others, but I really haven't used anything other than endeavour.  
     
+September 2023 Update: Still on my original installs of Endeavour on both the tower and laptop and still happy. I've toyed with moving to NixOS or rolling my own Arch/i3 install or going full Chad and running LARBS. Ultimately, I'm lazy and haven't done anything yet. There is an issue with the tower install, some applications take 20+ seconds to open - Thunar, gThumb, Thunderbird. There's something with a dmesg failing. I haven't figured it out yet. I'll probably get a new nvme ssd and start fresh at some point. 
+
+## <a id="nixos"></a>[Nix OS](https://nixos.org/)
+The JB podcast crew has been repping NixOS hard for a while. I played with it a bit in a vm, but it didn't stick. I see the value, but I'm not in a place where I want to shift my entire paradigm quite that much. This is just another way of saying im lazy.
 <br>
 <br>   
 
@@ -70,7 +73,6 @@ Install a new app? *swipe-swipe-swipe-swipe* Ah, there it is on the very last pa
 
 I'd like to have smaller app icons and put 5 apps in each row.   
 **Apple**: "Lol, thats cute. Its also the wrong way to use your phone."
-
 
 I get it, for 90% of people, they never think about that and legitimately do not care. 
 
