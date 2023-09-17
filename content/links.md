@@ -9,5 +9,5 @@ liexclude: true
 [Perfect Media Server](https://perfectmediaserver.com/)  
 [SelfHosted Show](https://selfhosted.show/)  
 [TheOrangeOne](https://theorangeone.net/)  
-[Wrangler TJ Forum](https://wranglertjforum.com)
+[Wrangler TJ Forum](https://wranglertjforum.com)  
 [Nice to know Unraid commands](https://selfhosters.net/commands/)
