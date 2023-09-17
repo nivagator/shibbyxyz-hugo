@@ -69,8 +69,10 @@ tags: ['jeep']
 ---
 
 ## done
-- spark plugs | 2021-09-31 @ 133,400mi
-- seat risers | 2021-10-01 @ 133,400mi
+- [133,300mi](../img/133300.jpg) | 2021-09-30
+- spark plugs | 2021-09-31 @ 133,308mi
+- seat risers | 2021-10-01 @ 133,322mi
+- [133,333mi](../img/133333.jpg) | 2021-10-2
 - oil change | 2021-10-04 
 - coolant flush | 2021-10-17 @ 133,500mi
 - valve cover gasket | 2021-10-18 @ 133,516mi
