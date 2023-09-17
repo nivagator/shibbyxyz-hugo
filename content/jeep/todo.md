@@ -140,7 +140,7 @@ tags: ['jeep']
 - [138,000mi](../img/138000.jpg) | 2023-05-07
 - [rotate tires](#5-tire-rotation) | 2023-06-07 @ 138,182 
 - [winch plate](#winch-stuff) | 2023-06-28
-- [139,000mi](../img/139000.jpg) | 2023-09-16
+- [139,000mi](../img/139000.jpeg) | 2023-09-15
 ---
 
 ## reference  
