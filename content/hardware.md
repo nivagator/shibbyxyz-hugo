@@ -30,12 +30,12 @@ endeavor os
 **galaxy**  
 ryzen 7 3700x  
 asus b450-f gaming  
-corsair lps 3600 cl18 32gb (4x8)  
+gskill trident-z 3600 cl16 64gb (2x32)  
 asus gtx 1650 super  
 nvidia quadro p400  
 lsi 9211-8i hba  
 fractal define 7  
-48tb raw storage  
+50tb raw storage  
 unraid 6  
 
 **nebula**  
