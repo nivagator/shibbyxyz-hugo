@@ -35,6 +35,30 @@ Honda 94109-14000Washer, Drain Plug (14MM)
 NGK DILKAR7G11GS  
 DENSO DXE22HQR-D11S  
 
+## Brakes
+fluid - Honda Heavy Duty Brake Fluid DOT 3 3.3 US qt 
+
+### Front
+[CENTRIC 12040086 rotors](https://www.rockauto.com/en/moreinfo.php?pk=4909821&cc=3306142&pt=1896&jsn=2) ~$56/ea  
+[CENTRIC 10516540 pads](https://www.rockauto.com/en/moreinfo.php?pk=4561323&cc=3306142&pt=1684&jsn=4) ~$30  
+[CENTRIC 90940065 OE Coated; Semi-Coated Rotors and Posi-Quiet Pads](https://www.rockauto.com/en/moreinfo.php?pk=8272696&cc=3306142&pt=13824) ~$140  
+
+[CENTRIC 12140086 rotors](https://www.rockauto.com/en/moreinfo.php?pk=5438628&cc=3306142&pt=1896&jsn=2) ~$37/ea  
+[CENTRIC 30116540 pads](https://www.rockauto.com/en/moreinfo.php?pk=7593772&cc=3306142&pt=1684&jsn=4) ~$30  
+[CENTRIC 90840065 OE Grade Kit](https://www.rockauto.com/en/moreinfo.php?pk=11339089&cc=3306142&pt=13824&jsn=353) ~$100  
+
+## tires
+215/55R17 @ 33psi
+Continental Control Contact Tour A/S Plus
+
+## transmission fluid
+HCF-2  
+Capacity 3.9 qt
+
+## Coolant
+Honda Long-Life Antifreeze/Coolant Type2  
+1.65 US gal
+
 ## Oil changes
 Date | Mileage | Oil | Filter | Notes
 ---|---:|---|---|---
