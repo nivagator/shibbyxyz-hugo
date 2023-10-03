@@ -7,11 +7,12 @@ tags: ['jeep']
 # 2004 Jeep TJ Wrangler Rubicon 
 
 ## up next
-- [replace clutch](#clutch) 
-- [oil change](#engine-oil) at 142,000mi or August 2023
+- [replace clutch](#clutch)
+- [fuel pump](#fuel-pump)
 - [O2 sensors](#o2-sensors)
 - [cooling system](#cooling-system)
 - [timing chain](#timing-chain)
+- [fuel injectors](#fuel-injectors)
 - [rms](#rms)
 - blackstone labs oil sample
 - [regear to 4.88](#regear)
@@ -24,6 +25,7 @@ tags: ['jeep']
 
 ## Todo List 
 - [tire rotation](#5-tire-rotation) at 141,000
+- [oil change](#engine-oil) at 144,086mi or March 2024
 - paint BL gap
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)  
@@ -143,6 +145,7 @@ tags: ['jeep']
 - [rotate tires](#5-tire-rotation) | 2023-06-07 @ 138,182 
 - [winch plate](#winch-stuff) | 2023-06-28
 - [139,000mi](../img/139000.jpeg) | 2023-09-15
+- [oil change](#engine-oil) | 2023-09-22 @139,086
 ---
 
 ## reference  
@@ -506,10 +509,14 @@ If you need more than 5-7 bleeds per corner, stop and find the problem because f
 Open screw, pedal to the floor hard and fast, close screw, let pedal up, repeat.
 
 ## timing chain
-[WTJF: Do I need a new timing chain?](https://wranglertjforum.com/threads/do-i-need-a-new-timing-chain.63185/)
+[WTJF: Do I need a new timing chain?](https://wranglertjforum.com/threads/do-i-need-a-new-timing-chain.63185/)  
+[WTJF: How to replace the timing chain on a Wrangler TJ 4.0](https://wranglertjforum.com/threads/how-to-replace-the-timing-chain-on-a-wrangler-tj-4-0.558/)  
+[Cloyes Kit Summit](https://www.summitracing.com/parts/clo-9-0385sa)    
 
-[Cloyes Kit Summit](https://www.summitracing.com/parts/clo-9-0385sa)  
 
+Chain MOPAR 53020444  
+Crank Sprocket MOPAR 53020443  
+Cam Sproket MOPAR 53010557AA  
 
 ## cooling system 
 
@@ -524,6 +531,56 @@ Drilling a hole into the thermostat's flange like shown below and positioning th
 
 US Motor Works 22160 fan clutch
 
+[constant tension clamps](https://wranglertjforum.com/threads/part-numbers-and-resources-for-constant-tension-hose-clamps.28271/)  
+[coolant system fill kit](https://www.eastwood.com/eastwood-coolant-system-fill-kit.html)  
+
+### full parts list
+2000-2006 (4.0 liter 6 cylinder)
+- Waterpump: 5012366AG 
+  - [Amazon](https://www.amazon.com/dp/B00FZP1LT4/)
+  - [Summit US Motor Works US7164](https://www.summitracing.com/parts/umw-us7164)
+  - [RockAuto US MOTOR WORKS US7164](https://www.rockauto.com/en/moreinfo.php?pk=11517105&cc=1425901&pt=2208)
+  - [RockAuto GATES 42293](https://www.rockauto.com/en/moreinfo.php?pk=948891&cc=1425901&pt=2208)
+  - [RockAuto MOPAR 5012366AF](https://www.rockauto.com/en/moreinfo.php?pk=4896015&cc=1425901&pt=2208&jsn=1337)
+- Water Pump Inlet Tube
+  - [RockAuto DORMAN 56398](https://www.rockauto.com/en/moreinfo.php?pk=1261577&cc=1425901&pt=13635)
+- Thermostat: 52028186AC 
+  - [Amazon](https://www.amazon.com/dp/B000C7YRNM/)
+  - [RockAuto Mopar](https://www.rockauto.com/en/moreinfo.php?pk=6345060&cc=1425901&pt=2200)
+  - [RockAuto MOTORAD 200195](https://www.rockauto.com/en/moreinfo.php?pk=4484463&cc=1425901&pt=2200)
+  - [RockAuto MOTORAD 5180KT Assembly](https://www.rockauto.com/en/moreinfo.php?pk=9092080&cc=1425901&pt=2200)
+- Thermostat Gasket
+  - [Amazon](https://www.amazon.com/dp/B000C847YU/)
+- Thermostat Housing 53006192 
+  - [RockAuto Mopar](https://www.rockauto.com/en/moreinfo.php?pk=6346446&cc=1425901&pt=10337)
+  - [RockAuto GATES CO34741](https://www.rockauto.com/en/moreinfo.php?pk=6755524&cc=1425901&pt=10337)
+  - [MOTORAD CH5180](https://www.rockauto.com/en/moreinfo.php?pk=6628448&cc=1425901&pt=10337)
+- Radiator: 
+  - MT 55037652AA [Amazon](https://www.amazon.com/dp/B0049EH4AC/)
+  - AT 2000-2004: 55037653AB [Amazon](https://www.amazon.com/dp/B0049ELCF0/)
+  - AT 2005-2006: 55037653AC [Amazon](https://www.amazon.com/dp/B0049ELCHI/)
+  - [Summit CSF 3244](https://www.summitracing.com/parts/csf-3244)
+  - [RockAuto SPECTRA PREMIUM CU2101](https://www.rockauto.com/en/moreinfo.php?pk=365664&cc=1425901&pt=2172)
+  - [RockAuto DENSO 2219234](https://www.rockauto.com/en/moreinfo.php?pk=7401336&cc=1425901&pt=2172)
+- Upper Radiator Hose 52028264AB 
+  - [Amazon](https://www.amazon.com/dp/B000UOE1XS/)
+  - [RockAuto GATES 23183](https://www.rockauto.com/en/moreinfo.php?pk=1042836&cc=1425901&pt=10068)
+- Lower Radiator Hose: 52079670AA 
+  - [Amazon](https://www.amazon.com/dp/B000CHGIA2/)
+  - [RockAuto GATES 22900](https://www.rockauto.com/en/moreinfo.php?pk=885810&cc=1425901&pt=10068)
+- Fan Clutch: 68064765AA 
+  - [Amazon](https://www.amazon.com/dp/B000C3F3A2/)
+  - [RockAuto US Motor Works 22160](https://www.rockauto.com/en/moreinfo.php?pk=6589676&cc=1425901&pt=6812)
+  - [RockAuto Hayden 2771](https://www.rockauto.com/en/moreinfo.php?pk=1793654&cc=1425901&pt=6812)
+- Radiator Cap: 
+  - [Amazon Stant #10234](https://www.amazon.com/dp/B000B8JUG6/)
+  - [Rockauto Stant 10234](https://www.rockauto.com/en/moreinfo.php?pk=48507&cc=1425901&pt=2068)
+  - [RockAuto Mopar 52027793](https://www.rockauto.com/en/moreinfo.php?pk=9229848&cc=1425901&pt=2068)
+  - [Summit Mopar 55116901AA](https://www.summitracing.com/parts/mop-55116901aa/make/jeep/model/wrangler/year/2004)
+- Coolant Reservoir
+  - [RockAuto MOPAR 52028065AD](https://www.rockauto.com/en/moreinfo.php?pk=9575924&cc=1425901&pt=10457&jsn=1358)
+- Idler Pulley
+  - [Rock auto MOPAR 4854092](https://www.rockauto.com/en/moreinfo.php?pk=5207547&cc=1425901&pt=6956)
 ## battery
 AGM battery
 
@@ -962,9 +1019,10 @@ actually removing the IAC to clean it is seldom required. When cleaned as sugges
 
 ## diagnose hard start
 fuel pump | Delphi FG1353 | [Diagnosing Hard Start Issue | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/diagnosing-hard-start-issue.64361/)  
+
 [IAC](#clean-iac)
 
-[Difficulty starting | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/difficulty-starting.179/post-698)
+[Difficulty starting | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/difficulty-starting.179/post-698)  
 
 ### new starter
 new starter installed2022-09-17 @ 136,130mi  
@@ -1119,7 +1177,8 @@ existing compressor is a superflow or masterflow mv-50 and has a Nitto 10mm type
 
 
 ## speedo correction
-[SpeedoDRD](https://shop.12oclocklabs.com/index.php?route=product/product&product_id=59)  
+[SpeedoDRD](https://shop.12oclocklabs.com/index.php?route=product/product&product_id=59) 
+- J1 
 [Yellow Box Speedo Recalibrator](https://www.yellr.com/)  
 **[JET AccuSpeed](https://www.4wheelparts.com/p/jet-performance-products-accu-speed-speedometer-calibrator-50110/_/R-BHDL-50110)**  
 [HealTech SpeedoHealer](https://www.polyperformance.com/healtech-speedohealer-jeep-plug-n-play-kit-for-98-06-wrangler-04-06-tj-98-01-cherokee-xj-shv4a-j01)  
@@ -1227,3 +1286,17 @@ https://www.amazon.com/gp/product/B074RNF79R/?tag=wranglerorg-20
 
 ## 5 tire rotation
 ![5 tire rotation](../img/5tire-rotation.jpg)
+
+## fuel injectors
+[Precision Injectors](https://precisionautoinjectors.com/products/set-of-6-rebuilt-1999-2004-genuine-siemens-oem-04854181-4-0l-fuel-injectors)   
+[rockauto heat sheild](https://www.rockauto.com/en/moreinfo.php?pk=12505537&cc=1430906&pt=914&jsn=857)  
+
+## fuel pump
+
+[Bosch 69316](https://www.amazon.com/dp/B000BZL922/?tag=wranglerorg-20)
+The Bosch 69316 comes with nothing else but the fuel pump module itself, it does not include the FPR.
+
+[rockauto DELPHI FG1221 complete pump assebly](https://www.rockauto.com/en/moreinfo.php?pk=5929095&cc=1425901&pt=10147&jsn=790)
+
+[WTJF: pump ring installation](https://wranglertjforum.com/threads/fuel-pump-locking-ring.68255/)
+
