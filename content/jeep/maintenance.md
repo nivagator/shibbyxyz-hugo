@@ -12,6 +12,42 @@ Date | Mileage | Oil | Filter | Notes
 2023-02-25 | 137,175 | Conventional 5w30 STP high mileage | Mopar M0-090 | 
 2023-09-22 | 139,086 | Conventional 5w30 STP high mileage | STP S16 |
 
+## replacement parts
+Date | Milage | Part | Brand/No. | Retailer
+---|---|---|---|---
+2023-10-09 | 139282 | Water Pump | Mopar 5012366AF (68382492AA) | Rock Auto
+2023-10-09 | 139282 | Radiator Cap | Mopar 52027793 (55116901AA) | Rock Auto
+2023-10-09 | 139282 | Thermostat | Motorad 2000-195 | Rock Auto
+2023-10-09 | 139282 | Thermostat Housing | Motorad CH5180 | Rock Auto
+2023-10-09 | 139282 | Upper Hose | Gates 23183 | Amazon
+2023-10-09 | 139282 | Lower Hose | Gates 22900 | Amazon
+2023-10-09 | 139282 | Fan Clutch | US Motor Works 22160 | Rock Auto
+2023-10-09 | 139282 | Timing Chain | Mopar 53020444 | Rock Auto
+2023-10-09 | 139282 | Timing Crank Sprocket | Mopar 53020443 | Rock Auto
+2023-10-09 | 139282 | Timing Cam Sprocket | Mopar 53010557AA | Rock Auto
+2023-10-09 | 139282 | Timing Chain Guide | Cloyes 95337 (9-5337) | Rock Auto
+2023-10-09 | 139282 | Timing Cover Gasket | FelPro TCS45458 | Rock Auto
+
+### Parts on hand
+Part | Brand/No. | Retailer
+---|---|---
+Radiator | CSF 3244 | Amazon
+Water Pump Inlet Tube | Dorman 56398 | Amazon
+Rear Main Seal | Felpro | 
+Oxygen Sensor| NTK 23137 | Rock Auto
+Oxygen Sensor| NTK 23531 | Rock Auto
+Oxygen Sensor| NTK 23135 | Rock Auto
+Oxygen Sensor| NTK 23132 | Rock Auto
+
+## JJ Service record
+Date | Milage | Joint | Lube | Notes
+---|---|---|---|---
+2022-10-08 | 136,400mi | Lower CA | Redline CV-2 | 
+2022-10-15 | 136,500mi | Front UCA | Redline CV-2 |
+2023-04-29 | 137,925mi | Rear UCA | Redline CV-2 |
+2023-10-07 | 139,282mi | Rear LCA | Redline CV-2 | 
+
+
 ## Mileage
 Mileage | date
 ---|---

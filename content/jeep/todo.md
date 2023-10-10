@@ -142,10 +142,13 @@ tags: ['jeep']
 - [service rear UCA johnny joints](#service-johnny-joints) | 2023-04-29 @137,925mi | [063](/build-thread/063)
 - replaced leaking passenger rear black max shock | 2023-04-29 @137,925mi | [063](/build-thread/063) 
 - [138,000mi](../img/138000.jpg) | 2023-05-07
-- [rotate tires](#5-tire-rotation) | 2023-06-07 @ 138,182 
+- [rotate tires](#5-tire-rotation) | 2023-06-07 @ 138,182mi
 - [winch plate](#winch-stuff) | 2023-06-28
 - [139,000mi](../img/139000.jpeg) | 2023-09-15
-- [oil change](#engine-oil) | 2023-09-22 @139,086
+- [oil change](#engine-oil) | 2023-09-22 @139,086mi
+- [rear lower CA johnny joint service](#service-johnny-joints) | 2023-10-07 @ 139,282mi
+- [replace cooling system](#cooling-system) | 2023-10-09 @ 139,282mi
+- [replace timing chain](#timing-chain) | 2023-10-09 @ 139,282mi
 ---
 
 ## reference  
@@ -643,7 +646,9 @@ Getting the pan off, with the front Dana 30 or 44 in place, requires unbolting t
 Tools and Parts Needed
 - High Temperature RTV - https://www.amazon.com/dp/B0002UEN1A/?tag=wranglerorg-20
 - Oil Pan Gasket - https://www.amazon.com/dp/B000C2AMQ8/?tag=wranglerorg-20
-- [Amazon: Rear Main Seal (2000-2006 models)](https://www.amazon.com/gp/product/B000C2E7SM/?tag=wranglerorg-20)
+- RMS Gasket
+  - [Rockauto MOPAR 5018594AB](https://www.rockauto.com/en/moreinfo.php?pk=5049747&cc=1425901&pt=5604)
+  - [Amazon Fel-Pro](https://www.amazon.com/gp/product/B000C2E7SM/?tag=wranglerorg-20)
 - [Amazon rtv 4318083](https://www.amazon.com/dp/B0002UEONM/?tag=wranglerorg-20) (Anaerobic! Not your average RTVs! It is not cheap but required, ~$16 from dealer. -  No parts stores carry this item.)
 - [Amazon: Paint Prepping Solvent](https://www.amazon.com/dp/B0051IC96Y/?tag=wranglerorg-20)
 - Sockets and Ratchets with extensions
