@@ -9,9 +9,6 @@ tags: ['jeep']
 ## up next
 - [replace clutch](#clutch)
 - [fuel pump](#fuel-pump)
-- [O2 sensors](#o2-sensors)
-- [cooling system](#cooling-system)
-- [timing chain](#timing-chain)
 - [fuel injectors](#fuel-injectors)
 - [rms](#rms)
 - blackstone labs oil sample
@@ -19,7 +16,7 @@ tags: ['jeep']
 - [AGM battery](#battery)
 - [electrical cables](#electrical-cables)
 - [ball joints](#ball-joints)
-- [service LCA johnny joints](#service-johnny-joints)
+- [service front LCA johnny joints](#service-johnny-joints)
 - [service UCA johnny joints](#service-johnny-joints)
 ---
 
@@ -132,7 +129,7 @@ tags: ['jeep']
 - [service front UCA johnny joints](#service-johnny-joints) | 2022-10-15 @136,500mi
 - replaced windshield wipers (bosch microedge 40713) | 2022-11-12 | [055](/build-thread/055)
 - [137,000mi](../img/137003.jpeg) | 2023-01-16
-- [front component speakers](#front-component-speakers) | 2023-02-13| [056](/build-thread/056)
+- [front component speakers](#front-component-speakers) | 2023-02-13 | [056](/build-thread/056)
 - [oil pan and gasket](#oil-pan-and-gasket) | 2023-02-25 | [057](/build-thread/057)
 - [oil change](#engine-oil) | 2023-02-25 @137,175mi
 - [fix exhaust](#fix-exhaust) | 2023-02-27 @137,175mi | [058](/build-thread/058)
@@ -149,6 +146,8 @@ tags: ['jeep']
 - [rear lower CA johnny joint service](#service-johnny-joints) | 2023-10-07 @ 139,282mi
 - [replace cooling system](#cooling-system) | 2023-10-09 @ 139,282mi
 - [replace timing chain](#timing-chain) | 2023-10-09 @ 139,282mi
+- [install winch rope](#spooling-line) | 2023-10-10 @ 139,308mi
+- [O2 sensors](#o2-sensors) | 2023-10-11 @ 139,321mi
 ---
 
 ## reference  
@@ -282,7 +281,7 @@ Montanajacks had all the parts I needed in stock.[Warn winches – Montana Jacks
 Do a locked Brummel eye about 14" in from the end of the line and leave the tail out after a very short bury. Make the eye large enough for the end terminal (thimble or hook) to fit through. Eye goes over the top of the drum, around the backside, out forward under the drum. Other end goes through the eye, snugs up tight against current anchor side, tail lays across drum and gets taped down and cut to length drum width. As soon as you tension it, it will snug up tight but no matter what, you can't pull the line loose from the winch if you screw up.  
 [How to Re-tie a Locking Brummel Loop at the end of your winch-line WITHOUT unspooling your winch!! - YouTube](https://www.youtube.com/watch?v=Ug0qAFRKcHY)  
 
-[WTJF: winch line to drum attachment WRG](https://wranglertjforum.com/threads/winch-line-to-drum-attachment-wrg.69352/)
+[WTJF: winch line to drum attachment WRG](https://wranglertjforum.com/threads/winch-line-to-drum-attachment-wrg.69352/)  
 [Brummel lock-splice with one side fixed - YouTube](https://www.youtube.com/watch?v=4WW7Qvg3VjI)
 
 ### in cab winch controllers
