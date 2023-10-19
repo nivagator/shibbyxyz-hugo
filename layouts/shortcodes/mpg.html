@@ -1,0 +1,22 @@
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th style="text-align: right;">Miles (GPS)</th>
+            <th style="text-align: right;">Gallons</th>
+            <th style="text-align: right;">MPG</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ $data := .Site.Data.mpg}}
+        {{ range (sort $data ".date" "asc" ) }}
+        
+        <tr>
+            <td>{{.date}}</td>
+            <td style="text-align: right;">{{.miles}}</td>
+            <td style="text-align: right;">{{.gallons}}</td>
+            <td style="text-align: right;">{{ div (math.Round (mul (div (float .miles) (float .gallons)) 10)) 10 }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>

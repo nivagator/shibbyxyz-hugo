@@ -6,11 +6,11 @@ tags: ['jeep']
 [todo](../todo/#up-next) | [done](../todo/#done) | maintenance | [reference](../todo/#reference) | [end goal](../end-goal/) | [build thread](../../build-thread/) | [build sheet](https://www.jeep.com/webselfservice/BuildSheetServlet?vin=1J4FA69SX4P757994)
 
 ## Oil Changes
-Date | Mileage | Oil | Filter | Notes
----|---:|---|---|---
-2021-10-04 | 133,428 | Conventional 5w30 STP high mileage | Mopar M0-090 | 
-2023-02-25 | 137,175 | Conventional 5w30 STP high mileage | Mopar M0-090 | 3,747
-2023-09-22 | 139,086 | Conventional 5w30 STP high mileage | STP S16 | 1,911
+Date | Mileage | Oil | Filter | Miles | Months | Notes
+---|---:|---|---|---|---|---
+2021-10-04 | 133,428 | Conv 5w30 STP high mileage | Mopar M0-090 | 
+2023-02-25 | 137,175 | Conv 5w30 STP high mileage | Mopar M0-090 | 3,747 | 16 mo
+2023-09-22 | [139,086](../img/R70107-blackstone-20231018-redacted.webp) | Conv 5w30 STP high mileage | STP S16 | 1,911 | 7 mo | lifter tick
 
 ### Parts on hand
 Part | Brand/No. | Retailer
@@ -19,6 +19,7 @@ Radiator | CSF 3244 | Amazon
 Water Pump Inlet Tube | Dorman 56398 | Amazon
 Rear Main Seal | Fel-Pro BS 40183 | 
 Skid Nutserts | BMB | BMB
+fan clutch | USMW | Home Depot
 
 ## JJ Service record
 Date | Mileage | Joint | Lube | Notes
@@ -65,6 +66,9 @@ Mileage | date
 [137,003mi](../img/137003.jpeg) | 2023-01-16
 [138,000mi](../img/138000.jpg) | 2023-05-07
 [139,020mi](../img/139000.jpeg) | 2023-09-15
+
+## Gas Milage
+{{< mpg >}}
 
 ## replacement parts
 Date | Mileage | | Part | Brand/No. | Retailer
