@@ -8,8 +8,8 @@ tags: ['jeep']
 
 ## up next
 - [replace clutch](#clutch)
-- [fuel pump](#fuel-pump)
-- [fuel injectors](#fuel-injectors)
+- [fuel pump](#fuel-pump), long crank when cold
+- [fuel injectors](#fuel-injectors) or just o-rings?
 - [rms](#rms)
 - blackstone labs oil sample
 - [regear to 4.88](#regear)
@@ -143,11 +143,13 @@ tags: ['jeep']
 - [winch plate](#winch-stuff) | 2023-06-28
 - [139,000mi](../img/139000.jpeg) | 2023-09-15
 - [oil change](#engine-oil) | 2023-09-22 @139,086mi
+- [blackstone lab report](../img/R70107-blackstone-20231018-redacted.webp) | 2023-10-18 @ 139,086mi
 - [rear lower CA johnny joint service](#service-johnny-joints) | 2023-10-07 @ 139,282mi
 - [replace cooling system](#cooling-system) | 2023-10-09 @ 139,282mi
 - [replace timing chain](#timing-chain) | 2023-10-09 @ 139,282mi
 - [install winch rope](#spooling-line) | 2023-10-10 @ 139,308mi
 - [O2 sensors](#o2-sensors) | 2023-10-11 @ 139,321mi
+- passed state inspection | 2023-10-17 @ 139,741mi
 ---
 
 ## reference  
@@ -158,6 +160,11 @@ tags: ['jeep']
 - [shocks](#shocks)
 - [service johnny joints](#service-johnny-joints)
 - [pinion angle](#pinion-angle)
+- [torque specs](../torque)
+- [regear](../regear)
+- [m8000](../m8000)
+- [rough start](../diagnose-rough-start)
+- [viair 88p](../viair88p)
 - [WTJF How To Index](https://wranglertjforum.com/threads/how-to-index.73409/)
 ---
 
