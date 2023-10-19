@@ -8,6 +8,11 @@ date: 2022-10-03T12:02:16-05:00
 - oil change 0w-20 Castrol GTX syn, honda filter | 2022-11-05 @ 60,600mi
 - new starter | 2022-11-05 @ 60,600mi
 
+## Oil changes
+Date | Mileage | Oil | Filter | Notes
+---|---:|---|---|---
+2022-11-05 | 60,600 | 0w-20 Castrol GTX Synthetic | Honda 15400PLM-A02| 
+
 ## reference
 - engine oil 
 
@@ -58,8 +63,3 @@ Capacity 3.9 qt
 ## Coolant
 Honda Long-Life Antifreeze/Coolant Type2  
 1.65 US gal
-
-## Oil changes
-Date | Mileage | Oil | Filter | Notes
----|---:|---|---|---
-2022-11-05 | 60,600 | 0w-20 Castrol GTX Synthetic | Honda 15400PLM-A02| 
