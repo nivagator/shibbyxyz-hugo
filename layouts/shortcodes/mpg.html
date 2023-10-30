@@ -8,15 +8,23 @@
         </tr>
     </thead>
     <tbody>
-        {{ $data := .Site.Data.mpg}}
+        {{ $data := .Site.Data.mpg.tanks}}
+        {{ $totals := newScratch }}
         {{ range (sort $data ".date" "asc" ) }}
-        
         <tr>
+            {{ $totals.Add "tm" (float .miles) }}
+            {{ $totals.Add "tg" (float .gallons) }}
             <td>{{.date}}</td>
             <td style="text-align: right;">{{.miles}}</td>
             <td style="text-align: right;">{{.gallons}}</td>
             <td style="text-align: right;">{{ div (math.Round (mul (div (float .miles) (float .gallons)) 10)) 10 }}</td>
         </tr>
         {{ end }}
+        <tr>
+            <td>Total</td>
+            <td style="text-align: right;">{{ div (math.Round (mul ($totals.Get "tm") 10)) 10 }}</td>
+            <td style="text-align: right;">{{ div (math.Round (mul ($totals.Get "tg") 100)) 100 }}</td>
+            <td style="text-align: right;">{{ div (math.Round (mul (div ($totals.Get "tm") ($totals.Get "tg")) 10)) 10 }}</td>
+        </tr>
     </tbody>
 </table>
