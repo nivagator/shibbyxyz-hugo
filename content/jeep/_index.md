@@ -24,7 +24,7 @@ JKS 1" MML | [038](../build-thread/038)
 UCF extra-clearance steel skid | [038](../build-thread/038)   
 Savvy transfer case cable shifter  
 Tom Woods rear CV shaft | [038](../build-thread/038)  
-Warn M8000 | [refresh](../m8000) | [info](/jeep/m8000) | [061](../build-thread/061)  
+Warn M8000 | [refresh](../m8000) | [info](/jeep/m8000) | [061](../build-thread/061) | [071](../build-thread/071) | [074](../build-thread/074)  
 Wizard Recovery Gear rope, thimble, fairlead and soft shackles | [069](../build-thread/069)   
 ZJ Tie Rod Conversion | [053](../build-thread/053)  
 M.O.R.E. 1" steering riser | [038](../build-thread/038)  
