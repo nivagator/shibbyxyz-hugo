@@ -145,7 +145,7 @@ Date | Mileage | | Part | Brand/No. | Retailer
 2023-10-09 | 139,282 | [073](../../build-thread/073) | Cam Sprocket | Mopar 53010557AA | Rock Auto
 2023-10-09 | 139,282 | [073](../../build-thread/073) | Timing Chain Guide | Cloyes 95337 (9-5337) | Rock Auto
 2023-10-09 | 139,282 | [073](../../build-thread/073) | Timing Cover Gasket | FelPro TCS45458 | Rock Auto
-2023-10-11 | 139.321 | | O2 Sensor| NTK 23137 B1S1 | Rock Auto
-2023-10-11 | 139.321 | | O2 Sensor| NTK 23132 B1S2 | Rock Auto
-2023-10-11 | 139.321 | | O2 Sensor| NTK 23135 B2S1 | Rock Auto
-2023-10-11 | 139.321 | | O2 Sensor| NTK 23531 B2S2 | Rock Auto
+2023-10-11 | 139,321 | | O2 Sensor| NTK 23137 B1S1 | Rock Auto
+2023-10-11 | 139,321 | | O2 Sensor| NTK 23132 B1S2 | Rock Auto
+2023-10-11 | 139,321 | | O2 Sensor| NTK 23135 B2S1 | Rock Auto
+2023-10-11 | 139,321 | | O2 Sensor| NTK 23531 B2S2 | Rock Auto
