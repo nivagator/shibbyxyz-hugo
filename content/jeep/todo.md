@@ -7,15 +7,19 @@ tags: ['jeep']
 # 2004 Jeep TJ Wrangler Rubicon 
 
 ## up next
+- cruise control
+- [ball joints](#ball-joints)
+- [front brakes](#front-brakes)
+- [flush brake fluid](#flush-brake-fluid)  
+- [aftermarket swaybar - swayloc or antirock](#aftermarket-sway-bar)
+- [regear to 4.88](#regear)
+- [new soft top](#new-soft-top)
 - [replace clutch](#clutch)
 - [fuel pump](#fuel-pump), long crank when cold
 - [fuel injectors](#fuel-injectors) or just o-rings?
 - [rms](#rms)
-- blackstone labs oil sample
-- [regear to 4.88](#regear)
 - [AGM battery](#battery)
 - [electrical cables](#electrical-cables)
-- [ball joints](#ball-joints)
 - [service front LCA johnny joints](#service-johnny-joints)
 - [service UCA johnny joints](#service-johnny-joints)
 ---
@@ -23,11 +27,9 @@ tags: ['jeep']
 ## Todo List 
 - [tire rotation](#5-tire-rotation) at 141,000
 - [oil change](#engine-oil) at 144,086mi or March 2024
+- [35s](../35s)
 - paint BL gap
-- [front brakes](#front-brakes)
-- [flush brake fluid](#flush-brake-fluid)  
 - skid nutsert replacement
-- [aftermarket swaybar - swayloc or antirock](#aftermarket-sway-bar)
 - surface rust in drivers footwell
 - [Flip door handles](#flip-door-handles)
 - steering pillow
@@ -35,25 +37,20 @@ tags: ['jeep']
 - [sliders](#sliders)
 - hood dent repair?
 - [rear bumper with hitch receiver](#rear-bumper-with-hitch-receiver)
-- [winch, winch plate, front bumper](#winch-stuff)
 - half doors
 - paint axles?
 - [Tailgate Dome Light Activation Switch](#tailgate-dome-light-activation-switch)
 - [A/C Defeat](#ac-defeat)
-- [new soft top](#new-soft-top)
 - [rain cover](#rain-cover)
 - currie currect lync
 - [241 rear seal](#241-rear-seal-fix)
 - [raise gas skid](#raise-gas-skid)
-- [new battery](#battery)
 - morryde tailgate hinges
 - factory bumper end caps
 - [chromoly axle shafts](#chromoly-axle-shafts)
 - paint front frame suspension mounts
 - [fix blend door](#fix-blend-door)
 - [rear axle seals](#rear-axle-seals)
-- tighten suspension bolts
-- [electrical cables](#electrical-cables)
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
 - [arb air lockers](#arb-air-lockers)
@@ -65,6 +62,7 @@ tags: ['jeep']
 - [flat tow](#flat-tow)
 - [re-cover steering wheel](#steering-wheel)
 - [separate subwoofer unit?](#subwoofer-unit)
+- [trailer?](https://doubleztrailers.wixsite.com/zztrailers/copy-of-5-6-7-wide-sa-enclosed)
 ---
 
 ## done
@@ -1188,11 +1186,12 @@ existing compressor is a superflow or masterflow mv-50 and has a Nitto 10mm type
 
 
 ## speedo correction
-[SpeedoDRD](https://shop.12oclocklabs.com/index.php?route=product/product&product_id=59) 
-- J1 
-[Yellow Box Speedo Recalibrator](https://www.yellr.com/)  
-**[JET AccuSpeed](https://www.4wheelparts.com/p/jet-performance-products-accu-speed-speedometer-calibrator-50110/_/R-BHDL-50110)**  
-[HealTech SpeedoHealer](https://www.polyperformance.com/healtech-speedohealer-jeep-plug-n-play-kit-for-98-06-wrangler-04-06-tj-98-01-cherokee-xj-shv4a-j01)  
+- [SpeedoDRD](https://shop.12oclocklabs.com/index.php?route=product/product&product_id=59) 
+  - J1 
+  - [Setup Calculator](https://www.12oclocklabs.com/sdrd_calc.php) | [Video Setup Demo](https://www.youtube.com/watch?v=pZ-dMzsPJzA) |  [User Manual](https://12oclocklabs.com/manuals/SDRD/SDRD_V4_MANUAL.pdf) | [FAQ & Help](https://www.12oclocklabs.com/page.php?page=sdrd_help.htm)
+- [Yellow Box Speedo Recalibrator](https://www.yellr.com/)  
+- [JET AccuSpeed](https://www.4wheelparts.com/p/jet-performance-products-accu-speed-speedometer-calibrator-50110/_/R-BHDL-50110) 
+- [HealTech SpeedoHealer](https://www.polyperformance.com/healtech-speedohealer-jeep-plug-n-play-kit-for-98-06-wrangler-04-06-tj-98-01-cherokee-xj-shv4a-j01)  
 
 [mr blaine on install](https://wranglertjforum.com/threads/yellr-speedometer-recalibration-box-on-non-rubicon-model-tj.9438/post-145856)  
 I drill a hole in the firewall right in front of the fuse block behind the dash. Run the wires inside and then I have industrial Velcro I use to stick them right to the metal frame on the bottom of the passenger air bag. Zip it off and adjust it, put it back and it is as protected as it needs to be.  
