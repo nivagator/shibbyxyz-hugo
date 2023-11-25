@@ -56,6 +56,7 @@ Date | Milage | Task | Notes
 2023-06-07 | 138,182 | Rotation | 5-tire, at home
 
 ## Mileage
+
 Mileage | date
 ---|---
 [133,300mi](../img/133300.jpg) | 2021-09-30
@@ -66,6 +67,9 @@ Mileage | date
 [137,003mi](../img/137003.jpeg) | 2023-01-16
 [138,000mi](../img/138000.jpg) | 2023-05-07
 [139,020mi](../img/139000.jpeg) | 2023-09-15
+[140,000mi](../img/140000.jpg) | 2023-11-06
+
+![montage](../img/mileagemontage.jpg)
 
 ## Gas Milage
 {{< mpg >}}
@@ -149,3 +153,4 @@ Date | Mileage | | Part | Brand/No. | Retailer
 2023-10-11 | 139,321 | | O2 Sensor| NTK 23132 B1S2 | Rock Auto
 2023-10-11 | 139,321 | | O2 Sensor| NTK 23135 B2S1 | Rock Auto
 2023-10-11 | 139,321 | | O2 Sensor| NTK 23531 B2S2 | Rock Auto
+2023-10-02 | 139,961 | | Battery | Super Start AGM Platinum Marine G34 | O'Reilly 

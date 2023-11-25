@@ -7,7 +7,6 @@ tags: ['jeep']
 # 2004 Jeep TJ Wrangler Rubicon 
 
 ## up next
-- cruise control
 - [ball joints](#ball-joints)
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)  
@@ -18,7 +17,6 @@ tags: ['jeep']
 - [fuel pump](#fuel-pump), long crank when cold
 - [fuel injectors](#fuel-injectors) or just o-rings?
 - [rms](#rms)
-- [AGM battery](#battery)
 - [electrical cables](#electrical-cables)
 - [service front LCA johnny joints](#service-johnny-joints)
 - [service UCA johnny joints](#service-johnny-joints)
@@ -148,6 +146,9 @@ tags: ['jeep']
 - [install winch rope](#spooling-line) | 2023-10-10 @ 139,308mi
 - [O2 sensors](#o2-sensors) | 2023-10-11 @ 139,321mi
 - passed state inspection | 2023-10-17 @ 139,741mi
+- cruise control installed | 2023-10-26 @ 139,850mi
+- [new AGM battery](#battery) | 2023-11-02 @ 139,961mi
+- [140,000mi](../img/140000.jpg) | 2023-11-06
 ---
 
 ## reference  
@@ -164,6 +165,7 @@ tags: ['jeep']
 - [rough start](../diagnose-rough-start)
 - [viair 88p](../viair88p)
 - [WTJF How To Index](https://wranglertjforum.com/threads/how-to-index.73409/)
+- [JJ nut tool](https://www.lowes.com/pd/TEKTON-1-7-16-in-Sae-Angle-Open-End-Wrench/5014302841)
 ---
 
 ## O2 Sensors
