@@ -14,24 +14,25 @@ date: 2023-05-27T16:24:05-05:00
 ## Oil changes
 Date | Mileage | Oil | Filter | Notes
 ---|---:|---|---|---
-2023-05-29 | 96,500mi | 5w-30 Valvoline MaxLife Synthetic Blend High Mileage | STP S10590 | Autozone
+2023-05-29 | 96,500 | 5w-30 Valvoline MaxLife Synthetic Blend High Mileage | STP S10590 | Autozone
+2023-11-25 | 105,813 | 5w-30 Valvoline MaxLife Synthetic Blend High Mileage | Motorcraft FL-500S | Autozone
 
 
 ## replacement parts
 Date | Mileage | Part | Brand/No. | Retailer
----|---|---|---|---
+---|---:|---|---|---
 2020-05-02 | | rear blend door | YH-1743 | Amazon
 2022-07-21 | | rear wiper blade | Motorcraft WW1614A | Oreilly
 2023-04-04 | | front pads | Wagner ThermoQuiet QC1414 Ceramic | Amazon 
 2023-06-06 | 96,750 | spark plugs | Motorcraft SP580X | Amazon 
 2023-06-16 | 98,250 | front pads | Centric 105.14140 Posi Quiet Ceramic | Amazon
 2023-06-16 | 98,250 | front rotors | Centric 120.65119 | Amazon
+2023-11-01 | | replacement step motor | | Ebay
+2023-11-25 | 105,813 | front wiper blades | Bosch Microedge 40722A | Autozone
 
 ### Parts on hand
 Part | Brand/No. | Retailer
 ---|---|---
-replacement step motor | | ebay
-
 
 ## parts
 Component | Part Number
