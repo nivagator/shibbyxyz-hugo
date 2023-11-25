@@ -1,0 +1,59 @@
+[
+  {
+    "date": "2023-11-25",
+    "brand": "Olivia",
+    "size": "Double Toro/Gordo",
+    "name": "Serie O",
+    "price": "9.99",
+    "country": "Nicaragua",
+    "ring": "60",
+    "length": "6",
+    "url": "https://www.totalwine.com/accessories-more/cigars/double-torogordo/oliva-serie-o-double-toro/p/232141233"
+  },
+  {
+    "date": "2023-11-25",
+    "brand": "Fuente",
+    "size": "Rothschild",
+    "name": "Chateau Fuente",
+    "price": "7.29",
+    "country": "Dominican Republic",
+    "ring": "50",
+    "length": "4.5",
+    "url": "https://www.totalwine.com/accessories-more/cigars/rothschild/fuente-chateau-fuente/p/92233233"
+  },
+  {
+    "date": "2023-11-25",
+    "brand": "My Father",
+    "size": "Robusto",
+    "name": "La Gran Oferta",
+    "price": "9.49",
+    "country": "Nicaragua",
+    "ring": "50",
+    "length": "5",
+    "rating": "90",
+    "url": "https://www.totalwine.com/accessories-more/cigars/robusto/my-father-la-gran-oferta-robusto/p/232077233"
+  },
+  {
+    "date": "2023-11-25",
+    "brand": "Macanudo",
+    "size": "Robusto",
+    "name": "Inspirado Orange",
+    "price": "7.49",
+    "country": "Honduras",
+    "ring": "50",
+    "length": "5",
+    "rating": "90",
+    "url": "https://www.totalwine.com/accessories-more/cigars/robusto/macanudo-inspirado-orange-robusto/p/173135233"
+  },
+  {
+    "date": "2023-01-25",
+    "brand": "Montecristo",
+    "size": "Cigarillos",
+    "name": "Memories",
+    "price": "7.49",
+    "country": "Dominican Republic",
+    "ring": "33",
+    "length": "4",
+    "url": "https://www.totalwine.com/accessories-more/cigars/cigarillossmall-cigars/montecristo-memories/p/95687233"
+  }
+]
