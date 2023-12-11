@@ -1,0 +1,40 @@
+name: Shibby CI
+run-name: Shibby blog deployment
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment: deploy
+    steps:
+      - name: Checkout the current branch
+        uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Initialize the ssh-agent
+        uses: webfactory/ssh-agent@v0.4.1
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+      
+      - name: Install Hugo
+        run: sudo snap install hugo
+
+      - name: Build the website
+        run: hugo --minify
+
+      - name: Scan the host key
+        run: mkdir -p ~/.ssh/ && ssh-keyscan -p $DEPLOY_PORT -H $DEPLOY_SERVER >> ~/.ssh/known_hosts
+        env:
+          DEPLOY_SERVER: ${{ secrets.DEPLOY_SERVER }}
+          DEPLOY_PORT: ${{ secrets.DEPLOY_PORT }}
+
+      - name: Deploy the website
+        run: >-
+          rsync -avx --delete --exclude '.ssh' -e "ssh -p $DEPLOY_PORT" public/ $DEPLOY_USERNAME@$DEPLOY_SERVER:./
+        env:
+          DEPLOY_SERVER: ${{ secrets.DEPLOY_SERVER }}
+          DEPLOY_USERNAME: ${{ secrets.DEPLOY_USERNAME }}
+          DEPLOY_PORT: ${{ secrets.DEPLOY_PORT }}
