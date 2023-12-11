@@ -1,25 +1,30 @@
 [
   {
     "date": "2023-11-25",
-    "brand": "Olivia",
-    "size": "Double Toro/Gordo",
+    "brand": "Oliva",
+    "size": "Gordo",
     "name": "Serie O",
     "price": "9.99",
-    "country": "Nicaragua",
+    "country": "Nic",
     "ring": "60",
     "length": "6",
-    "url": "https://www.totalwine.com/accessories-more/cigars/double-torogordo/oliva-serie-o-double-toro/p/232141233"
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/double-torogordo/oliva-serie-o-double-toro/p/232141233"
+    }
   },
   {
     "date": "2023-11-25",
-    "brand": "Fuente",
+    "brand": "Arturo Fuente",
     "size": "Rothschild",
     "name": "Chateau Fuente",
     "price": "7.29",
-    "country": "Dominican Republic",
+    "country": "DR",
     "ring": "50",
     "length": "4.5",
-    "url": "https://www.totalwine.com/accessories-more/cigars/rothschild/fuente-chateau-fuente/p/92233233"
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/rothschild/fuente-chateau-fuente/p/92233233",
+      "fam": "https://www.famous-smoke.com/arturo-fuente-chateau-fuente-cigars-natural"
+    }
   },
   {
     "date": "2023-11-25",
@@ -27,11 +32,13 @@
     "size": "Robusto",
     "name": "La Gran Oferta",
     "price": "9.49",
-    "country": "Nicaragua",
+    "country": "Nic",
     "ring": "50",
     "length": "5",
     "rating": "90",
-    "url": "https://www.totalwine.com/accessories-more/cigars/robusto/my-father-la-gran-oferta-robusto/p/232077233"
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/robusto/my-father-la-gran-oferta-robusto/p/232077233"
+    }
   },
   {
     "date": "2023-11-25",
@@ -39,21 +46,285 @@
     "size": "Robusto",
     "name": "Inspirado Orange",
     "price": "7.49",
-    "country": "Honduras",
+    "country": "Hond",
     "ring": "50",
     "length": "5",
     "rating": "90",
-    "url": "https://www.totalwine.com/accessories-more/cigars/robusto/macanudo-inspirado-orange-robusto/p/173135233"
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/robusto/macanudo-inspirado-orange-robusto/p/173135233"
+    }
   },
   {
-    "date": "2023-01-25",
+    "date": "2023-10-04",
     "brand": "Montecristo",
     "size": "Cigarillos",
     "name": "Memories",
-    "price": "7.49",
-    "country": "Dominican Republic",
+    "country": "DR",
     "ring": "33",
     "length": "4",
-    "url": "https://www.totalwine.com/accessories-more/cigars/cigarillossmall-cigars/montecristo-memories/p/95687233"
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/cigarillossmall-cigars/montecristo-memories/p/95687233"
+    }
+  },
+  {
+    "date": "2023-01-04",
+    "brand": "Rocky Patel",
+    "size": "Robusto",
+    "name": "1999 Vint",
+    "price": "9.29",
+    "country": "Hond",
+    "ring": "50",
+    "length": "5.5",
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/robusto/rocky-patel-1999-vint-robusto/p/3945233"
+    }
+  },
+  {
+    "brand": "Mayflower",
+    "size": "Robusto",
+    "name": "Dawn",
+    "country": "Nic",
+    "ring": "50",
+    "length": "5",
+    "url": {
+      "may": "https://mayflowercigars.com/mayflower-dawn-robusto-5-x-50/"
+    }
+  },
+  {
+    "brand": "Mayflower",
+    "size": "Robusto",
+    "name": "Dusk",
+    "country": "Nic",
+    "ring": "50",
+    "length": "5.5",
+    "url": {
+      "may": "https://mayflowercigars.com/mayflower-dusk-robusto-5-5-x-50/"
+    }
+  },
+  {
+    "brand": "Rocky Patel",
+    "size": "Robusto",
+    "name": "ALR 2nd Edition",
+    "country": "Nic",
+    "ring": "52",
+    "length": "5.5",
+    "url": {
+      "thomp": "https://www.thompsoncigar.com/p/rocky-patel-alr-second-edition-robusto/2022982/"
+    }
+  },
+  {
+    "brand": "Rocky Patel",
+    "size": "Robusto",
+    "name": "Decade",
+    "country": "Hond",
+    "ring": "52",
+    "length": "6.5",
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/robusto/rocky-patel-decade-robusto/p/106981233",
+      "fam": "https://www.famous-smoke.com/rocky-patel-decade-robusto-cigars-natural"
+    }
+  },
+  {
+    "brand": "Romeo y Julieta",
+    "size": "Robusto",
+    "name": "1875 Conn",
+    "country": "Nic",
+    "ring": "50",
+    "length": "5",
+    "url": {
+      "mikes": "https://mikescigars.com/cigars/brands/romeoyjulieta/romeo-y-julieta-1875-connecticut-Nic/romeo-y-julieta-1875-connecticut-Nic-bully"
+    }
+  },
+  {
+    "brand": "Montecristo",
+    "size": "Robusto",
+    "name": "White Conn",
+    "country": "DR",
+    "ring": "52",
+    "length": "5",
+    "url": {
+      "thomp": "https://www.thompsoncigar.com/p/montecristo-white-series-rothschilde-connecticut-pack-of-5/2025774/#p-172382"
+    }
+  },
+  {
+    "brand": "Oliva",
+    "size": "Robusto",
+    "name": "Connecticut Reserve",
+    "country": "Nic",
+    "ring": "50",
+    "length": "5",
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/robusto/oliva-connecticut-reserve-robusto/p/119287233",
+      "fam": "https://www.famous-smoke.com/oliva-connecticut-reserve-robusto-cigars-natural"
+    }
+  },
+  {
+    "brand": "Macanudo",
+    "size": "Robusto",
+    "name": "Inspirado White",
+    "country": "DR",
+    "ring": "50",
+    "length": "5",
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/robusto/macanudo-inspirado-white-robusto/p/231593233",
+      "fam": "https://www.famous-smoke.com/macanudo-inspirado-wht-robusto-cigars-natural"
+    }
+  },
+  {
+    "brand": "La Aroma",
+    "size": "Robusto",
+    "name": "De Cuba",
+    "country": "Nic",
+    "ring": "54",
+    "length": "5",
+    "rating": "93",
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/robusto/la-aroma-de-cuba-robusto/p/117809233"
+    }
+  },
+  {
+    "brand": "Romeo Y Julieta",
+    "size": "Robusto",
+    "name": "Reserva Real",
+    "country": "DR",
+    "ring": "52",
+    "length": "5",
+    "rating": "93",
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/robusto/romeo-y-julieta-reserva-real-robusto/p/87805233"
+    }
+  },
+  {
+    "brand": "Perdomo",
+    "size": "Robusto",
+    "name": "Lot 23 Connecticut",
+    "country": "Nic",
+    "ring": "50",
+    "length": "5",
+    "rating": "90",
+    "url": {
+      "tw": "https://www.totalwine.com/accessories-more/cigars/robusto/perdomo-lot-23-connecticut-robusto-cigar/p/176861233"
+    }
+  },
+  {
+    "brand": "Oliva",
+    "size": "Robusto",
+    "name": "Serie G",
+    "country": "Nic",
+    "ring": "50",
+    "length": "4.5",
+    "url": {
+      "fam": "https://www.famous-smoke.com/oliva-serie-g-robusto-cigars-natural"
+    }
+  },
+  {
+    "brand": "AVO",
+    "size": "Robusto",
+    "name": "Classic",
+    "country": "DR",
+    "ring": "50",
+    "length": "5",
+    "url": {
+      "fam": "https://www.famous-smoke.com/avo-classic-robusto-cigars-natural"
+    }
+  },
+  {
+    "brand": "Romeo y Julieta",
+    "size": "Robusto",
+    "name": "1875",
+    "country": "DR",
+    "ring": "50",
+    "length": "5",
+    "url": {
+      "fam": "https://www.famous-smoke.com/romeo-y-julieta-1875-bully-cigars-natural"
+    }
+  },
+  {
+    "brand": "Romeo y Julieta",
+    "size": "Robusto",
+    "name": "Capulet",
+    "country": "Hond",
+    "ring": "54",
+    "length": "5",
+    "url": {
+      "fam": "https://www.famous-smoke.com/romeo-y-julieta-capulet-robusto-cigars-natural"
+    }
+  },
+  {
+    "brand": "Rocky Patel",
+    "size": "Robusto",
+    "name": "American Mkt Sel",
+    "country": "Hond",
+    "ring": "50",
+    "length": "5.5",
+    "url": {
+      "fam": "https://www.famous-smoke.com/rocky-patel-american-market-selection-robusto-cigars-natural"
+    }
+  },
+  {
+    "brand": "Perdomo",
+    "size": "Robusto",
+    "name": "Champagne",
+    "country": "Nic",
+    "ring": "54",
+    "length": "5",
+    "url": {
+      "fam": "https://www.famous-smoke.com/perdomo-champagne-robusto-cigars-natural"
+    }
+  },
+  {
+    "brand": "Gran Habano",
+    "size": "Robusto",
+    "name": "#1 Connecticut",
+    "country": "Hond",
+    "ring": "52",
+    "length": "5",
+    "url": {
+      "fam": "https://www.famous-smoke.com/gran-habano-no-1-connecticut-robusto-cigars-natural"
+    }
+  },
+  {
+    "brand": "Macanudo",
+    "size": "Duke",
+    "name": "Gold Label",
+    "country": "Hond",
+    "ring": "54",
+    "length": "5.25",
+    "url": {
+      "fam": "https://www.famous-smoke.com/macanudo-gold-label-duke-of-york-cigars-natural?pid=16519"
+    }
+  },
+  {
+    "brand": "Arturo Fuente",
+    "size": "Corona",
+    "name": "858 Natural",
+    "country": "Hond",
+    "ring": "47",
+    "length": "6",
+    "url": {
+      "fam": "https://www.famous-smoke.com/arturo-fuente-858-natural-cigars"
+    }
+  },
+  {
+    "brand": "Ashton",
+    "size": "Magnum",
+    "name": "Classic",
+    "country": "DR",
+    "ring": "50",
+    "length": "5",
+    "url": {
+      "fam": "https://www.famous-smoke.com/ashton-classic-magnum-cigars-natural"
+    }
+  },
+  {
+    "brand": "Rocky Patel",
+    "size": "Robusto",
+    "name": "Sun Grown",
+    "country": "Hond",
+    "ring": "50",
+    "length": "5.5",
+    "url": {
+      "fam": "https://www.famous-smoke.com/rocky-patel-sun-grown-robusto-cigars-natural"
+    }
   }
 ]
