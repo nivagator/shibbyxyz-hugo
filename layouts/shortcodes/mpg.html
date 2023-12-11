@@ -13,12 +13,12 @@
         {{ $totals := newScratch }}
         {{ range (sort $data ".date" "asc" ) }}
         <tr>
-            {{ $totals.Add "tm" (float .miles) }}
+            {{ $totals.Add "tm" (float .gpsmiles) }}
             {{ $totals.Add "tg" (float .gallons) }}
             <td>{{.date}}</td>
-            <td style="text-align: right;">{{.miles}}</td>
+            <td style="text-align: right;">{{.gpsmiles}}</td>
             <td style="text-align: right;">{{.gallons}}</td>
-            <td style="text-align: right;">{{ div (math.Round (mul (div (float .miles) (float .gallons)) 10)) 10 }}</td>
+            <td style="text-align: right;">{{ div (math.Round (mul (div (float .gpsmiles) (float .gallons)) 10)) 10 }}</td>
             <td style="text-align: right;">{{.odo}}</td>
         </tr>
         {{ end }}
