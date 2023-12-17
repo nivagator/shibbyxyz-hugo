@@ -1,7 +1,6 @@
 ---
 title: "Guitar Plugins"
 date: 2023-12-11T17:23:00-06:00
-draft: true
 ---
 
 Ox is attenuator and cab studio. Has back end effects like their EMT plate reverb, 1176 compressor, and digital rack delay. All are stellar.
