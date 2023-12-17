@@ -1,7 +1,6 @@
 ---
 title: "Home Studio"
 date: 2023-12-15T08:17:20-06:00
-draft: true
 ---
 
 ## audio interface
