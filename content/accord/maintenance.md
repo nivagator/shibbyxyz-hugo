@@ -12,7 +12,7 @@ date: 2022-10-03T12:02:16-05:00
 Date | Mileage | Oil | Filter | Notes
 ---|---:|---|---|---
 2022-11-05 | 60,600 | 0w-20 Castrol GTX Synthetic | Honda 15400PLM-A02| 
-  2023-??-?? | ?? | 0w-20 STP | Honda 15400PLM-A02 | Autozone
+2023-12-20 | 71,393 | 0w-20 STP | Honda 15400PLM-A02 | Autozone
 
 ## reference
 - engine oil 
