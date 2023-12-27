@@ -23,3 +23,11 @@ This would be your way to QC without buying a QC. I would think your PC would be
 Not to mention you can look at all the other archetypes they have and do their free trials to see if you want one that’s Friedman beefy. Each archetype has a few amps in it with weird names because of copyright and unique effects in each as well. Highly highly recommend them.
 
 I loooooved the plini archetype. There was the most amazing clean compressed ambient tone preset in it that was so inspiring.
+ 
+###
+[ir.lv2](https://tomscii.sig7.se/plugins/ir.lv2/)  
+[linuxmusicians.com](https://linuxmusicians.com/)  
+[lm: impulse response loader](https://linuxmusicians.com/viewtopic.php?t=22553)  
+[LSP](https://lsp-plug.in/index.php)  
+[lsp plugins github](https://github.com/sadko4u/lsp-plugins)  
+[KlangFalter convolution github](https://github.com/HiFi-LoFi/KlangFalter)  
