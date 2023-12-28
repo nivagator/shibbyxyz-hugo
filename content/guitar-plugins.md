@@ -10,6 +10,9 @@ Ox is attenuator and cab studio. Has back end effects like their EMT plate rever
 
 [Reddit: How to get NeuralDSP working on Linux](https://www.reddit.com/r/NeuralDSP/comments/x1rzpr/how_to_get_neuraldsp_working_on_linux_tutorial/)  
 
+
+[Run Pipewire to get Jack and Pulseaudio working at the same time](https://www.youtube.com/watch?v=5a7_2mA2LYQ)
+
 [John Mayer Tones with Tone King Imperial MKII (Last Train Home & Belief)](https://youtu.be/rwgmnCU8UdE?si=8tYf6C-wUJ7QBGF_)  
 Download the presets: https://ndsp.co/JohnMayerToneKingGet a 14-day free trial of Tone King Imperial MKII: https://neuraldsp.com/plugins/tone-king-imperial-m...
 
