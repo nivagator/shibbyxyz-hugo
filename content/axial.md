@@ -55,3 +55,17 @@ Axial Nitto Trail Grappler | 54 |	2.13 |	16.50 |	0.65 |	N/A |	https://www.horizo
 ProLine Hyrax	|52|	2.05|	19.00|	0.75|	N/A|	https://www.prolineracing.com/product/1-24-hyrax-front-rear-1.0-tires-mounted-7mm-black-impulse-4-scx24/PRO1019410.html
 
 https://ccrcadventures.com/1-0-tire-comparison/  
+
+
+## mods
+stock weight: 231g
++ diff covers: 245g (+14g)
+
+## 1. diff covers
+body removed
+tires and wheel nuts removed 
+weight: 152g
++ rear diff: 159g (+7g)
++ front diff: 166g (+7g)
+
+
