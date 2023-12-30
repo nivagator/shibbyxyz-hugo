@@ -73,3 +73,13 @@ Yep, its that easy. Then all it needed was to be put through `certbot` to enable
 Lychee is pretty great so far. Super easy to manage and control albums, sharing, users, etc. The minimalist interface is just what I wanted. It has a cool feature where it will import a photo given a direct link to the file. I can see this being useful to make grabbing images from the internet easily. It has fairly obvious dropbox integration, which i dont use, but I'm interested to see what other platforms the might be able to pull from.
 
 Check it out [photos.shibby.xyz](https://photos.shibby.xyz).
+
+## Update 2023-12-30
+container updates will fail to load static resources. They will attempt to load from localhost. This requires an addition of a `proxy_set_header` to the nginx config for the site. 
+
+```
+location / {
+    proxy_pass http://127.0.0.1:8088; # lychee docker
+    proxy_set_header Host $host;
+}
+```
