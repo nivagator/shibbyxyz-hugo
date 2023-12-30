@@ -60,6 +60,9 @@ https://ccrcadventures.com/1-0-tire-comparison/
 ## mods
 stock weight: 231g
 + diff covers: 245g (+14g)
++ steering links: 251g (+6g)
++ emax servo and mount: 259 (+8g)
++ knuckles: 273 (+14g)
 
 ## 1. diff covers
 body removed
