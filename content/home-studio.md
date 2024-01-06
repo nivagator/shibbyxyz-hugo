@@ -3,20 +3,21 @@ title: "Home Studio"
 date: 2023-12-15T08:17:20-06:00
 ---
 
-## audio interface
+## headphones
+- Philips SHP9600
+- Audio Techinica ATH-M30
+- Steel Series Arctis 1 Wireless
 
-behringer umc202hd  
-UA volt 2  
-presonus 24c/26c  
+## Speakers 
+- Micca MB42x w/ SMSL SA-50
+- Yamaha NX-50 Computer Speakers
+
+## audio interface
+- Presonus Studio 26c
 
 https://www.reddit.com/r/linuxaudio/comments/shj3x3/audio_interface_list/  
 
-volt  
-https://forums.linuxmint.com/viewtopic.php?t=407675  
-https://forums.linuxmint.com/viewtopic.php?p=2394538  
-
 ## studio monitors
-
 speaker | h | d | w | tweeter | woofer | power | freq res | sens | link
 ---|---:|---:|---:|---:|---:|---:|---|---|---
 Miccas | 9.5 | 6.5 | 5.8 | .75 | 4.0 | 75 | 60 Hz - 20 kHz | 85dB 1W/1M | [link](https://www.miccatron.com/micca-mb42x/)
