@@ -35,7 +35,7 @@ asus gtx 1650 super
 nvidia quadro p400  
 lsi 9211-8i hba  
 fractal define 7  
-50tb raw storage  
+70tb raw storage  
 unraid 6  
 
 **nebula**  
@@ -46,7 +46,7 @@ lsi 9211-8i hba
 old nzxt case, source 530?  
 proxmox 7  
 truenas scale  
-22tb raw storage, zfs mirror vdevs  
+32tb raw storage, zfs mirror vdevs  
 
 **constellation**  
 **retired as of 2022-11**  
