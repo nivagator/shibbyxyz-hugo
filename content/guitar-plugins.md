@@ -8,7 +8,8 @@ Ox is attenuator and cab studio. Has back end effects like their EMT plate rever
 
 [Ultimate Guide to Using Neural DSP Plugins](https://neuraldsp.com/news/ultimate-guide-to-using-neural-dsp-plugins)  
 
-[Reddit: How to get NeuralDSP working on Linux](https://www.reddit.com/r/NeuralDSP/comments/x1rzpr/how_to_get_neuraldsp_working_on_linux_tutorial/)  
+[Reddit: How to get NeuralDSP working on Linux](https://www.reddit.com/r/NeuralDSP/comments/x1rzpr/how_to_get_neuraldsp_working_on_linux_tutorial/)   
+https://www.reddit.com/r/NeuralDSP/comments/wt38q4/comment/il3iwsl/
 
 
 [Run Pipewire to get Jack and Pulseaudio working at the same time](https://www.youtube.com/watch?v=5a7_2mA2LYQ)
@@ -34,3 +35,10 @@ I loooooved the plini archetype. There was the most amazing clean compressed amb
 [LSP](https://lsp-plug.in/index.php)  
 [lsp plugins github](https://github.com/sadko4u/lsp-plugins)  
 [KlangFalter convolution github](https://github.com/HiFi-LoFi/KlangFalter)  
+
+[linVST](https://github.com/osxmidi/LinVst/releases/tag/4.9)
+
+[wineasio](https://technogothic.net/pages/WineasioSetup/)
+
+[pipewire setting sample rates](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Config-PipeWire#setting-sample-rates)
+- `pw-metadata -n settings 0 clock.force-rate 44100`
