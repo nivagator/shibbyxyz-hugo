@@ -7,6 +7,7 @@ date: 2022-10-03T12:02:16-05:00
 - new battery from Oreilly | 2022-09-26 @ 60,300mi
 - oil change 0w-20 Castrol GTX syn, honda filter | 2022-11-05 @ 60,600mi
 - new starter | 2022-11-05 @ 60,600mi
+- new belt tensioner pulley | 2024-01-31 @ 72,000mi 
 
 ## Oil changes
 Date | Mileage | Oil | Filter | Notes
