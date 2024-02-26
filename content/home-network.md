@@ -26,6 +26,16 @@ https://forums.servethehome.com/index.php?threads/lenovo-thinkcentre-thinkstatio
 - https://www.reddit.com/r/OPNsenseFirewall/comments/11g66wr/newish_m720q_opnsense_firewall_in_the_making/
 - https://youtube.com/watch?v=KqqAs41DSUg
 
+#### psu
+- https://www.amazon.com/Lenovo-ThinkCentre-Adapter-4X20E53336-Packaging/dp/B00K962RBA
+- 
+
+### managed switch
+[TP-Link TL-SG1210MPE](https://www.amazon.com/TP-Link-TL-SG1210MPE-Gigabit-Lifetime-Protection/dp/B09CT4QKSF/)
+
+### wireless access point
+[Grandstream GWN7660 WiFi 6](https://www.amazon.com/Grandstream-GWN7660-Indoor-Access-Point/dp/B09C68LCBQ/)
+
 ### lenovo m920 tiny
 - https://youtube.com/watch?v=hi0q3IHQkQg
 
@@ -41,8 +51,13 @@ https://forums.servethehome.com/index.php?threads/lenovo-thinkcentre-thinkstatio
 - https://connortumbleson.com/2022/06/06/opnsense-wireguard-pihole/
 - https://www.reddit.com/r/OPNsenseFirewall/comments/y127kp/pihole_andor_opnsense/
 - https://homenetworkguy.com/how-to/install-pi-hole-on-proxmox-and-use-opnsense-unbound-dns-as-upstream-dns/
-- 
 
 ### pihole
 - https://homenetworkguy.com/how-to/configure-opnsense-firewall-vlan-pihole/
 - https://blog.ktz.me/fully-automated-dns-and-dhcp-with-pihole-and-dnsmasq/
+
+## Home Network Setup
+tplink t1500g-10mps
+192.168.1.1
+
+opnsense[[]]
