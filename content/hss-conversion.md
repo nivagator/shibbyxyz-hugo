@@ -119,3 +119,23 @@ There's a good deal of hubris - some of which is deserved - when it comes to rep
 These are relatively low-power units (Fender claims 5.3k DC resistance) but that's absolutely to their benefit, bringing out shimmering highs and a warm bottom end with that characteristic slight scoop in the middle that's quintessential Strat.
 
 You might want to think of it as 'woody', because the pickups are in no way overpowering what the body and neck bring to the table.
+
+
+## set up
+-SUHR ACTION SPEC-
+
+•NECK RELIEF: while pressing on the D & G strings on the 1st and 17th fret, the relief should measure .005” (0.127mm) at the 7th fret. A capo can be used on the 1st fret.
+•ACTION: Open strings should measure: 4/64” (1.587mm) at the last fret
+•Gotoh 510 Bridge Plate: Approximately 3/64” (1.190mm) above body
+
+-SUHR PUP HEIGHT-
+
+• ALL SINGLE COILS: LOW E 8/64” (3.175mm) HIGH E 6/64” (2.381mm)
+• NECK HUMBUCKER: LOW E 7/64” (2.778mm) HIGH E 6/64” (1.587mm)
+• BRIDGE HUMBUCKER: LOW E 6/64” (2.381mm) HIGH E 5/64” (1.984mm)
+• S90’S: LOW E 8/64” (2.778mm) HIGH E 6/64” (2.381mm)
+*(Make sure strings are depressed at the last fret when measuring)
+
+IMPORTANT: Please measure and set specs in the playing position.
+
+We hope this information proves useful to you!
