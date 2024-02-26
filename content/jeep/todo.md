@@ -23,7 +23,7 @@ tags: ['jeep']
 ---
 
 ## Todo List 
-- [tire rotation](#5-tire-rotation) at 141,000
+- [tire rotation](#5-tire-rotation) at 143,000
 - [oil change](#engine-oil) at 144,086mi or March 2024
 - [35s](../35s)
 - paint BL gap
