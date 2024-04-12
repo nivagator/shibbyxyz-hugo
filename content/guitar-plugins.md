@@ -42,3 +42,10 @@ I loooooved the plini archetype. There was the most amazing clean compressed amb
 
 [pipewire setting sample rates](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Config-PipeWire#setting-sample-rates)
 - `pw-metadata -n settings 0 clock.force-rate 44100`
+
+https://lv2plug.in/pages/projects.html  
+https://helio.fm/  
+https://juce.com/  
+https://github.com/mikeroyal/PipeWire-Guide  
+
+https://github.com/robbert-vdh/yabridge  
