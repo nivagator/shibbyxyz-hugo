@@ -4,19 +4,11 @@ date: 2024-01-10T08:10:41-06:00
 draft: true
 ---
 
-modem -> asus wifi router   
-
-modem -> firewall router -> switch -> asus wifi  
-
 opnsense and pihole  
-
-fujitsu s920  
 lenovo m720q tiny  
-nic card
-+ intel i350
+nic card intel i350
 
 ## hardware
-
 https://forums.servethehome.com/index.php?threads/lenovo-thinkcentre-thinkstation-tiny-project-tinyminimicro-reference-thread.34925/
 
 ### Lenovo m720q tiny
@@ -28,13 +20,16 @@ https://forums.servethehome.com/index.php?threads/lenovo-thinkcentre-thinkstatio
 
 #### psu
 - https://www.amazon.com/Lenovo-ThinkCentre-Adapter-4X20E53336-Packaging/dp/B00K962RBA
-- 
+
 
 ### managed switch
-[TP-Link TL-SG1210MPE](https://www.amazon.com/TP-Link-TL-SG1210MPE-Gigabit-Lifetime-Protection/dp/B09CT4QKSF/)
+- [usw flex mini](https://store.ui.com/us/en/pro/category/all-switching/products/usw-flex-mini)
+- [usw lite 8](https://store.ui.com/us/en/pro/category/all-switching/products/usw-lite-8-poe)
 
 ### wireless access point
-[Grandstream GWN7660 WiFi 6](https://www.amazon.com/Grandstream-GWN7660-Indoor-Access-Point/dp/B09C68LCBQ/)
+- [U6+](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-plus)
+- [U6-IW](https://store.ui.com/us/en/pro/category/all-wifi/products/u6-iw)
+- [Grandstream GWN7660 WiFi 6](https://www.amazon.com/Grandstream-GWN7660-Indoor-Access-Point/dp/B09C68LCBQ/)
 
 ### lenovo m920 tiny
 - https://youtube.com/watch?v=hi0q3IHQkQg
@@ -55,9 +50,17 @@ https://forums.servethehome.com/index.php?threads/lenovo-thinkcentre-thinkstatio
 ### pihole
 - https://homenetworkguy.com/how-to/configure-opnsense-firewall-vlan-pihole/
 - https://blog.ktz.me/fully-automated-dns-and-dhcp-with-pihole-and-dnsmasq/
+- [disable pihole for certain devices](https://www.schuetzler.net/blog/disable-pihole-for-some-devices/) 
 
-## Home Network Setup
-tplink t1500g-10mps
-192.168.1.1
+## opnsense
+- opnsense unifi lagg
 
-opnsense[[]]
+## unriad and vlans
+- https://forums.unraid.net/topic/112353-vlan-support/
+
+## unifi 
+- [unifi ssh commands](https://lazyadmin.nl/home-network/unifi-ssh-commands/)
+- [unifi devices on separate network from controller](https://blog.pelleys.com/unifi-adoption-with-devices-on-separate-subnet-from-unifi-controller/)
+- [remote adoption](https://help.ui.com/hc/en-us/articles/204909754-UniFi-Network-Remote-Adoption-Layer-3)
+- [advanced wifi settings](https://remotewiser.com/unifi-ap-recommended-settings)
+- [vlan troubleshooting - network override](https://help.ui.com/hc/en-us/articles/9592924981911-UniFi-Virtual-Network-VLAN-Troubleshooting)
