@@ -61,6 +61,7 @@ tags: ['jeep']
 - [re-cover steering wheel](#steering-wheel)
 - [separate subwoofer unit?](#subwoofer-unit)
 - [trailer?](https://doubleztrailers.wixsite.com/zztrailers/copy-of-5-6-7-wide-sa-enclosed)
+- [fox shocks](#fox-shocks)
 ---
 
 ## done
@@ -1135,6 +1136,12 @@ Rear Currie/Rock jock extensions:
 3/8 small bolt: 35 ft.lbs  
 factory bolt through spacer: 85 ft.lbs  
 shock bolt: 85 ft.lbs
+
+### fox shocks
+
+[accutune](https://accutuneoffroad.com/product-category/vehicle-specific-products/jeep/jeep-wrangler-tj-lj-2006-1997/1997-2006-wrangler-tj-lj-front-shocks/)
+
+
 
 ## air filter
 AC delco A1548C gold   
