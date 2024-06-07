@@ -20,6 +20,7 @@ tags: ['jeep']
 - [electrical cables](#electrical-cables)
 - [service front LCA johnny joints](#service-johnny-joints)
 - [service UCA johnny joints](#service-johnny-joints)
+- [soft top tension straps](#soft-top-tension-straps)
 ---
 
 ## Todo List 
@@ -1321,3 +1322,6 @@ The Bosch 69316 comes with nothing else but the fuel pump module itself, it does
 
 [WTJF: pump ring installation](https://wranglertjforum.com/threads/fuel-pump-locking-ring.68255/)
 
+## soft top tension straps
+https://wranglertjforum.com/threads/soft-top-frame-repair-top-suggestions.78294/post-1539556
+https://www.amazon.com/dp/B076Y166WB
