@@ -1325,3 +1325,9 @@ The Bosch 69316 comes with nothing else but the fuel pump module itself, it does
 ## soft top tension straps
 https://wranglertjforum.com/threads/soft-top-frame-repair-top-suggestions.78294/post-1539556
 https://www.amazon.com/dp/B076Y166WB
+
+https://www.wranglerforum.com/threads/soft-top-support-straps-hack.1218777/  
+https://www.jeepforum.com/threads/repairing-soft-top-frame-worn-torn-webbing.1240039/  
+
+[straps pdf](../img/TJ-Tension-Strap-Ends.pdf)   
+![straps](../img/tj-straps.png)
