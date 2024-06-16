@@ -20,7 +20,7 @@ tags: ['jeep']
 - [electrical cables](#electrical-cables)
 - [service front LCA johnny joints](#service-johnny-joints)
 - [service UCA johnny joints](#service-johnny-joints)
-- [soft top tension straps](#soft-top-tension-straps)
+- 
 ---
 
 ## Todo List 
@@ -138,21 +138,24 @@ tags: ['jeep']
 - replaced leaking passenger rear black max shock | 2023-04-29 @137,925mi | [063](/build-thread/063) 
 - [138,000mi](../img/138000.jpg) | 2023-05-07
 - [rotate tires](#5-tire-rotation) | 2023-06-07 @ 138,182mi
-- [winch plate](#winch-stuff) | 2023-06-28
+- [winch plate](#winch-stuff) | 2023-06-28 | [071](/build-thread/071)
 - [139,000mi](../img/139000.jpeg) | 2023-09-15
 - [oil change](#engine-oil) | 2023-09-22 @139,086mi
-- [blackstone lab report](../img/R70107-blackstone-20231018-redacted.webp) | 2023-10-18 @ 139,086mi
+- [blackstone lab report](../img/R70107-blackstone-20231018-redacted.webp) | 2023-10-18 @ 139,086mi | [076](/build-thread/076)
 - [rear lower CA johnny joint service](#service-johnny-joints) | 2023-10-07 @ 139,282mi
-- [replace cooling system](#cooling-system) | 2023-10-09 @ 139,282mi
-- [replace timing chain](#timing-chain) | 2023-10-09 @ 139,282mi
-- [install winch rope](#spooling-line) | 2023-10-10 @ 139,308mi
-- [O2 sensors](#o2-sensors) | 2023-10-11 @ 139,321mi
+- [replace cooling system](#cooling-system) | 2023-10-09 @ 139,282mi | [073](/build-thread/073)
+- [replace timing chain](#timing-chain) | 2023-10-09 @ 139,282mi | [073](/build-thread/073)
+- [install winch rope](#spooling-line) | 2023-10-10 @ 139,308mi | [074](/build-thread/074)
+- [O2 sensors](#o2-sensors) | 2023-10-11 @ 139,321mi | [074](/build-thread/074)
+- Hella H4 100/80w bulbs | 2023-10-11 | [074](/build-thread/074)
 - passed state inspection | 2023-10-17 @ 139,741mi
-- cruise control installed | 2023-10-26 @ 139,850mi
-- [new AGM battery](#battery) | 2023-11-02 @ 139,961mi
+- cruise control installed | 2023-10-26 @ 139,850mi | [077](/build-thread/077)
+- [new AGM battery](#battery) | 2023-11-02 @ 139,961mi | [077](/build-thread/077)
 - [140,000mi](../img/140000.jpg) | 2023-11-06
 - [141,000mi](../img/141000.jpg) | 2024-04-05
-- replaced hood footman loop Crown 55176422K | 2024-06-03
+- replaced hood footman loop Crown 55176422K | 2024-06-03 | [077](/build-thread/077)
+- [soft top tension straps](#soft-top-tension-straps) | 2024-06-15 | [077](/build-thread/077)
+- [Kicker Sub](#subwoofer-wiring-examples) install | 2024-06-15 | [077](/build-thread/077)
 ---
 
 ## reference  
@@ -1323,11 +1326,14 @@ The Bosch 69316 comes with nothing else but the fuel pump module itself, it does
 [WTJF: pump ring installation](https://wranglertjforum.com/threads/fuel-pump-locking-ring.68255/)
 
 ## soft top tension straps
-https://wranglertjforum.com/threads/soft-top-frame-repair-top-suggestions.78294/post-1539556
-https://www.amazon.com/dp/B076Y166WB
+https://wranglertjforum.com/threads/soft-top-frame-repair-top-suggestions.78294/post-1539556  
+https://www.amazon.com/dp/B076Y166WB  
+
+https://www.strapworks.com/3-inch-heavyweight-polypropylene-black  
+#8 - 1/2" screws and washers
 
 https://www.wranglerforum.com/threads/soft-top-support-straps-hack.1218777/  
 https://www.jeepforum.com/threads/repairing-soft-top-frame-worn-torn-webbing.1240039/  
 
 [straps pdf](../img/TJ-Tension-Strap-Ends.pdf)   
-![straps](../img/tj-straps.png)
+![straps](../img/tj-straps.png)  
