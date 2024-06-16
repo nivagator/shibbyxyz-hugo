@@ -39,6 +39,6 @@ Kenwood KMM-X705 | [059](../build-thread/059)
 Soundstream Picasso Nano 640D | [059](../build-thread/059)  
 Kicker 47KSS504 5.25" component Fronts | [056](../build-thread/056)  
 Polk DB522 rear | [016](../build-thread/016)  
-Goodwood GW-S650 | [045](../build-thread/045)  
+Kicker Sub 48CWRT674 | ~~Goodwood GW-S650 | [045](../build-thread/045)~~  
    
 
