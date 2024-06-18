@@ -18,9 +18,11 @@ tags: ['jeep']
 - [fuel injectors](#fuel-injectors) or just o-rings?
 - [rms](#rms)
 - [electrical cables](#electrical-cables)
-- [service front LCA johnny joints](#service-johnny-joints)
+- [service rear LCA johnny joints](#service-johnny-joints)
 - [service UCA johnny joints](#service-johnny-joints)
-- 
+- service front track bar
+- [seat foam](#seat-foam)
+- [seat heaters](#seat-heaters)
 ---
 
 ## Todo List 
@@ -55,7 +57,6 @@ tags: ['jeep']
 - [arb air lockers](#arb-air-lockers)
 - [on board air](#on-board-air)
 - tailgate table
-- [seat heaters](#seat-heaters)
 - [speedo correction](#speedo-correction)
 - [new exhaust](#new-exhaust)
 - [flat tow](#flat-tow)
@@ -156,6 +157,7 @@ tags: ['jeep']
 - replaced hood footman loop Crown 55176422K | 2024-06-03 | [077](/build-thread/077)
 - [soft top tension straps](#soft-top-tension-straps) | 2024-06-15 | [077](/build-thread/077)
 - [Kicker Sub](#subwoofer-wiring-examples) install | 2024-06-15 | [077](/build-thread/077)
+- [service front LCA johnny joints](#service-johnny-joints) | 2024-06-17 @ 141,500mi
 ---
 
 ## reference  
@@ -1337,3 +1339,7 @@ https://www.jeepforum.com/threads/repairing-soft-top-frame-worn-torn-webbing.124
 
 [straps pdf](../img/TJ-Tension-Strap-Ends.pdf)   
 ![straps](../img/tj-straps.png)  
+
+## seat foam
+https://www.summitracing.com/parts/sum-rp20034-lh
+https://www.summitracing.com/parts/sum-rp20034-rh
