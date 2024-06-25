@@ -152,8 +152,12 @@ Date | Mileage | | Part | Brand/No. | Retailer
 2023-10-09 | 139,282 | [073](../../build-thread/073) | Cam Sprocket | Mopar 53010557AA | Rock Auto
 2023-10-09 | 139,282 | [073](../../build-thread/073) | Timing Chain Guide | Cloyes 95337 (9-5337) | Rock Auto
 2023-10-09 | 139,282 | [073](../../build-thread/073) | Timing Cover Gasket | FelPro TCS45458 | Rock Auto
-2023-10-11 | 139,321 | | O2 Sensor| NTK 23137 B1S1 | Rock Auto
-2023-10-11 | 139,321 | | O2 Sensor| NTK 23132 B1S2 | Rock Auto
-2023-10-11 | 139,321 | | O2 Sensor| NTK 23135 B2S1 | Rock Auto
-2023-10-11 | 139,321 | | O2 Sensor| NTK 23531 B2S2 | Rock Auto
-2023-10-02 | 139,961 | | Battery | Super Start AGM Platinum Marine G34 | O'Reilly 
+2023-10-11 | 139,321 | [074](../../build-thread/074) | O2 Sensor| NTK 23137 B1S1 | Rock Auto
+2023-10-11 | 139,321 | [074](../../build-thread/074) | O2 Sensor| NTK 23132 B1S2 | Rock Auto
+2023-10-11 | 139,321 | [074](../../build-thread/074) | O2 Sensor| NTK 23135 B2S1 | Rock Auto
+2023-10-11 | 139,321 | [074](../../build-thread/074) | O2 Sensor| NTK 23531 B2S2 | Rock Auto
+2023-10-26 | 139,961 | [077](../../build-thread/077) | cruise control | factory | ebay
+2023-11-02 | 139,961 | [077](../../build-thread/077) | Battery | Super Start AGM Platinum Marine G34 | O'Reilly 
+2024-06-03 |         | [077](../../build-thread/077) | Hood Footman Loop | Crown 55176422K | Amazon
+2024-06-15 |         | [077](../../build-thread/077) | soft top strap | strapworks | strapworks
+2024-06-15 |         | [077](../../build-thread/077) | Subwoofer | Kicker 48CWRT674 | Crutchfield
