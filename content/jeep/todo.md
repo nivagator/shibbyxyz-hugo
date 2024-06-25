@@ -805,6 +805,18 @@ track bar grease fittings are 1/4-28 threaded
 thinking 4.88s for my nv3550 and 33s  
 this is what i had in my '01 with 35s and it was fine.  
 
+### ratio math
+NV3550/29.53"/4.10=2729rpm @ 75mph  
+
+NV3550/31.86"/4.10=2529rpm @ 75mph  
+NV3550/31.86"/4.88=3011rpm @ 75mph  
+NV3550/31.86"/5.13=3165rpm @ 75mph  
+
+NV3550/33.50"/4.10=2406rpm @ 75mph  
+NV3550/33.50"/4.88=2863rpm @ 75mph  
+NV3550/33.50"/5.13=3010rpm @ 75mph  
+
+
 ### how to
 [Regearing from 4.88 to Revolution Gear's new 5.38... sweet! | Jeep Wrangler TJ Forum](https://wranglertjforum.com/threads/regearing-from-4-88-to-revolution-gears-new-5-38-sweet.7570/)
 - After removing the carrier, the existing pinion gear depth was measured using the bearing cap seating surface as a reference point. That gave a very good preliminary depth from which to set the new pinion gear depth. Setting the pinion gear depth involves shimming it in/out with shims included in the master install kit.  
@@ -1343,3 +1355,86 @@ https://www.jeepforum.com/threads/repairing-soft-top-frame-worn-torn-webbing.124
 ## seat foam
 https://www.summitracing.com/parts/sum-rp20034-lh
 https://www.summitracing.com/parts/sum-rp20034-rh
+
+## brakes bench bleed master cylinder
+https://wranglertjforum.com/threads/brake-issues.79525/post-1570699
+
+Plugged port method for bench bleeding a master cylinder. I won't type this out again so someone should save it and stick it in a readily located place for future reference.
+
+Most BB (bench bleed) a master using the little hoses that circulate fluid out of the bore back into the reservoir. The problem with that method is it is very slow, not very effective, and tells you nothing about the condition of the master or how well you have managed to remove the air.
+
+The PP method tells you if the master is good, whether you have the air out, and gives you a rough idea of how much you have to extend or shorten the booster push rod.
+
+Acquire plugs that seal off the two ports in the master. If you have the little hose kit, you can put screws in the holes after you cut the little hose barbs off.
+
+
+
+Put the master in a vise clamped ONLY on the flange. Never clamp onto the body where the bore is.
+Plug the ports, fill reservoir about half way with brake fluid.
+
+Loosen the port plug closest to you and push the master PR (push rod) all the way in and hold.
+Close the port plug and let the PR back out.
+Repeat until fluid is present at that port. Close the port plug.
+
+Move to the port furthest way and repeat the process.
+
+Once you have fluid at both ports and the plugs tightened to seal them off, continue pushing the PR in and letting it back out until it will only allow about 1/8" or so of movement. Generally about 4-7 cycles and it will come up solid. Solid tells you there is no air in the bore. Start to finish after the ports are plugged is about 2 minutes generally.
+
+1- that little bit of movement is important. It tells you the master is good. It is the distance the pistons move inside the bore past the ports that let fluid into the bore from the reservoir. They have to move past them to build pressure and push that out to the wheel cylinders. Otherwise, all the master would do is push fluid back up into the reservoir.
+2- the ports also exist to allow the normal expansion of brake fluid as it gets warm. If the fluid can not go back into the reservoir as the fluid expands, the brakes will self apply.
+3-the PP method lets you check to see if fluid is bypassing the cup seals. If you can't get it hard to push and locked up solid after that 1/8" or so of initial travel, the cup seals are likely bad or similar.
+4- some masters have 1/16" and some have a lot more. Pay attention to it so you can adjust the booster push rod as needed.
+
+After the BB, get the crap out of the way in front of the booster, remove the vacuum seal from the master and slide it on the studs. Square it up and see what the gap is when you feel the booster gently bottom out on the booster push rod. It should be roughly about .030 or the thickness of 2 typical business cards. If it is more, you run the risk of pushing in the booster push rod and moving the cup seals past the ports. That can make it very difficult to bleed the system.
+
+If it is less, you are adding pedal travel unnecessarily. The end of the push rod is adjustable. Grab the splined area below the hex with some needle nose vise-grips and turn the hex with a 7mm nut driver.
+
+Once adjusted, reinstall the vacuum seal and finish the install.
+
+This method has worked for us every single time without fail. No other way has been this effective.
+
+## brake bleeding process
+
+https://wranglertjforum.com/threads/brake-bleeding-problem.79343/post-1567874
+
+For the TL,DR crowd, our method is below in bold if you want to skip the rest of the drivel.
+
+Pumping the pedal on modern masters aerates the fluid. The more you pump, the more tiny bubbles you get in the fluid. That is bad and good. Bad because fluid shouldn't have tiny air bubbles in it, good because you can use that to tell when you have fluid from the master at each corner when you do a flush. When you see the tiny bubbles in the clear hose. Go to the next corner.
+My method that we use is what works for us, every single time. Others do it lots of different ways, I've tried most of them and I'm not able to make them work as well as a good 2 person manual bleed. They doesn't mean they don't work or aren't successful for others, I just can't make any of them work every time.
+
+The problem with vacuum bleeders is sealing the straight threads of the bleeder screw at each wheel cylinder.
+The problem with speed bleeders is you can't tell if you have a problem because you aren't able to see the flow and rate at each corner.
+The problem with pressure bleeders is you can't always get enough pressure to induce the turbulence needed to get the crap out of the piston bores.
+The problem with reverse pressure bleeding is you can push the crap that is in the piston bores up into the combo valve and master bore.
+
+Here is ours again-
+
+Cap off of the master and I flip it upside down and lay it back over the opening to slow down a splash that can happen. If the cap isn't off or loosened, a fast drop in reservoir level can produce a vacuum which makes the bleeding process harder. While the cap is vented, it is a very small vent designed to allow the pressure in the reservoir to equalize to atmospheric without leaking fluid. In case you ever wondered why some of the caps look the way they do.
+
+1718886639660.png
+
+Fluid level full in the master reservoir.
+
+Engine off, key on to power up the dash, parking brake off. You need to know if the brake light is tripping which indicates a shifted shuttle valve.
+
+The valve moves when the pressure is too high on one side. The low pressure side is being closed off or mostly closed off to prevent loss of fluid in the event of a leak. Good safety feature, terrible for brake bleeding. While we do use a lock out tool that replaces the switch in the combo valve to stop the shuttle from moving, we bled 100's of rigs before that and always managed to get it done easily. In fact, I kinda like not using one because that tells me the system is functioning, the valve will move when needed, and the circuit is good so it will work when it should. Roughly around 03-04, they changed something about the switch. Before then, we never had a single instance of the valve shifting during bleeding. After that, we get some rigs that had to have the dash light reset at every pedal push.
+
+What put us onto looking for a better way or to bleed with the key on was I could hear the valve in the combo block clicking as it shifted.
+
+I use a bottle to collect the fluid and a clear hose on the bleed screw. The hose end in the bottle does not have to be under fluid. That is an old wive's tale. If you want to verify why, simply open a bleeder and watch what happens. Fluid will run out which means air is not going in and again, we still have the issue of not being able to seal straight threads at the bleed screw so even if the requirement was to have the hose in fluid to stop air from going into the caliper, it would still get in around the threads, it doesn't. Even if it did, the bleeder is the high point, fluid would push the air up to the bleeder inside the caliper and it would leave at the next bleed cycle exactly as designed.
+
+If you are not having the helper push the pedal down enthusiastically enough that you have to hold the hose on the bleed screw, then they need to do so with some more enthusiasm. A pedal push down should squirt fluid out of the bleeder and across the floor 3-5 feet if you didn't have the hose in place.
+
+1- you open bleed screw with as wide a swing as possible
+2- helper pushes pedal to the floor and holds it at the bottom
+3- close bleed screw and tell the helper to let the pedal up.
+
+Repeat 5-7 times per corner.
+
+I start with a gravity bleed. (remember the hose in fluid silliness?) When I have fluid dripping out of the bleeder at each corner, I know I can start the manual bleed. You can also use the gravity bleed to diagnose. If you open the bleeder on a full system and fluid doesn't come out after enough time that it should have, there is a problem.
+
+The tiny bubbles in the fluid will coalesce after some time. A bleed the next day of 1-2 pumps per corner typically gets rid of them. If you do more pumps, you are putting more bubbles in the fluid. Granted, they will work their way back up into the reservoir or corner eventually but we don't need that if we don't have to.
+
+If you have a problem that indicates there is air in the system, stop and find the problem. More bleeding isn't going to fix it. More bleeding just wastes time and fluid and will not ever solve a problem. Bleeding just gets air out of the system and if the above method doesn't do that, then the problem will not be fixed, found, or solved by doing more of it.
+
+Last bit of annoyance I deal with frequently has to do with bench bleeding masters. If you could do it in the vehicle, it wouldn't be called bench bleeding. ;)
