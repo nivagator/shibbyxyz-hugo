@@ -19,7 +19,7 @@ Radiator | CSF 3244 | Amazon
 Water Pump Inlet Tube | Dorman 56398 | Amazon
 Rear Main Seal | Fel-Pro BS 40183 | 
 Skid Nutserts | BMB | BMB
-fan clutch | USMW | Home Depot
+fan clutch | USMW 25561 | Home Depot
 
 ## JJ Service record
 Date | Mileage | Joint | Lube | Notes
@@ -29,6 +29,8 @@ Date | Mileage | Joint | Lube | Notes
 2022-10-15 | 136,500mi | Front UCA | Redline CV-2 |
 2023-04-29 | 137,925mi | Rear UCA | Redline CV-2 |
 2023-10-07 | 139,282mi | Rear LCA | Redline CV-2 | 
+2024-06-17 | 141,513mi | Front LCA | Redline CV-2 |
+2024-06-19 | 141,513mi | Rear LCA | Redline CV-2 | 
 
 ## Driveshaft Service Record 
 Date | Mileage | Shaft | Task | Notes
@@ -156,8 +158,9 @@ Date | Mileage | | Part | Brand/No. | Retailer
 2023-10-11 | 139,321 | [074](../../build-thread/074) | O2 Sensor| NTK 23132 B1S2 | Rock Auto
 2023-10-11 | 139,321 | [074](../../build-thread/074) | O2 Sensor| NTK 23135 B2S1 | Rock Auto
 2023-10-11 | 139,321 | [074](../../build-thread/074) | O2 Sensor| NTK 23531 B2S2 | Rock Auto
+2023-10-12 |         | [074](../../build-thread/074) | H4 Bulbs | Hella H4 100/80w | Amazon
 2023-10-26 | 139,961 | [077](../../build-thread/077) | cruise control | factory | ebay
-2023-11-02 | 139,961 | [077](../../build-thread/077) | Battery | Super Start AGM Platinum Marine G34 | O'Reilly 
+2023-11-02 | 139,961 | [077](../../build-thread/077) | Battery | Super Start AGM Plat Marine G34 | O'Reilly 
 2024-06-03 |         | [077](../../build-thread/077) | Hood Footman Loop | Crown 55176422K | Amazon
 2024-06-15 |         | [077](../../build-thread/077) | soft top strap | strapworks | strapworks
 2024-06-15 |         | [077](../../build-thread/077) | Subwoofer | Kicker 48CWRT674 | Crutchfield
