@@ -547,6 +547,11 @@ Drilling a hole into the thermostat's flange like shown below and positioning th
 
 [Fan Clutch Removal](https://wranglertjforum.com/threads/fan-clutch-removal-which-direction.21835/post-353913)
 
+To remove fan:  
+![fan off](../img/fan-clutch-off.jpg)  
+To install fan:  
+![fan on](../img/fan-clutch-on.jpg)
+
 US Motor Works 22160 fan clutch
 
 [constant tension clamps](https://wranglertjforum.com/threads/part-numbers-and-resources-for-constant-tension-hose-clamps.28271/)  
