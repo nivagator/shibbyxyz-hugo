@@ -19,7 +19,6 @@ Radiator | CSF 3244 | Amazon
 Water Pump Inlet Tube | Dorman 56398 | Amazon
 Rear Main Seal | Fel-Pro BS 40183 | 
 Skid Nutserts | BMB | BMB
-fan clutch | USMW 25561 | Home Depot
 
 ## JJ Service record
 Date | Mileage | Joint | Lube | Notes
@@ -164,3 +163,4 @@ Date | Mileage | | Part | Brand/No. | Retailer
 2024-06-03 |         | [077](../../build-thread/077) | Hood Footman Loop | Crown 55176422K | Amazon
 2024-06-15 |         | [077](../../build-thread/077) | soft top strap | strapworks | strapworks
 2024-06-15 |         | [077](../../build-thread/077) | Subwoofer | Kicker 48CWRT674 | Crutchfield
+2024-06-28 | 141,710 | | fan clutch | USMW 25561 | Home Depot

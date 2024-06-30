@@ -158,6 +158,7 @@ tags: ['jeep']
 - [Kicker Sub](#subwoofer-wiring-examples) install | 2024-06-15 | [077](/build-thread/077)
 - [service front LCA johnny joints](#service-johnny-joints) | 2024-06-17 @ 141,513mi
 - [service rear LCA johnny joints](#service-johnny-joints) | 2024-06-19 @ 141,513mi
+- [replace fan clutch usmw 25516](#cooling-system) | 2024-06-28 @ 141,710 
 ---
 
 ## reference  
