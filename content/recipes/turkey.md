@@ -1,6 +1,7 @@
 ---
 title: "Smoked Turkey"
 date: 2023-12-17T10:49:38-06:00
+tags: ['recipes', 'grilling', 'weber', 'smoker']
 ---
 
 ### **Weber 2-zone: Cooking the Ultimate Turkey on a Grill**   
