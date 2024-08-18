@@ -10,3 +10,4 @@ tags: ['house']
 Date | Brand
 ---|---
 2023-10-17 | HDX FPR10 Black 
+2024-07-13 | HDX FPR10 Black 
