@@ -59,7 +59,6 @@ tags: ['jeep']
 - [speedo correction](#speedo-correction)
 - [new exhaust](#new-exhaust)
 - [flat tow](#flat-tow)
-- [re-cover steering wheel](#steering-wheel)
 - [separate subwoofer unit?](#subwoofer-unit)
 - [trailer?](https://doubleztrailers.wixsite.com/zztrailers/copy-of-5-6-7-wide-sa-enclosed)
 - [fox shocks](#fox-shocks)
@@ -159,8 +158,9 @@ tags: ['jeep']
 - [service front LCA johnny joints](#service-johnny-joints) | 2024-06-17 @ 141,513mi
 - [service rear LCA johnny joints](#service-johnny-joints) | 2024-06-19 @ 141,513mi
 - [replace fan clutch usmw 25516](#cooling-system) | 2024-06-28 @ 141,710 
-- doors off mirors | 2024-07-12
-- Steering Wheel | 2024-08-17 https://wranglertjforum.com/threads/nashville-tjs-build-continued.42035/post-1379692
+- doors off mirrors | 2024-07-12
+- [Steering Wheel](#steering-wheel) | 2024-08-17 | [079](/build-thread/079)
+- [142,000mi](../img/142000.jpg) | 2024-08-25
 ---
 
 ## reference  
@@ -1329,7 +1329,8 @@ https://www.amazon.com/gp/product/B074RNF79R/?tag=wranglerorg-20
 
 ## steering wheel
 [Jeep TJ Steering Wheel Upgrade - Project TJ - Ep. 28 - YouTube](https://www.youtube.com/watch?v=Sqi9jQV04X0)
-[Craft Customs: Steering Wheel Restoration and Customization](https://craftcustoms.com/)
+[Craft Customs: Steering Wheel Restoration and Customization](https://craftcustoms.com/)  
+[NashvilleTJ Wheel Wrap](https://wranglertjforum.com/threads/nashville-tjs-build-continued.42035/post-1379692)  
 
 ## 5 tire rotation
 ![5 tire rotation](../img/5tire-rotation.jpg)
@@ -1446,3 +1447,10 @@ The tiny bubbles in the fluid will coalesce after some time. A bleed the next da
 If you have a problem that indicates there is air in the system, stop and find the problem. More bleeding isn't going to fix it. More bleeding just wastes time and fluid and will not ever solve a problem. Bleeding just gets air out of the system and if the above method doesn't do that, then the problem will not be fixed, found, or solved by doing more of it.
 
 Last bit of annoyance I deal with frequently has to do with bench bleeding masters. If you could do it in the vehicle, it wouldn't be called bench bleeding. ;)
+
+## doors off mirrors
+[amazon motorcycle mirrors](https://www.amazon.com/dp/B07FCCJR87/)  
+[jjvw pics in traffic](https://wranglertjforum.com/threads/daily-driver-go-where-i-want-to-build.9410/post-1553461)  
+[jjwv install](https://wranglertjforum.com/threads/daily-driver-go-where-i-want-to-build.9410/post-1553454)  
+[jjvw product](https://wranglertjforum.com/threads/daily-driver-go-where-i-want-to-build.9410/post-1553442)  
+[JMT install](https://wranglertjforum.com/threads/05-flame-red-tj-build.3998/post-1550606)
