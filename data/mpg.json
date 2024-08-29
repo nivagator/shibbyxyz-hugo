@@ -98,6 +98,22 @@
             "price": "2.999",
             "odo": "141681",
             "notes": "wheeling in bridgeport"
+        },{
+            "date": "2024-07-23",
+            "gallons": "16.793",
+            "gpsmiles": "179.2",
+            "trip": "172.3",
+            "price": "2.959",
+            "odo": "141853"
+        },{
+            "date": "2024-08-28",
+            "gallons": "16.410",
+            "gpsmiles": "187.2",
+            "trip": "180",
+            "price": "2.729",
+            "odo": "142033"
         }
     ]
 }
+
+
