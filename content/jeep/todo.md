@@ -202,6 +202,9 @@ Bank 2 Sensor 1 =Yellow
 Bank 2 Sensor 2 =Green  
 ![o2 locations](../img/02sensors-02.png)  
 
+https://wranglertjforum.com/threads/daily-driver-go-where-i-want-to-build.9410/post-1609948
+Fuel trim strategy with narrow band sensors is for the PCM to constantly oscillate between rich and lean, so the sensors make wide swings from just above 0V to about 1V constantly. This is for the upstream sensors. The downstream sensors aren't used in fuel trim strategy - only for emissions checks (making sure the cats are working).
+
 ## axle ujoints
 spicer 5-760x  
 [Article: Axle U-Joints & unit bearings](/jeep/axle-ujoints-hubs)  
