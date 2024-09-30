@@ -5,14 +5,15 @@ date: 2023-06-19T17:30:39-05:00
 
 ## Pouches
 
-Magpul Daka Organizer  
-Magpul Daka Window Pouch  
-Magpul Daka Lite Pouch  
-Goruck Wire Dopp  
-Goruck Shadow Pocket  
-Evergoods CAP 1  
-Klein Tools Ballistic Pouch  
-Maxpedition Mini Pocket Organizer  
+Magpul Daka Organizer x3  
+Magpul Daka Large Organizer  
+Magpul Daka Window Pouch    
+Magpul Daka Lite Pouch    
+Goruck Wire Dopp small   
+Goruck Wire Dopp   
+Goruck Shadow Pocket x3 (sm/md)   
+Klein Tools Ballistic Pouch    
+Maxpedition Mini Pocket Organizer    
 
 ## Loadouts 
 
