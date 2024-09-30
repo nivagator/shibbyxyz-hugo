@@ -23,7 +23,7 @@ EDC stuff. Bags, knives, pouches, patches.
 - loved the feel of the fabric, but in the speed grey, it was almost shiny 
 - the electric blue was fantastic on the inside
 
-**GORUCK Rucker 4.0 20L Armor Grey + Black + Orange MiV** ([2023](https://web.archive.org/web/20231107032230/https://www.goruck.com/products/rucker?variant=42378557096036))  
+**[GORUCK Rucker](./rucker) 4.0 20L Armor Grey + Black + Orange MiV** ([2023](https://web.archive.org/web/20231107032230/https://www.goruck.com/products/rucker?variant=42378557096036))  
 1000D, 210D HT Back Panel & Shoulder Strap Underside, 10MM EVA Foam Lumbar Padding
 - 4 padded handles: top, bottom, and both sides
 - 2 interior Ruck Plate Pockets, one “Standard” size, one “Long” size
