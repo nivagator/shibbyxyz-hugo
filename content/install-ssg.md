@@ -27,6 +27,7 @@ $ pacman -S cpio
 $ yay -S lowdown
 ```
 ###### using markdown's ```
+{{<rawhtml>}} 
 <pre><code><strong>mkdir -p bin</strong>  
 <strong>wget -O bin/ssg6 https://rgz.ee/bin/ssg6</strong>  
 --2021-07-30 15:08:37--  https://rgz.ee/bin/ssg6
@@ -41,4 +42,5 @@ Saving to: ‘/home/gavin/bin/ssg6’
 2021-07-30 15:08:41 (2.48 KB/s) - ‘/home/gavin/bin/ssg6’ saved [5717/5717]
 <strong>chmod +x bin/ssg6</strong>
 </code></pre>
+{{</rawhtml>}} 
 ###### using pre and code tags

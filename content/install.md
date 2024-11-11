@@ -305,7 +305,6 @@ $ systemctl reboot
   - do not remember window size  
   - import profile   
     - location: `~/.local/share/konsole/`  
-    <!-- - $ `cp share/unraid/files/salient/Salient\ OS.profile ~/.local/share/konsole/`   -->
   - import colors  
     - /usr/share/konsole/  
     - `sudo cp share/unraid/files/salient/Salient\ OS.colorscheme /usr/share/konsole/`  
