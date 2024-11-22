@@ -16,3 +16,7 @@ theme: 'lugo'
 #         weight: -109
 #     # -   name: hardware
 #     #     url: https://shibby.xyz/setup.html
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
