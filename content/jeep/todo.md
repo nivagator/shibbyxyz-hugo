@@ -1457,3 +1457,11 @@ Last bit of annoyance I deal with frequently has to do with bench bleeding maste
 [jjwv install](https://wranglertjforum.com/threads/daily-driver-go-where-i-want-to-build.9410/post-1553454)  
 [jjvw product](https://wranglertjforum.com/threads/daily-driver-go-where-i-want-to-build.9410/post-1553442)  
 [JMT install](https://wranglertjforum.com/threads/05-flame-red-tj-build.3998/post-1550606)
+
+## paint match 
+
+https://wranglertjforum.com/threads/krew-hangout.18137/post-1616325  
+
+I ended up going through www.automotivetouchup.com and bought a few cans of spray paint in the oem Electric Lime Green, scuffed/sanded the corners and rock sliders myself with a DA orbital and sprayed them in the garage, turned out better than I was expecting. Not as “smooth/glossy” as the original paint but a very good color match. I’m sure I could wet sand/clear coat them and they’d get even better.  
+
+Still need to pull the front fenders off, scuff them up and then spray with the same paint to get them to match better.  
