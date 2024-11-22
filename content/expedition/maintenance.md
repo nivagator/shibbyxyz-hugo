@@ -30,6 +30,7 @@ Date | Mileage | Part | Brand/No. | Retailer
 2023-06-16 | 98,250 | front rotors | Centric 120.65119 | Amazon
 2023-11-01 | | replacement step motor | | Ebay
 2023-11-25 | 105,813 | front wiper blades | Bosch Microedge 40722A | Autozone
+2024-11-21 | 120,680 | 3167 rear light bulb |
 
 ### Parts on hand
 Part | Brand/No. | Retailer
