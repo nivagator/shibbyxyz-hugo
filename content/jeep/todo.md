@@ -25,7 +25,7 @@ tags: ['jeep']
 ---
 
 ## Todo List 
-- [tire rotation](#5-tire-rotation) at 143,000
+- [tire rotation](#5-tire-rotation) at 147,000
 - [oil change](#engine-oil) at 144,086mi or March 2024
 - [35s](../35s)
 - paint BL gap
@@ -157,10 +157,11 @@ tags: ['jeep']
 - [Kicker Sub](#subwoofer-wiring-examples) install | 2024-06-15 | [077](/build-thread/077)
 - [service front LCA johnny joints](#service-johnny-joints) | 2024-06-17 @ 141,513mi
 - [service rear LCA johnny joints](#service-johnny-joints) | 2024-06-19 @ 141,513mi
-- [replace fan clutch usmw 25516](#cooling-system) | 2024-06-28 @ 141,710 
+- [replace fan clutch usmw 25516](#cooling-system) | 2024-06-28 @ 141,710mi 
 - doors off mirrors | 2024-07-12
 - [Steering Wheel](#steering-wheel) | 2024-08-17 | [079](/build-thread/079)
 - [142,000mi](../img/142000.jpg) | 2024-08-25
+- [tire rotation](#5-tire-rotation) | 2024-11-29 @ 147,000mi
 ---
 
 ## reference  
