@@ -161,6 +161,8 @@ tags: ['jeep']
 - doors off mirrors | 2024-07-12
 - [Steering Wheel](#steering-wheel) | 2024-08-17 | [079](/build-thread/079)
 - [142,000mi](../img/142000.jpg) | 2024-08-25
+- [replace seat foam](#seat-foam) | 2024-09-21 
+- [install seat heaters](#seat-heaters) | 2024-09-21 
 - [tire rotation](#5-tire-rotation) | 2024-11-29 @ 147,000mi
 ---
 
