@@ -55,7 +55,7 @@ Date | Milage | Task | Notes
 ---|---|---|---
 2022-02-09 | 134,500 | Original Install | Discount Tire
 2023-06-07 | 138,182 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
-2023-02-26 | 140,818 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
+2024-02-26 | 140,818 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
 2024-11-29 | 143,870 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
 
 ## Mileage

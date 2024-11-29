@@ -151,6 +151,7 @@ tags: ['jeep']
 - cruise control installed | 2023-10-26 @ 139,850mi | [077](/build-thread/077)
 - [new AGM battery](#battery) | 2023-11-02 @ 139,961mi | [077](/build-thread/077)
 - [140,000mi](../img/140000.jpg) | 2023-11-06
+- [rotate tires](#5-tire-rotation) | 2024-02-26 @ 140,818
 - [141,000mi](../img/141000.jpg) | 2024-04-05
 - replaced hood footman loop Crown 55176422K | 2024-06-03 | [077](/build-thread/077)
 - [soft top tension straps](#soft-top-tension-straps) | 2024-06-15 | [077](/build-thread/077)
@@ -163,7 +164,7 @@ tags: ['jeep']
 - [142,000mi](../img/142000.jpg) | 2024-08-25
 - [replace seat foam](#seat-foam) | 2024-09-21 
 - [install seat heaters](#seat-heaters) | 2024-09-21 
-- [tire rotation](#5-tire-rotation) | 2024-11-29 @ 147,000mi
+- [rotate tires](#5-tire-rotation) | 2024-11-29 @ 147,000mi
 ---
 
 ## reference  
