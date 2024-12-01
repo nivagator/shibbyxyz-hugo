@@ -4,6 +4,7 @@
             <th style="text-align: left;">Date</th>
             <th style="text-align: center;">Miles (GPS)</th>
             <th style="text-align: center;">Gallons</th>
+            <th stule="text-align: center;">$PG</th>
             <th style="text-align: center;">MPG</th>
             <th style="text-align: center;">Odo</th>
         </tr>
@@ -18,6 +19,7 @@
             <td>{{.date}}</td>
             <td style="text-align: right;">{{.gpsmiles}}</td>
             <td style="text-align: right;">{{.gallons}}</td>
+            <td style="text-align: right;">{{.price}}</td>
             <td style="text-align: right;">{{ div (math.Round (mul (div (float .gpsmiles) (float .gallons)) 10)) 10 }}</td>
             <td style="text-align: right;">{{.odo}}</td>
         </tr>
@@ -26,6 +28,7 @@
             <td>Total</td>
             <td style="text-align: right;">{{ div (math.Round (mul ($totals.Get "tm") 10)) 10 }}</td>
             <td style="text-align: right;">{{ div (math.Round (mul ($totals.Get "tg") 100)) 100 }}</td>
+            <td style="text-align: right;"></td>
             <td style="text-align: right;">{{ div (math.Round (mul (div ($totals.Get "tm") ($totals.Get "tg")) 10)) 10 }}</td>
             <td></td>
         </tr>

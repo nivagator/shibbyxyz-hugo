@@ -33,7 +33,7 @@ Date | Mileage | Joint | Lube | Notes
 
 ## Driveshaft Service Record 
 Date | Mileage | Shaft | Task | Notes
----|---|---|---|---s
+---|---|---|---|---
 2022-09-06 | 136,002 | front | rebuild front driveshaft | all joints and centering ball, parts from denny's driveshaft 
 2023-07-17 | 137,280 | front | replace axel end joint | Spicer 5-793x from amazon
 
