@@ -39,3 +39,7 @@ draft: true
 
 
 [Hat Club Texas Rangers](https://www.hatclub.com/collections/texas-rangers)
+
+
+- [DALLAS MAVERICKS NEW ERA WHITE HORSEHEAD FITTED CAP size 7 3/8](https://mavsshop.com/collections/headwear/products/dm-ne23-m-5950satin-e3?_pos=5&_fid=beba7343e&_ss=c&variant=40151137222719)
+- [DALLAS MAVERICKS NEW ERA HORSEHEAD RETRO FITTED CAP 7 3/8](https://mavsshop.com/collections/headwear/products/dm-ne22-5950-hh-retro-fit-cap?_pos=9&_fid=beba7343e&_ss=c&variant=39983897575487)
