@@ -16,5 +16,6 @@ date: 2024-11-14T08:35:53-06:00
 - [goodr sunglasses](https://www.amazon.com/dp/B0D8RD1ZQD/)
 - [lumintop AA flashlight](https://www.amazon.com/dp/B07BLTP9ZD/)
 - [hammock](https://www.myhammock.com/shop/specials/top-sellers/deluxe-extra-large-polyester-rope-hammock-taupe/)
+- [Nike Hoodie | Medium Burgundy Crush](https://www.dickssportinggoods.com/p/nike-mens-sportswear-club-fleece-hoodie-19nikmmnswclbhdpbnft/19nikmmnswclbhdpbnft?recid=DS_OrderConfirmation_frequently-bought-together-high-diversity_2)
 
 [amazon wishlist](https://www.amazon.com/hz/wishlist/ls/1FSN6DCLSY1S4)
