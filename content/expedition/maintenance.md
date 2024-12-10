@@ -92,3 +92,7 @@ Fuel tank | 28.0 gal (106 L)
 
 ## power running board
 ![power running board diagram](../img/power-step-diagram.jpg)
+
+# P0430
+https://www.troublecodes.net/pcodes/p0430/
+bank 2

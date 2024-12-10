@@ -14,3 +14,6 @@ date: 2022-10-03T12:22:17-05:00
 - Valve Train: DOHC 24v
 - Fuel Injection: Direct
 - Curb Weight	5,789 lbs
+
+## ecoboost firing order 
+![alt text](image.png)
