@@ -93,6 +93,28 @@ Fuel tank | 28.0 gal (106 L)
 ## power running board
 ![power running board diagram](../img/power-step-diagram.jpg)
 
-# P0430
+## P0430
 https://www.troublecodes.net/pcodes/p0430/
 bank 2
+
+## emissions
+https://ford.oempartsonline.com/v-2016-ford-expedition--platinum--3-5l-v6-gas/exhaust--exhaust-components
+
+![alt text](image-1.png)
+
+#1 Catalytic Converter | Converter & Pipe, Right
+FL1Z-5E212-C
+
+#2 Catalytic Converter | Converter & Pipe, Left
+FL1Z-5E212-A
+
+![alt text](image-2.png)
+
+#14 Ft Oxygen Sensor, Left 8F9Z9F472G
+8F9Z-9F472-G
+
+#14 Ft Oxygen Sensor, Right 8F9Z9F472H
+8F9Z-9F472-H
+
+#15 Rear Oxygen Sensor, Left FL1Z9G444A 
+FL1Z-9G444-A
