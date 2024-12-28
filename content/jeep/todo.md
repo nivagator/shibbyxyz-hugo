@@ -165,6 +165,7 @@ tags: ['jeep']
 - [replace seat foam](#seat-foam) | 2024-09-21 
 - [install seat heaters](#seat-heaters) | 2024-09-21 
 - [rotate tires](#5-tire-rotation) | 2024-11-29 @ 147,000mi
+- [143,000mi](../img/143000.jpg) | 2024-12-19
 ---
 
 ## reference  
