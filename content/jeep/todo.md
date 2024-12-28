@@ -7,21 +7,20 @@ tags: ['jeep']
 # 2004 Jeep TJ Wrangler Rubicon 
 
 ## up next
+- [fuel pump](#fuel-pump), long crank when cold, loss of pressure when off
+- [replace clutch](#clutch)
+- [speedo correction](#speedo-correction)
+- [new soft top](#new-soft-top)
+- [regear to 4.88](#regear)
 - [ball joints](#ball-joints)
 - [front brakes](#front-brakes)
 - [flush brake fluid](#flush-brake-fluid)  
 - [aftermarket swaybar - swayloc or antirock](#aftermarket-sway-bar)
-- [regear to 4.88](#regear)
-- [new soft top](#new-soft-top)
-- [replace clutch](#clutch)
-- [fuel pump](#fuel-pump), long crank when cold
-- [fuel injectors](#fuel-injectors) or just o-rings?
+- [fuel injectors](#fuel-injectors) or just o- ings?
 - [rms](#rms)
 - [electrical cables](#electrical-cables)
 - [service UCA johnny joints](#service-johnny-joints)
 - service front track bar
-- [seat foam](#seat-foam)
-- [seat heaters](#seat-heaters)
 ---
 
 ## Todo List 
@@ -56,7 +55,6 @@ tags: ['jeep']
 - [arb air lockers](#arb-air-lockers)
 - [on board air](#on-board-air)
 - tailgate table
-- [speedo correction](#speedo-correction)
 - [new exhaust](#new-exhaust)
 - [flat tow](#flat-tow)
 - [separate subwoofer unit?](#subwoofer-unit)
@@ -1355,6 +1353,42 @@ The Bosch 69316 comes with nothing else but the fuel pump module itself, it does
 [rockauto DELPHI FG1221 complete pump assebly](https://www.rockauto.com/en/moreinfo.php?pk=5929095&cc=1425901&pt=10147&jsn=790)
 
 [WTJF: pump ring installation](https://wranglertjforum.com/threads/fuel-pump-locking-ring.68255/)
+
+[WTJF: replace pump without replacing the whole assembly](https://wranglertjforum.com/threads/how-to-replace-your-fuel-pump-without-replacing-the-whole-assembly.58080/) 
+
+PROCEDURE
+
+Step 1: Grab your hammer and wood and use both to loosen the retaining ring holding the pump in the tank by placing the edge of your wood piece on a tab on the ring and hit it with the hammer (righty tighty, lefty loosey). It might take a bit, mine was on pretty tight, but keep at it and don't use something with a sharp metal edge, or you'll break/damage the ring.
+
+Step 2: Remove the assembly from the tank. The assembly will have gas in it so make sure to pour it over the tank to drain it. Be careful to make sure you don't break the sending unit float. Remove the bottom filter (it just pulls off)
+
+Step 3: Disconnect the sending unit (circled in red below). There's a small tab holding the connector on. Do not bend it too much, its delicate.
+
+![alt text](../img/fuel_pump.png)
+
+Step 4: You've probably noticed at this point that the top plastic portion is spring loaded on the aluminum housing. This is held in by three tabs (circled in green). carefully push the three tabs in past the retaining indents in the aluminum canister to free the plastic top piece. At this point, it's not totally free. take one of your screw drivers and CAREFULLY pry the tab for the fuel pump connector and CAREFULLY pull it out.
+
+I say carefully in all caps, because the wires for the fuel pump are most likely very rigid from years of being soaked in gas. If you're not careful, you could break the wires and now you're buying the whole assembly
+
+Step 5: Set the plastic top aside and remove the spring that sits between the fuel pump feed tube and the plastic top. try to pull out this tube as well, noting which side faces up and which is down
+
+Step 6: This is where it gets a little tricky. You can probably clearly see the fuel pump now and if you reach your hand inside the housing and grab it, it probably doesn't come loose. this is because the fuel pump is secured to a secondary filter in the bottom of the housing (you can probably see it, it's the small rectangular piece at the bottom) which is snapped into the housing. What ended up working for me, was flipping the housing upside down so the fuel pump was hanging in it an hitting it on the block of wood on the ground (not too hard, you're just trying to "shock" the fuel pump out of the housing, think about smacking the bottom of the ketchup bottle and that's about how much force you want to use).
+
+With any luck, the pump has liberated itself from the housing! Make sure if a rubber washer and metal washer fall out, you keep track of them, they will be going back in.
+
+Step 7: Now it's just doing everything in reverse. Assemble the smaller filter and rubber grommet on the bottom of your new fuel pump. you may need to remove/reuse the small retaining ring from the old fuel pump. Pry it off with two flathead screw drivers and use the hammer to flatten the barbs back down for reuse. Make sure you install the new plastic spacer on the new pump and make sure you have it on the right way.
+
+Step 8: Now install the new fuel pump. First make sure the two washers go in; rubber first then metal. If you're having trouble here, grab a piece of wire or a straw or something skinny and long, put the washers on the wire (I used a piece of tig filler wire) and slide them down the wire into the little area in the bottom where they sit. Set the fuel pump assembly in place carefully, and using your fingers or a long, blunt edged tool and press it in. You'll know when its "in" by holding the whole assembly upside down without the pump falling out (like the dairy queen thing)
+
+Step 9: Now back to the plastic top. Using one or both of your flathead screw drivers, pry back the tabs on the housing releasing the retaining clip for the fuel pressure regulator (circled in blue above). Carefully remove the old one (might need to pry a little with a screw driver or plastic trim removal tool). Remove the fuel line locking tabs from the old regulator and put it on the new one. Install the new regulator (may need to use some gas to lubricate the seals) and reinstall the retaining clip.
+
+Step 10: Reinstall the fuel feed tube on the new fuel pump, noting which side goes up. CAREFULLY re-connect the fuel pump electrical connector. Yu may need to use the edge of your screw drier to press it in so the retaining tab "clicks" in. Reinstall the spring on the tube and then slide on the plastic housing and make sure the three retaining tabs "click" past the indents in the aluminum housing. Reconnect the sending unit. Install the new external filter on the bottom of the housing.
+
+Step 11: Remove the old gasket from the fuel tank if you haven't already, and install the new one. Lube the inner area up with some gasoline and carefully set your newly refurbished pump/sending unit assembly in. This may take some finessing since that new gasket will be tight.
+
+Step 12: Reinstall the plastic retainer ring (again, rightey tightey, lefty loosey); use hammer and wood block as needed.
+
+Presto chango, you just installed a new pump and regulator without buying a whole new assembly. Go drink a beer and put your fuel tank back in the jeep!
 
 ## soft top tension straps
 https://wranglertjforum.com/threads/soft-top-frame-repair-top-suggestions.78294/post-1539556  
