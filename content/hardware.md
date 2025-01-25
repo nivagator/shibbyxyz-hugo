@@ -31,14 +31,35 @@ endeavor os
 ryzen 7 3700x  
 asus b450-f gaming  
 gskill trident-z 3600 cl16 64gb (2x32)  
-asus gtx 1650 super  
 nvidia quadro p400  
 lsi 9211-8i hba  
+intel i350-t4 nic
 fractal define 7  
 70tb raw storage  
 unraid 6  
 
+**nova**  
+lenovo m720q tiny  
+i5-8500T  
+16GB  
+intel i350-t4 nic  
+proxmox ve  
+
+**ceres**  
+lenovo m720q tiny  
+i5-8400T  
+16GB   
+proxmox ve  
+
+**eris**  
+odroid h4+  
+32gb ram  
+1tb ssd  
+30TB raw storage, zfs mirror vdevs  
+proxmox ve  
+
 **nebula**  
+**retired as of 2025-01**  
 Xeon E3-1245 V2  
 supermicro X9SCM-F  
 16gb DDR3 ECC  
