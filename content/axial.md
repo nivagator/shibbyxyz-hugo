@@ -63,6 +63,7 @@ stock weight: 231g
 + steering links: 251g (+6g)
 + emax servo and mount: 259 (+8g)
 + knuckles: 273 (+14g)
++ injora 39m shock swap: 309 (+36g)
 
 ## 1. diff covers
 body removed
