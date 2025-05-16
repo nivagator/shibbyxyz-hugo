@@ -35,7 +35,7 @@ Date | Mileage | Joint | Lube | Notes
 Date | Mileage | Shaft | Task | Notes
 ---|---|---|---|---
 2022-09-06 | 136,002 | front | rebuild front driveshaft | all joints and centering ball, parts from denny's driveshaft 
-2023-07-17 | 137,280 | front | replace axel end joint | Spicer 5-793x from amazon
+2023-07-17 | 137,280 | front | replace axle end joint | Spicer 5-793x from amazon
 
 ## Diff service 
 Date | Mileage | Diff | Task | Notes
@@ -56,7 +56,7 @@ Date | Milage | Task | Notes
 2022-02-09 | 134,500 | Original Install | Discount Tire
 2023-06-07 | 138,182 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
 2024-02-26 | 140,818 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
-2024-11-29 | 143,870 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
+2024-11-29 | 142,870 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
 
 ## Mileage
 
@@ -166,3 +166,4 @@ Date | Mileage | | Part | Brand/No. | Retailer
 2024-06-15 |         | [077](../../build-thread/077) | soft top strap | strapworks | strapworks
 2024-06-15 |         | [077](../../build-thread/077) | Subwoofer | Kicker 48CWRT674 | Crutchfield
 2024-06-28 | 141,710 | | fan clutch | USMW 25561 | Home Depot
+2025-05-14 | 143,812 | | ac compressor clutch | UAC CL 1760C | Amazon 

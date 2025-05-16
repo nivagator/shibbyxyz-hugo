@@ -9,7 +9,6 @@ tags: ['jeep']
 ## up next
 - [fuel pump](#fuel-pump), long crank when cold, loss of pressure when off
 - [replace clutch](#clutch)
-- [speedo correction](#speedo-correction)
 - [new soft top](#new-soft-top)
 - [regear to 4.88](#regear)
 - [ball joints](#ball-joints)
@@ -25,17 +24,16 @@ tags: ['jeep']
 
 ## Todo List 
 - [tire rotation](#5-tire-rotation) at 147,000
-- [oil change](#engine-oil) at 144,086mi or March 2024
+- [oil change](#engine-oil) at 144,086mi
 - [35s](../35s)
 - paint BL gap
 - skid nutsert replacement
 - surface rust in drivers footwell
-- [Flip door handles](#flip-door-handles)
 - steering pillow
 - control arm mini-skids
 - [sliders](#sliders)
 - hood dent repair?
-- [rear bumper with hitch receiver](#rear-bumper-with-hitch-receiver)
+- [rear bumper](#rear-bumper-with-hitch-receiver)
 - half doors
 - paint axles?
 - [Tailgate Dome Light Activation Switch](#tailgate-dome-light-activation-switch)
@@ -45,19 +43,17 @@ tags: ['jeep']
 - [241 rear seal](#241-rear-seal-fix)
 - [raise gas skid](#raise-gas-skid)
 - morryde tailgate hinges
-- factory bumper end caps
 - [chromoly axle shafts](#chromoly-axle-shafts)
 - paint front frame suspension mounts
 - [fix blend door](#fix-blend-door)
 - [rear axle seals](#rear-axle-seals)
+- front axle seals
 - [steering skid](#steering-skid)
 - [dead pedal](#dead-pedal)
 - [arb air lockers](#arb-air-lockers)
 - [on board air](#on-board-air)
 - tailgate table
 - [new exhaust](#new-exhaust)
-- [flat tow](#flat-tow)
-- [separate subwoofer unit?](#subwoofer-unit)
 - [trailer?](https://doubleztrailers.wixsite.com/zztrailers/copy-of-5-6-7-wide-sa-enclosed)
 - [fox shocks](#fox-shocks)
 ---
@@ -162,8 +158,10 @@ tags: ['jeep']
 - [142,000mi](../img/142000.jpg) | 2024-08-25
 - [replace seat foam](#seat-foam) | 2024-09-21 
 - [install seat heaters](#seat-heaters) | 2024-09-21 
-- [rotate tires](#5-tire-rotation) | 2024-11-29 @ 147,000mi
+- [rotate tires](#5-tire-rotation) | 2024-11-29 @ 142,870mi
 - [143,000mi](../img/143000.jpg) | 2024-12-19
+- [speedo correction](#speedo-correction) | 2025-03-22 Set @ -4.1%
+- AC compressor clutch replacement | 2025-05-14 @ 143,812mi
 ---
 
 ## reference  
@@ -1236,6 +1234,20 @@ existing compressor is a superflow or masterflow mv-50 and has a Nitto 10mm type
 - [JET AccuSpeed](https://www.4wheelparts.com/p/jet-performance-products-accu-speed-speedometer-calibrator-50110/_/R-BHDL-50110) 
 - [HealTech SpeedoHealer](https://www.polyperformance.com/healtech-speedohealer-jeep-plug-n-play-kit-for-98-06-wrangler-04-06-tj-98-01-cherokee-xj-shv4a-j01)  
 
+### SpeedoDRD J1
+Installed 2025-03-22  
+Set at +4.3% 
+```
+Make sure vehicle ignition switch is ON, and vehicle is NOT running.
+Hold the button for 5 RED blinks then release (you will then be in Percentage Adjustment mode)
+Hold the button until the LED turns GREEN then release (this selects a positive number)
+Hold the button for 10 GREEN blinks then release (this enter's a 0 digit)
+Hold the button for 4 GREEN blinks then release (this enter's a 4 digit)
+Hold the button for 3 GREEN blinks then release (this enter's a .3 digit)
+```
+[Calc page inputs](https://www.12oclocklabs.com/sdrd_calc.php): 73 GPS/70 Speedo
+
+### Jet Accuspeed:
 [mr blaine on install](https://wranglertjforum.com/threads/yellr-speedometer-recalibration-box-on-non-rubicon-model-tj.9438/post-145856)  
 I drill a hole in the firewall right in front of the fuse block behind the dash. Run the wires inside and then I have industrial Velcro I use to stick them right to the metal frame on the bottom of the passenger air bag. Zip it off and adjust it, put it back and it is as protected as it needs to be.  
 
