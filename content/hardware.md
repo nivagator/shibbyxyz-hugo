@@ -18,13 +18,13 @@ endeavour os
 ryzen 5 3600  
 asus b550-f gaming  
 gskill trident-z 3600 cl16 32gb (2x16)  
-evga rtx 3080 ftw3  
+[evga rtx 3080 ftw3](https://www.evga.com/products/specs/gpu.aspx?pn=e5875021-b582-4c3a-831a-e12bdaafe98f)  
 fractal meshify c  
 noctual nh-u12s chromax black  
 logitech g913 tkl  
-logitech g pro wireless  
-steel series arctis 1  
-dell sdg2721dgf  
+logitech g703 lightspeed  
+dell g3223q  
+dell sdg2721dgf   
 endeavor os  
 
 **galaxy**  
@@ -35,8 +35,8 @@ nvidia quadro p400
 lsi 9211-8i hba  
 intel i350-t4 nic
 fractal define 7  
-70tb raw storage  
-unraid 6  
+78tb raw storage  
+unraid 7  
 
 **nova**  
 lenovo m720q tiny  
@@ -57,6 +57,12 @@ odroid h4+
 1tb ssd  
 30TB raw storage, zfs mirror vdevs  
 proxmox ve  
+
+**kuiper**  
+synology ds216j  
+12TB raw, mirror   
+DSM 7   
+back from retirement 2025-05
 
 **nebula**  
 **retired as of 2025-01**  
