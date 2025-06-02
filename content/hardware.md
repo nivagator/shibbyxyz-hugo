@@ -5,14 +5,12 @@ liexclude: true
 ---
 
 ## May 2025
-**hp envy**   
-hp envy x360 13 laptop  
-13" 1080p touchscreen  
-ryzen 7 4700u  
-8gb ram  
-1tb samsung 970 evo plus  
-wifi 6  
-endeavour os  
+ **thinkpad x1 carbon gen 9**
+intel i7-1185g7  
+16gb LPDDR4x-4266  
+512gb M.2 2280 PCIe 4.0 x4  
+16:10 display  
+endeavour os
 
 **tower**  
 ryzen 5 3600  
@@ -36,6 +34,20 @@ intel i350-t4 nic
 fractal define 7  
 78tb raw storage  
 unraid 7  
+
+**hp envy**   
+hp envy x360 13 laptop  
+13" 1080p touchscreen  
+ryzen 7 4700u  
+8gb ram  
+1tb samsung 970 evo plus  
+wifi 6  
+endeavour os 
+
+**kids tower**
+intel i7-4770  
+nvidia rtx 3060ti  
+endeavour os gnome  
 
 **nova**  
 lenovo m720q tiny  
@@ -61,7 +73,7 @@ proxmox ve
 synology ds216j  
 12TB raw, mirror   
 DSM 7   
-back from retirement 2025-05
+back from retirement 2025-05  
 
 **nebula**  
 **retired as of 2025-01**  
