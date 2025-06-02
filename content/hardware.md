@@ -4,7 +4,7 @@ date: 2022-06-21T17:17:39-05:00
 liexclude: true
 ---
 
-## January 2023
+## May 2025
 **hp envy**   
 hp envy x360 13 laptop  
 13" 1080p touchscreen  
@@ -24,7 +24,6 @@ noctual nh-u12s chromax black
 logitech g913 tkl  
 logitech g703 lightspeed  
 dell g3223q  
-dell sdg2721dgf   
 endeavor os  
 
 **galaxy**  
