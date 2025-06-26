@@ -74,6 +74,7 @@ Mileage | date
 [141,000mi](../img/141000.jpg) | 2024-04-05
 [142,000mi](../img/142000.jpg) | 2024-08-25
 [143,000mi](../img/143000.jpg) | 2024-12-19
+[144,000mi](../img/144000.jpg) | 2025-06-14
 
 ![montage](../img/mileagemontage.jpg)
 
