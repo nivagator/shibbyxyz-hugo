@@ -11,6 +11,8 @@ Date | Mileage | Oil | Filter | Miles | Months | Notes
 2021-10-04 | 133,428 | Conv 5w30 STP high mileage | Mopar M0-090 | 
 2023-02-25 | 137,175 | Conv 5w30 STP high mileage | Mopar M0-090 | 3,747 | 16 mo
 2023-09-22 | [139,086](../img/R70107-blackstone-20231018-redacted.webp) | Conv 5w30 STP high mileage | STP S16 | 1,911 | 7 mo | lifter tick
+2025-01-04 | 143,048 | Conv 5w30 STP high mileage | Stp s16 | 3,962 | 16 mo
+? | 147,000 | | | | 
 
 ### Parts on hand
 Part | Brand/No. | Retailer
@@ -57,6 +59,7 @@ Date | Milage | Task | Notes
 2023-06-07 | 138,182 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
 2024-02-26 | 140,818 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
 2024-11-29 | 142,870 | Rotation | [5-tire](../img/5tire-rotation.jpg), at home
+? | 144,800 |
 
 ## Mileage
 
@@ -168,3 +171,4 @@ Date | Mileage | | Part | Brand/No. | Retailer
 2024-06-15 |         | [077](../../build-thread/077) | Subwoofer | Kicker 48CWRT674 | Crutchfield
 2024-06-28 | 141,710 | | fan clutch | USMW 25561 | Home Depot
 2025-05-14 | 143,812 | | ac compressor clutch | UAC CL 1760C | Amazon 
+2025-06-25 |         | | hvac center vents | | Amazon
