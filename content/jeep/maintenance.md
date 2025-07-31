@@ -10,7 +10,7 @@ Date | Mileage | Oil | Filter | Miles | Months | Notes
 ---|---:|---|---|---|---|---
 2021-10-04 | 133,428 | Conv 5w30 STP high mileage | Mopar M0-090 | 
 2023-02-25 | 137,175 | Conv 5w30 STP high mileage | Mopar M0-090 | 3,747 | 16 mo
-2023-09-22 | [139,086](../img/R70107-blackstone-20231018-redacted.webp) | Conv 5w30 STP high mileage | STP S16 | 1,911 | 7 mo | lifter tick
+2023-09-22 | [139,086](../img/R70107-blackstone-20231018-redacted.webp) | Conv 5w30 STP high mileage | STP S16 | 1,911 | 7 mo | lifter tick?
 2025-01-04 | 143,048 | Conv 5w30 STP high mileage | Stp s16 | 3,962 | 16 mo
 ? | 147,000 | | | | 
 
@@ -32,6 +32,8 @@ Date | Mileage | Joint | Lube | Notes
 2023-10-07 | 139,282mi | Rear LCA | Redline CV-2 | 
 2024-06-17 | 141,513mi | Front LCA | Redline CV-2 |
 2024-06-19 | 141,513mi | Rear LCA | Redline CV-2 | 
+2024-07-26 | 144,911mi | Front LCA | Redline CV-2 |
+2022-07-39 | 144,916mi | Front UCA | Redline CV-2 |
 
 ## Driveshaft Service Record 
 Date | Mileage | Shaft | Task | Notes
@@ -78,6 +80,7 @@ Mileage | date
 [142,000mi](../img/142000.jpg) | 2024-08-25
 [143,000mi](../img/143000.jpg) | 2024-12-19
 [144,000mi](../img/144000.jpg) | 2025-06-14
+[145,000mi](../img/145000.jpg) | 2025-07-30
 
 ![montage](../img/mileagemontage.jpg)
 

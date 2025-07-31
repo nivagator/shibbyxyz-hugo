@@ -162,7 +162,11 @@ tags: ['jeep']
 - [143,000mi](../img/143000.jpg) | 2024-12-19
 - [speedo correction](#speedo-correction) | 2025-03-22 Set @ -4.1%
 - AC compressor clutch replacement | 2025-05-14 @ 143,812mi
+- [144,000mi](../img/144000.jpg) | 2025-06-14
 - Replacement center HVAC vents | 2025-06-25
+- [service front LCA johnny joints](#service-johnny-joints) | 2025-07-26 @ 144911
+- [service front UCA johnny joints](#service-johnny-joints) | 2025-07-29 @ 144916
+- [145,000mi](../img/145000.jpg) | 2025-07-30
 ---
 
 ## reference  
