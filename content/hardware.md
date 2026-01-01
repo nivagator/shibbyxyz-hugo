@@ -4,25 +4,29 @@ date: 2022-06-21T17:17:39-05:00
 liexclude: true
 ---
 
-## May 2025
- **thinkpad x1 carbon gen 9**
+## jan 2026   
+**thinkpad x1 carbon gen 9**  
 intel i7-1185g7  
 16gb LPDDR4x-4266  
 512gb M.2 2280 PCIe 4.0 x4  
 16:10 display  
-endeavour os
+endeavour os  
 
 **tower**  
 ryzen 5 3600  
 asus b550-f gaming  
-gskill trident-z 3600 cl16 32gb (2x16)  
-[evga rtx 3080 ftw3](https://www.evga.com/products/specs/gpu.aspx?pn=e5875021-b582-4c3a-831a-e12bdaafe98f)  
-fractal meshify c  
+corsair lpx ddr4 3600 cl18 32gb (4x8)  
+[asrock challenger rx 9070 xt](https://asrock.com/Graphics-Card/AMD/Radeon%20RX%209070%20XT%20Challenger%2016GB/index.asp)  
+fractal meshify c   
 noctual nh-u12s chromax black  
-logitech g913 tkl  
+logitech g915 tkl  
 logitech g703 lightspeed  
+seasonic focus gx-750 gold  
 dell g3223q  
-endeavor os  
+endeavour os  
+*prior gpus*  
+[evga rtx 3080 ftw3](https://www.evga.com/products/specs/gpu.aspx?pn=e5875021-b582-4c3a-831a-e12bdaafe98f)    
+asrock challenger rx 7800 xt  
 
 **galaxy**  
 ryzen 7 3700x  
@@ -30,24 +34,32 @@ asus b450-f gaming
 gskill trident-z 3600 cl16 64gb (2x32)  
 nvidia quadro p400  
 lsi 9211-8i hba  
-intel i350-t4 nic
+intel i350-t4 nic  
 fractal define 7  
 78tb raw storage  
+seasonic focus px-750 platinum  
 unraid 7  
 
 **hp envy**   
 hp envy x360 13 laptop  
 13" 1080p touchscreen  
 ryzen 7 4700u  
-8gb ram  
-1tb samsung 970 evo plus  
+8gb ram    
 wifi 6  
-endeavour os 
+nixos (server)  
 
-**kids tower**
+**kids tower**  
 intel i7-4770  
 nvidia rtx 3060ti  
 endeavour os gnome  
+
+**kids lappy**  
+**thinkpad x1 carbon gen 9**  
+intel i5-1135g7  
+16gb LPDDR4x-4266  
+512gb M.2 2280 PCIe 4.0 x4  
+16:10 display  
+endeavour os   
 
 **nova**  
 lenovo m720q tiny  
@@ -59,8 +71,7 @@ proxmox ve
 **ceres**  
 lenovo m720q tiny  
 i5-8400T  
-16GB   
-proxmox ve  
+16GB    
 
 **eris**  
 odroid h4+  
