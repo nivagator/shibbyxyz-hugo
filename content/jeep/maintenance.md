@@ -12,12 +12,11 @@ Date | Mileage | Oil | Filter | Miles | Months | Notes
 2023-02-25 | 137,175 | Conv 5w30 STP high mileage | Mopar M0-090 | 3,747 | 16 mo
 2023-09-22 | [139,086](../img/R70107-blackstone-20231018-redacted.webp) | Conv 5w30 STP high mileage | STP S16 | 1,911 | 7 mo | lifter tick?
 2025-01-04 | 143,048 | Conv 5w30 STP high mileage | Stp s16 | 3,962 | 16 mo
-? | 147,000 | | | | 
+2026-01-18 | 148,854 | Conv 5w30 STP high mileage | Stp s16 | 5,806 | 12 mo
 
 ### Parts on hand
 Part | Brand/No. | Retailer
 ---|---|---
-Radiator | CSF 3244 | Amazon
 Water Pump Inlet Tube | Dorman 56398 | Amazon
 Rear Main Seal | Fel-Pro BS 40183 | 
 Skid Nutserts | BMB | BMB
@@ -80,7 +79,10 @@ Mileage | date
 [142,000mi](../img/142000.jpg) | 2024-08-25
 [143,000mi](../img/143000.jpg) | 2024-12-19
 [144,000mi](../img/144000.jpg) | 2025-06-14
-[145,000mi](../img/145000.jpg) | 2025-07-30
+[145,000mi](../img/145000.jpg) | 2025-07-30 
+146,000mi | 2025-09-14
+147,000mi | 2025-10-18
+148,000mi | 2025-11-20
 
 ![montage](../img/mileagemontage.jpg)
 

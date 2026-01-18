@@ -24,7 +24,7 @@ tags: ['jeep']
 
 ## Todo List 
 - [tire rotation](#5-tire-rotation) at 147,000
-- [oil change](#engine-oil) at 144,086mi
+- [oil change](#engine-oil) at 152,000mi
 - [35s](../35s)
 - paint BL gap
 - skid nutsert replacement
