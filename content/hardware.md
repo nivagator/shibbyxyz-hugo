@@ -27,6 +27,7 @@ endeavour os
 *prior gpus*  
 [evga rtx 3080 ftw3](https://www.evga.com/products/specs/gpu.aspx?pn=e5875021-b582-4c3a-831a-e12bdaafe98f)    
 asrock challenger rx 7800 xt  
+Asus 1650 Super
 
 **galaxy**  
 ryzen 7 3700x  
