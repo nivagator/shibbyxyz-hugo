@@ -20,7 +20,7 @@ jobs:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       
       - name: Install Hugo
-        run: sudo snap install hugo
+        run: sudo apt install hugo
 
       - name: Build the website
         run: hugo --minify
