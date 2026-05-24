@@ -2,6 +2,10 @@ baseURL: 'http://shibby.xyz/'
 languageCode: 'en-us'
 title: 'shibby!'
 theme: 'lugo'
+
+Author:
+  name: "shibby"
+  email: "author@shibby.xyz"
 # menu:
 #     main:
 #     -   identifier: 'jeep'
