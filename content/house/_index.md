@@ -13,3 +13,4 @@ Date | Brand
 2024-07-13 | HDX FPR10 Black 
 2024-11-21 | HDX FPR10 Black 
 2025-06-19 | HDX FOR10 Black
+2026-05-24 | HDX FOR10 Black
