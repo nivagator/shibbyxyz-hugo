@@ -1,5 +1,5 @@
 ---
-title: "Accord Maintenance"
+title: "2014 Accord Maintenance"
 date: 2022-10-03T12:02:16-05:00
 ---
 
@@ -58,7 +58,8 @@ fluid - Honda Heavy Duty Brake Fluid DOT 3 3.3 US qt
 
 ## tires
 215/55R17 @ 33psi
-Continental Control Contact Tour A/S Plus
+Feb 2024 - Continental Control Contact Tour A/S Plus - 215 /50 R17 95V XL BSW - 2x - 700 A A
+May 2026 - Continental TrueContact Tour 54 - 215 /55 R17 94V SL BSW - 2x @ $173 ea - 840 A A
 
 ## transmission fluid
 HCF-2  
